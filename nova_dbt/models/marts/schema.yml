@@ -12,8 +12,6 @@ models:
         tests:
           - unique
           - not_null
-          # TODO [EKİP ARKADAŞI]: Referans bütünlüğü testi (relationships)
-          # Aşağıdaki test sehir kolonunun stg_sehir_avm modelinde var olduğunu doğrular:
           - relationships:
               arguments:
                 to: ref('stg_sehir_avm')
@@ -23,8 +21,6 @@ models:
         description: "Coğrafi bölge adı"
         tests:
           - not_null
-          # TODO [EKİP ARKADAŞI]: Geçerli değerler testi (accepted_values)
-          # Aşağıdaki test geçerli coğrafi bölgeleri sınar:
           - accepted_values:
               arguments:
                 values:
@@ -87,9 +83,3 @@ models:
 
       - name: kisi_basi_net_ciro
         description: "Şehir nüfusuna göre kişi başına düşen harcama (Penetrasyon KPI'ı)"
-
-# =============================================================================
-# TODO [EKİP ARKADAŞI]: DIM_MUSTERI VEYA DİĞER MARTS MODELLERİ İÇİN ŞEMA TANIMLARI
-# =============================================================================
-# Ekip arkadaşınız `stg_musteri` modelini geliştirdikten sonra veya `dim_musteri`
-# mart tablosu eklediğinde, ilgili modelin test ve açıklamalarını buraya ekleyecektir.

@@ -117,8 +117,18 @@ models:
         tests:
           - not_null
 
+      - name: bolge
+        description: "Müşterinin kayıtlı olduğu coğrafi bölge"
+        tests:
+          - not_null
+
       - name: toplam_siparis_sayisi
         description: "Müşterinin toplam sipariş sayısı"
+        tests:
+          - not_null
+
+      - name: toplam_urun_adedi
+        description: "Müşterinin satın aldığı toplam ürün miktarı"
         tests:
           - not_null
 
@@ -127,3 +137,15 @@ models:
         tests:
           - not_null
 
+      - name: ortalama_siparis_tutari
+        description: "Sipariş başına ortalama harcama tutarı"
+
+      - name: ilk_siparis_tarihi
+        description: "Müşterinin ilk alışveriş tarihi"
+        tests:
+          - not_null
+
+      - name: son_siparis_tarihi
+        description: "Müşterinin en son alışveriş tarihi"
+        tests:
+          - not_null
