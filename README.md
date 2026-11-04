@@ -162,14 +162,26 @@ dbt test
   dbt test
   ```
 
-### Adım 6: dbt Dokümantasyonu Üretme (Kılavuz Gereksinimi)
+### Adım 6: Dashboard'u Başlatma (Streamlit Arayüzü)
+Projenin görselleştirme katmanı (Bölüm 1 teslimatı) `app/app.py` üzerinde interaktif olarak hazırdır:
 ```bash
+streamlit run app/app.py
+```
+Tarayıcınızda açılan ekranda:
+- **KPI Kartları:** Toplam Net Ciro, Brüt Kâr, Kâr Marjı, Kapsanan AVM Sayısı ve Ortalama Sepet.
+- **İnteraktif Grafikler:** Şehir bazlı ciro/kâr, AVM sayısı vs. satış korelasyonu (Scatter), Bölgesel pasta dağılımı ve AVM başına verimlilik.
+- **Filtreler:** Coğrafi bölge, minimum AVM ve ciro dilimleyicileri.
+- **Dışa Aktarma:** Power BI veya Excel için CSV indirme butonu.
+
+### Adım 7: dbt Dokümantasyonu Üretme (Kılavuz Gereksinimi)
+```bash
+cd nova_dbt
 dbt docs generate
 dbt docs serve
 ```
 Tarayıcınızda açılan dbt kataloğunda veri soy ağacını (Lineage Graph: `raw_data` -> `stg_*` -> `fct_*`) inceleyip ekran görüntüsü alınız.
 
-### Adım 7: Değişiklikleri Commit ve Push Etme
+### Adım 8: Değişiklikleri Commit ve Push Etme
 Ders değerlendirmesinde commit geçmişiniz inceleneceği için anlamlı mesajlarla commit atınız:
 ```bash
 git status
