@@ -1,0 +1,35 @@
+version: 2
+
+sources:
+  - name: raw_data
+    description: "Ham veri kaynakları (NovaPerakende operasyonel verileri)"
+    meta:
+      external_location: "../data/{name}.csv"
+    tables:
+      - name: perakende_satis
+        description: "NovaPerakende ham sipariş ve satış hareketleri tablosu"
+        columns:
+          - name: SiparisID
+            description: "Benzersiz sipariş numarası"
+          - name: Tarih
+            description: "Sipariş tarihi (YYYY-MM-DD)"
+          - name: Musteri_ID
+            description: "Müşteri tekil tanımlayıcısı"
+          - name: Sehir
+            description: "Sipariş verilen il adı"
+          - name: Bolge
+            description: "Sipariş verilen coğrafi bölge"
+          - name: Kanal
+            description: "Satış kanalı (Online, Mağaza)"
+          - name: Kategori
+            description: "Ürün kategorisi"
+          - name: Urun
+            description: "Ürün adı"
+          - name: Miktar
+            description: "Satış adedi"
+          - name: BirimFiyat
+            description: "Birim satış tutarı (TL)"
+          - name: Maliyet
+            description: "Birim ürün maliyeti (TL)"
+          - name: IndirimOrani
+            description: "Uygulanan indirim oranı"

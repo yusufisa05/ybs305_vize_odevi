@@ -1,0 +1,129 @@
+version: 2
+
+models:
+  - name: stg_satis
+    description: "Temizlenmiş, tipleri dönüştürülmüş ve finansal metrikleri hesaplanmış NovaPerakende satış hareketleri staging modeli."
+    columns:
+      - name: siparis_id
+        description: "Benzersiz sipariş kodu (Primary Key)"
+        tests:
+          - unique
+          - not_null
+
+      - name: siparis_tarihi
+        description: "Siparişin verildiği işlem tarihi (DATE)"
+        tests:
+          - not_null
+
+      - name: musteri_id
+        description: "Siparişi veren müşterinin ID kodu"
+        tests:
+          - not_null
+
+      - name: sehir
+        description: "Normalize edilmiş küçük harfli sipariş şehri"
+        tests:
+          - not_null
+
+      - name: bolge
+        description: "Coğrafi bölge"
+        tests:
+          - not_null
+
+      - name: kanal
+        description: "Satış kanalı (online, mağaza)"
+        tests:
+          - not_null
+
+      - name: kategori
+        description: "Ürün ana kategorisi"
+        tests:
+          - not_null
+
+      - name: urun_adi
+        description: "Ürünün ticari adı"
+        tests:
+          - not_null
+
+      - name: miktar
+        description: "Satış adedi (Pozitif tam sayı)"
+        tests:
+          - not_null
+
+      - name: birim_fiyat
+        description: "Birim satış fiyatı"
+        tests:
+          - not_null
+
+      - name: maliyet
+        description: "Birim ürün maliyeti"
+        tests:
+          - not_null
+
+      - name: indirim_orani
+        description: "Satışta uygulanan indirim yüzdesi (0.0 - 1.0)"
+        tests:
+          - not_null
+
+      - name: brut_satis_tutari
+        description: "İndirim öncesi brüt satış tutarı (Miktar * BirimFiyat)"
+
+      - name: net_satis_tutari
+        description: "İndirim sonrası net ciro (Miktar * BirimFiyat * (1 - IndirimOrani))"
+        tests:
+          - not_null
+
+      - name: toplam_maliyet
+        description: "Satışa ait toplam maliyet (Miktar * Maliyet)"
+
+      - name: kar_tutari
+        description: "Elde edilen brüt kâr tutarı (Net Satış Tutarı - Toplam Maliyet)"
+
+  - name: stg_sehir_avm
+    description: "Şehir bazlı AVM sayısı ve nüfus verilerini normalize eden staging modeli."
+    columns:
+      - name: sehir
+        description: "Normalize edilmiş (LOWER + TRIM) il adı (Primary Key)"
+        tests:
+          - unique
+          - not_null
+
+      - name: bolge
+        description: "Coğrafi bölge adı (Normalize edilmiş)"
+        tests:
+          - not_null
+
+      - name: avm_sayisi
+        description: "Şehirdeki kayıtlı AVM sayısı"
+        tests:
+          - not_null
+
+      - name: nufus_tahmini
+        description: "Tahmini il nüfusu"
+        tests:
+          - not_null
+
+  - name: stg_musteri
+    description: "Müşteri bazında tekilleştirilmiş ve harcama özetleri hesaplanmış staging modeli."
+    columns:
+      - name: musteri_id
+        description: "Müşteri tekil numarası (Primary Key)"
+        tests:
+          - unique
+          - not_null
+
+      - name: sehir
+        description: "Müşterinin sipariş verdiği şehir"
+        tests:
+          - not_null
+
+      - name: toplam_siparis_sayisi
+        description: "Müşterinin toplam sipariş sayısı"
+        tests:
+          - not_null
+
+      - name: toplam_harcama
+        description: "Müşterinin toplam net harcaması"
+        tests:
+          - not_null
+

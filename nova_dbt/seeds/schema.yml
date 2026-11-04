@@ -1,0 +1,29 @@
+version: 2
+
+seeds:
+  - name: sehir_avm
+    description: "Dış kaynak veri seti: Türkiye'deki şehirlere ait AVM sayıları, coğrafi bölgeler ve tahmini nüfus bilgileri."
+    config:
+      column_types:
+        sehir: varchar
+        avm_sayisi: integer
+        bolge: varchar
+        nufus_tahmini: bigint
+    columns:
+      - name: sehir
+        description: "İl adı (Örn: Istanbul, Ankara, Izmir)"
+        tests:
+          - unique
+          - not_null
+      - name: avm_sayisi
+        description: "Şehirde faaliyet gösteren toplam AVM sayısı"
+        tests:
+          - not_null
+      - name: bolge
+        description: "Şehrin bağlı olduğu coğrafi bölge (Marmara, Ege, İç Anadolu vb.)"
+        tests:
+          - not_null
+      - name: nufus_tahmini
+        description: "Şehrin projeksiyon/tahmini nüfus sayısı"
+        tests:
+          - not_null

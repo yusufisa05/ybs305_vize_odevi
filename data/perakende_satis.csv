@@ -1,0 +1,2001 @@
+SiparisID,Tarih,Musteri_ID,Sehir,Bolge,Kanal,Kategori,Urun,Miktar,BirimFiyat,Maliyet,IndirimOrani
+SP100000,2024-10-29,M0045,Ankara,İç Anadolu,Online,Giyim,Tişört,3,1170,548.23,0.0
+SP100001,2024-11-11,M0118,İstanbul,Marmara,Online,Giyim,Tişört,1,170,71.68,0.2
+SP100002,2024-10-10,M0780,Bursa,Marmara,Online,Elektronik,Bluetooth Hoparlör,4,730,518.59,0.0
+SP100003,2024-08-02,M0264,İstanbul,Marmara,Mağaza,Ev & Yaşam,Mutfak Robotu,1,370,234.58,0.0
+SP100004,2024-02-19,M0336,Adana,Akdeniz,Mağaza,Kozmetik,Şampuan,4,140,56.2,0.05
+SP100005,2024-09-08,M0159,İstanbul,Marmara,Online,Kitap & Ofis,Defter Seti,4,50,27.73,0.0
+SP100006,2024-06-28,M0748,Adana,Akdeniz,Mağaza,Ev & Yaşam,Mutfak Robotu,4,2260,1420.87,0.0
+SP100007,2024-02-09,M0456,İstanbul,Marmara,Online,Ev & Yaşam,Yastık Seti,4,2460,1544.96,0.0
+SP100008,2024-06-22,M0349,Gaziantep,Güneydoğu,Mağaza,Ev & Yaşam,Mutfak Robotu,5,1650,1017.23,0.0
+SP100009,2024-12-13,M0636,Trabzon,Karadeniz,Mağaza,Giyim,Kazak,5,670,294.69,0.0
+SP100010,2024-09-15,M0265,İstanbul,Marmara,Online,Kozmetik,Cilt Bakım Seti,3,100,39.29,0.0
+SP100011,2024-05-22,M0708,Ankara,İç Anadolu,Online,Ev & Yaşam,Aydınlatma,3,2010,1308.41,0.05
+SP100012,2024-06-27,M0255,İstanbul,Marmara,Online,Elektronik,Bluetooth Hoparlör,2,2270,1664.92,0.1
+SP100013,2024-10-04,M0278,İstanbul,Marmara,Mağaza,Kozmetik,Makyaj Paleti,5,610,255.02,0.05
+SP100014,2024-05-09,M0795,İzmir,Ege,Online,Kozmetik,Makyaj Paleti,1,880,332.58,0.0
+SP100015,2024-12-30,M0142,Trabzon,Karadeniz,Mağaza,Kitap & Ofis,Roman,5,150,76.65,0.05
+SP100016,2024-11-14,M0003,İstanbul,Marmara,Mağaza,Giyim,Tişört,3,1150,512.04,0.4
+SP100017,2024-09-06,M0064,İstanbul,Marmara,Mağaza,Elektronik,Bluetooth Hoparlör,2,3910,2713.15,0.0
+SP100018,2024-03-23,M0592,Gaziantep,Güneydoğu,Mağaza,Elektronik,Kulaklık,3,2440,1681.29,0.0
+SP100019,2024-06-12,M0374,Konya,İç Anadolu,Mağaza,Giyim,Spor Ayakkabı,2,230,104.19,0.1
+SP100020,2024-12-11,M0648,Bursa,Marmara,Online,Elektronik,Powerbank,4,2600,1905.73,0.0
+SP100021,2024-05-02,M0513,Kocaeli,Marmara,Online,Giyim,Kazak,1,620,258.26,0.0
+SP100022,2024-10-03,M0490,Kocaeli,Marmara,Online,Elektronik,Akıllı Saat,4,3090,2178.92,0.0
+SP100023,2024-08-27,M0140,İstanbul,Marmara,Mağaza,Kozmetik,Makyaj Paleti,3,560,206.45,0.1
+SP100024,2024-01-18,M0286,Gaziantep,Güneydoğu,Online,Ev & Yaşam,Yastık Seti,5,960,620.98,0.1
+SP100025,2024-11-06,M0305,Ankara,İç Anadolu,Online,Ev & Yaşam,Aydınlatma,4,1770,1151.85,0.2
+SP100026,2024-08-16,M0268,Ankara,İç Anadolu,Mağaza,Kitap & Ofis,Kalem Kutusu,3,180,102.76,0.05
+SP100027,2024-11-29,M0621,Ankara,İç Anadolu,Online,Giyim,Spor Ayakkabı,1,600,271.37,0.2
+SP100028,2024-03-01,M0212,İstanbul,Marmara,Online,Elektronik,Akıllı Saat,2,1140,748.42,0.0
+SP100029,2024-01-16,M0451,Ankara,İç Anadolu,Online,Ev & Yaşam,Aydınlatma,1,920,538.49,0.0
+SP100030,2024-09-19,M0215,Trabzon,Karadeniz,Online,Giyim,Kazak,5,780,365.5,0.0
+SP100031,2024-11-14,M0489,Trabzon,Karadeniz,Online,Kozmetik,Şampuan,4,790,313.63,0.1
+SP100032,2024-02-23,M0558,Gaziantep,Güneydoğu,Mağaza,Giyim,Kazak,4,1260,579.58,0.05
+SP100033,2024-08-04,M0763,Trabzon,Karadeniz,Online,Elektronik,Bluetooth Hoparlör,2,890,594.88,0.0
+SP100034,2024-12-13,M0041,Kocaeli,Marmara,Online,Giyim,Kazak,3,1670,692.96,0.0
+SP100035,2024-10-05,M0557,Ankara,İç Anadolu,Mağaza,Ev & Yaşam,Aydınlatma,5,1260,793.52,0.05
+SP100036,2024-11-06,M0663,Antalya,Akdeniz,Online,Kitap & Ofis,Defter Seti,2,180,96.91,0.2
+SP100037,2024-03-23,M0353,Kocaeli,Marmara,Online,Ev & Yaşam,Yastık Seti,1,1190,705.09,0.0
+SP100038,2024-09-11,M0220,Bursa,Marmara,Mağaza,Giyim,Mont,4,1140,528.19,0.0
+SP100039,2024-08-15,M0531,Konya,İç Anadolu,Mağaza,Giyim,Kazak,3,1650,708.63,0.1
+SP100040,2024-04-25,M0187,Kocaeli,Marmara,Online,Elektronik,Bluetooth Hoparlör,1,1700,1218.84,0.0
+SP100041,2024-12-01,M0310,İstanbul,Marmara,Online,Elektronik,Kulaklık,3,740,480.68,0.1
+SP100042,2024-07-01,M0476,Adana,Akdeniz,Online,Elektronik,Kulaklık,5,1730,1228.24,0.0
+SP100043,2024-10-02,M0778,Gaziantep,Güneydoğu,Online,Giyim,Tişört,3,310,138.14,0.0
+SP100044,2024-07-02,M0783,İzmir,Ege,Online,Giyim,Spor Ayakkabı,1,1210,568.03,0.05
+SP100045,2024-10-17,M0329,Adana,Akdeniz,Mağaza,Kozmetik,Cilt Bakım Seti,5,710,265.13,0.0
+SP100046,2024-07-03,M0670,Konya,İç Anadolu,Mağaza,Giyim,Tişört,1,880,401.8,0.05
+SP100047,2024-02-14,M0110,Kocaeli,Marmara,Online,Kitap & Ofis,Roman,5,120,60.82,0.05
+SP100048,2024-12-20,M0193,Konya,İç Anadolu,Online,Giyim,Kazak,2,1430,646.58,0.1
+SP100049,2024-06-01,M0360,Kocaeli,Marmara,Mağaza,Giyim,Tişört,5,1650,726.93,0.05
+SP100050,2024-09-25,M0582,İstanbul,Marmara,Online,Elektronik,Powerbank,5,3840,2706.77,0.1
+SP100051,2024-03-29,M0193,İstanbul,Marmara,Online,Kitap & Ofis,Ajanda,1,100,55.08,0.0
+SP100052,2024-03-11,M0137,İstanbul,Marmara,Online,Ev & Yaşam,Aydınlatma,1,1060,614.53,0.0
+SP100053,2024-05-13,M0130,Konya,İç Anadolu,Mağaza,Kozmetik,Parfüm,4,450,179.86,0.0
+SP100054,2024-09-26,M0548,İstanbul,Marmara,Online,Elektronik,Akıllı Saat,5,970,649.28,0.1
+SP100055,2024-06-12,M0430,İzmir,Ege,Mağaza,Elektronik,Akıllı Saat,4,2370,1562.93,0.0
+SP100056,2024-12-17,M0020,İstanbul,Marmara,Online,Elektronik,Akıllı Saat,3,900,619.75,0.05
+SP100057,2024-03-05,M0378,İstanbul,Marmara,Online,Giyim,Tişört,1,240,106.15,0.0
+SP100058,2024-12-17,M0146,Gaziantep,Güneydoğu,Online,Ev & Yaşam,Aydınlatma,3,2430,1459.69,0.05
+SP100059,2024-01-19,M0680,Konya,İç Anadolu,Mağaza,Giyim,Tişört,5,1460,689.24,0.0
+SP100060,2024-06-02,M0329,İstanbul,Marmara,Online,Kozmetik,Cilt Bakım Seti,3,830,325.66,0.1
+SP100061,2024-12-04,M0299,Ankara,İç Anadolu,Online,Kozmetik,Cilt Bakım Seti,1,130,50.19,0.0
+SP100062,2024-11-24,M0621,İstanbul,Marmara,Mağaza,Ev & Yaşam,Mutfak Robotu,1,2360,1492.87,0.3
+SP100063,2024-10-06,M0594,İzmir,Ege,Online,Kozmetik,Parfüm,4,560,223.51,0.0
+SP100064,2024-06-26,M0450,İstanbul,Marmara,Online,Elektronik,Kulaklık,4,3650,2373.88,0.0
+SP100065,2024-05-12,M0657,Gaziantep,Güneydoğu,Mağaza,Elektronik,Akıllı Saat,2,1280,875.61,0.0
+SP100066,2024-11-08,M0451,İstanbul,Marmara,Online,Kozmetik,Parfüm,2,180,68.31,0.3
+SP100067,2024-12-30,M0249,Ankara,İç Anadolu,Online,Ev & Yaşam,Yastık Seti,4,220,140.9,0.0
+SP100068,2024-12-26,M0627,İstanbul,Marmara,Online,Giyim,Kazak,2,1370,622.17,0.0
+SP100069,2024-08-12,M0656,İzmir,Ege,Online,Ev & Yaşam,Kahve Makinesi,5,1880,1197.99,0.0
+SP100070,2024-12-31,M0375,Trabzon,Karadeniz,Online,Giyim,Tişört,3,1620,686.42,0.0
+SP100071,2024-12-20,M0513,Gaziantep,Güneydoğu,Online,Elektronik,Powerbank,3,1980,1319.01,0.0
+SP100072,2024-05-07,M0587,Adana,Akdeniz,Mağaza,Ev & Yaşam,Mutfak Robotu,5,2150,1363.72,0.1
+SP100073,2024-10-16,M0129,İstanbul,Marmara,Online,Ev & Yaşam,Kahve Makinesi,5,2440,1454.38,0.05
+SP100074,2024-08-08,M0426,İstanbul,Marmara,Online,Kozmetik,Parfüm,4,120,50.04,0.0
+SP100075,2024-07-03,M0099,Ankara,İç Anadolu,Mağaza,Giyim,Kazak,3,210,91.83,0.0
+SP100076,2024-04-01,M0083,İstanbul,Marmara,Mağaza,Kozmetik,Parfüm,1,450,176.34,0.0
+SP100077,2024-11-06,M0437,İzmir,Ege,Mağaza,Giyim,Spor Ayakkabı,3,580,250.04,0.1
+SP100078,2024-11-27,M0705,İstanbul,Marmara,Online,Elektronik,Akıllı Saat,1,3240,2291.9,0.1
+SP100079,2024-01-21,M0621,Kocaeli,Marmara,Online,Giyim,Mont,5,950,439.08,0.0
+SP100080,2024-07-23,M0316,Kocaeli,Marmara,Online,Giyim,Tişört,3,990,453.11,0.0
+SP100081,2024-12-01,M0168,İstanbul,Marmara,Online,Kozmetik,Makyaj Paleti,4,160,65.59,0.0
+SP100082,2024-04-09,M0048,Ankara,İç Anadolu,Online,Giyim,Kazak,3,520,231.1,0.0
+SP100083,2024-03-11,M0606,İstanbul,Marmara,Mağaza,Kozmetik,Makyaj Paleti,4,130,50.37,0.0
+SP100084,2024-08-11,M0558,Ankara,İç Anadolu,Mağaza,Elektronik,Akıllı Saat,2,1310,898.11,0.15
+SP100085,2024-11-13,M0534,Adana,Akdeniz,Online,Elektronik,Akıllı Saat,2,2720,1856.17,0.2
+SP100086,2024-10-20,M0164,İstanbul,Marmara,Online,Giyim,Spor Ayakkabı,4,870,399.32,0.15
+SP100087,2024-11-08,M0276,Kocaeli,Marmara,Online,Kitap & Ofis,Ajanda,2,180,92.19,0.1
+SP100088,2024-08-11,M0698,İstanbul,Marmara,Online,Elektronik,Akıllı Saat,2,3400,2239.4,0.0
+SP100089,2024-09-21,M0107,İzmir,Ege,Mağaza,Giyim,Spor Ayakkabı,3,1080,468.67,0.0
+SP100090,2024-11-10,M0524,Ankara,İç Anadolu,Online,Elektronik,Kulaklık,5,1870,1281.47,0.1
+SP100091,2024-05-17,M0133,Ankara,İç Anadolu,Online,Elektronik,Bluetooth Hoparlör,2,2280,1609.96,0.15
+SP100092,2024-11-02,M0484,Kocaeli,Marmara,Online,Elektronik,Akıllı Saat,4,1010,679.67,0.2
+SP100093,2024-12-16,M0391,Ankara,İç Anadolu,Mağaza,Elektronik,Kulaklık,3,3760,2758.82,0.0
+SP100094,2024-09-24,M0332,Gaziantep,Güneydoğu,Mağaza,Ev & Yaşam,Mutfak Robotu,2,1040,601.43,0.0
+SP100095,2024-07-04,M0411,Ankara,İç Anadolu,Online,Elektronik,Powerbank,1,1050,722.37,0.0
+SP100096,2024-12-23,M0113,Konya,İç Anadolu,Mağaza,Giyim,Mont,2,840,347.81,0.0
+SP100097,2024-11-25,M0093,İstanbul,Marmara,Online,Ev & Yaşam,Aydınlatma,1,500,285.3,0.2
+SP100098,2024-10-09,M0677,İstanbul,Marmara,Online,Giyim,Tişört,2,620,261.03,0.0
+SP100099,2024-11-07,M0325,İstanbul,Marmara,Mağaza,Kozmetik,Makyaj Paleti,3,860,356.94,0.2
+SP100100,2024-09-05,M0605,Trabzon,Karadeniz,Mağaza,Ev & Yaşam,Kahve Makinesi,3,1120,693.06,0.0
+SP100101,2024-11-13,M0356,İzmir,Ege,Online,Elektronik,Powerbank,1,1880,1250.4,0.1
+SP100102,2024-07-04,M0693,Antalya,Akdeniz,Online,Ev & Yaşam,Kahve Makinesi,4,1940,1217.22,0.05
+SP100103,2024-05-29,M0009,Bursa,Marmara,Mağaza,Giyim,Mont,2,1450,621.36,0.0
+SP100104,2024-11-01,M0155,İstanbul,Marmara,Online,Elektronik,Powerbank,3,1060,752.58,0.3
+SP100105,2024-12-15,M0578,Ankara,İç Anadolu,Online,Kozmetik,Şampuan,1,740,291.55,0.05
+SP100106,2024-10-24,M0538,İstanbul,Marmara,Mağaza,Giyim,Mont,4,1670,750.85,0.0
+SP100107,2024-12-02,M0146,Ankara,İç Anadolu,Online,Giyim,Spor Ayakkabı,1,850,396.56,0.0
+SP100108,2024-05-10,M0088,İstanbul,Marmara,Mağaza,Giyim,Tişört,4,1260,584.07,0.0
+SP100109,2024-06-13,M0797,İstanbul,Marmara,Mağaza,Ev & Yaşam,Yastık Seti,1,1980,1217.28,0.05
+SP100110,2024-11-01,M0689,İzmir,Ege,Mağaza,Kitap & Ofis,Kalem Kutusu,4,130,73.8,0.2
+SP100111,2024-06-22,M0115,Adana,Akdeniz,Mağaza,Ev & Yaşam,Mutfak Robotu,2,230,148.16,0.0
+SP100112,2024-06-10,M0478,Ankara,İç Anadolu,Online,Elektronik,Akıllı Saat,2,2690,1742.54,0.0
+SP100113,2024-10-29,M0566,Konya,İç Anadolu,Online,Giyim,Spor Ayakkabı,4,1080,468.17,0.05
+SP100114,2024-02-09,M0050,İstanbul,Marmara,Online,Kozmetik,Parfüm,1,840,324.27,0.0
+SP100115,2024-11-27,M0527,Gaziantep,Güneydoğu,Online,Ev & Yaşam,Mutfak Robotu,5,320,185.6,0.2
+SP100116,2024-10-05,M0557,İstanbul,Marmara,Mağaza,Kozmetik,Makyaj Paleti,3,680,279.34,0.0
+SP100117,2024-12-30,M0366,İstanbul,Marmara,Mağaza,Giyim,Kazak,2,1440,674.16,0.0
+SP100118,2024-12-08,M0606,İstanbul,Marmara,Mağaza,Ev & Yaşam,Aydınlatma,5,1380,851.45,0.0
+SP100119,2024-12-21,M0145,Trabzon,Karadeniz,Mağaza,Elektronik,Powerbank,4,2000,1335.99,0.0
+SP100120,2024-04-25,M0151,İstanbul,Marmara,Online,Elektronik,Bluetooth Hoparlör,2,2650,1889.91,0.15
+SP100121,2024-09-13,M0125,Ankara,İç Anadolu,Online,Ev & Yaşam,Yastık Seti,1,900,529.5,0.0
+SP100122,2024-03-28,M0262,İstanbul,Marmara,Online,Kitap & Ofis,Kalem Kutusu,3,40,22.92,0.0
+SP100123,2024-01-24,M0721,İstanbul,Marmara,Mağaza,Elektronik,Kulaklık,5,2180,1485.02,0.1
+SP100124,2024-11-18,M0413,Konya,İç Anadolu,Online,Kozmetik,Şampuan,5,530,196.27,0.4
+SP100125,2024-09-17,M0638,İzmir,Ege,Online,Ev & Yaşam,Mutfak Robotu,2,1910,1163.03,0.05
+SP100126,2024-07-05,M0262,İstanbul,Marmara,Online,Elektronik,Bluetooth Hoparlör,5,2560,1735.58,0.05
+SP100127,2024-07-08,M0357,Ankara,İç Anadolu,Online,Elektronik,Akıllı Saat,5,2460,1704.83,0.15
+SP100128,2024-04-23,M0312,Trabzon,Karadeniz,Online,Giyim,Spor Ayakkabı,1,590,249.82,0.0
+SP100129,2024-09-16,M0439,Antalya,Akdeniz,Mağaza,Elektronik,Kulaklık,2,2270,1574.77,0.0
+SP100130,2024-02-07,M0196,Ankara,İç Anadolu,Online,Ev & Yaşam,Kahve Makinesi,3,1450,830.98,0.0
+SP100131,2024-11-13,M0351,İstanbul,Marmara,Mağaza,Kozmetik,Şampuan,3,560,215.54,0.2
+SP100132,2024-04-08,M0486,Ankara,İç Anadolu,Mağaza,Ev & Yaşam,Yastık Seti,1,330,213.45,0.0
+SP100133,2024-11-18,M0508,İstanbul,Marmara,Online,Ev & Yaşam,Aydınlatma,3,200,118.62,0.4
+SP100134,2024-11-04,M0558,Gaziantep,Güneydoğu,Mağaza,Giyim,Tişört,4,1470,694.43,0.4
+SP100135,2024-05-02,M0585,İzmir,Ege,Mağaza,Kozmetik,Cilt Bakım Seti,3,880,336.51,0.0
+SP100136,2024-10-21,M0601,İstanbul,Marmara,Online,Ev & Yaşam,Mutfak Robotu,3,1300,792.62,0.0
+SP100137,2024-12-16,M0235,Konya,İç Anadolu,Online,Kozmetik,Şampuan,5,790,318.38,0.0
+SP100138,2024-10-10,M0208,Bursa,Marmara,Online,Giyim,Kazak,5,440,204.9,0.0
+SP100139,2024-05-30,M0556,Kocaeli,Marmara,Online,Giyim,Tişört,5,920,422.56,0.0
+SP100140,2024-08-13,M0588,Trabzon,Karadeniz,Mağaza,Elektronik,Kulaklık,3,2870,2103.91,0.1
+SP100141,2024-08-24,M0467,İstanbul,Marmara,Mağaza,Ev & Yaşam,Mutfak Robotu,3,700,453.01,0.05
+SP100142,2024-09-21,M0267,Ankara,İç Anadolu,Online,Elektronik,Powerbank,4,1470,981.89,0.05
+SP100143,2024-02-16,M0370,Gaziantep,Güneydoğu,Online,Giyim,Kazak,5,1370,577.86,0.0
+SP100144,2024-10-30,M0257,İstanbul,Marmara,Online,Ev & Yaşam,Mutfak Robotu,4,1190,683.69,0.0
+SP100145,2024-05-09,M0701,Ankara,İç Anadolu,Online,Ev & Yaşam,Kahve Makinesi,2,1660,1006.68,0.0
+SP100146,2024-05-27,M0605,İstanbul,Marmara,Online,Ev & Yaşam,Kahve Makinesi,1,1040,606.96,0.1
+SP100147,2024-03-24,M0485,İstanbul,Marmara,Online,Elektronik,Akıllı Saat,1,2300,1586.14,0.0
+SP100148,2024-05-18,M0690,İstanbul,Marmara,Mağaza,Elektronik,Kulaklık,1,2880,2078.37,0.0
+SP100149,2024-11-21,M0581,Gaziantep,Güneydoğu,Online,Ev & Yaşam,Mutfak Robotu,4,660,401.25,0.3
+SP100150,2024-05-05,M0751,İstanbul,Marmara,Online,Kozmetik,Parfüm,5,660,276.99,0.0
+SP100151,2024-07-14,M0464,Trabzon,Karadeniz,Mağaza,Giyim,Kazak,3,400,176.77,0.05
+SP100152,2024-01-10,M0329,Kocaeli,Marmara,Online,Elektronik,Powerbank,1,2070,1418.29,0.05
+SP100153,2024-01-16,M0608,İstanbul,Marmara,Mağaza,Giyim,Mont,2,1290,571.49,0.1
+SP100154,2024-07-05,M0106,İstanbul,Marmara,Online,Giyim,Kazak,4,760,351.86,0.0
+SP100155,2024-10-16,M0465,İstanbul,Marmara,Mağaza,Elektronik,Kulaklık,5,1970,1278.4,0.0
+SP100156,2024-10-09,M0062,İstanbul,Marmara,Online,Kitap & Ofis,Ajanda,5,130,71.35,0.0
+SP100157,2024-06-27,M0548,Gaziantep,Güneydoğu,Mağaza,Elektronik,Powerbank,4,1090,742.3,0.05
+SP100158,2024-08-17,M0538,İzmir,Ege,Online,Elektronik,Akıllı Saat,5,2540,1702.53,0.0
+SP100159,2024-11-26,M0417,İstanbul,Marmara,Online,Ev & Yaşam,Kahve Makinesi,3,1500,912.63,0.1
+SP100160,2024-08-18,M0328,Bursa,Marmara,Mağaza,Ev & Yaşam,Aydınlatma,1,1070,645.15,0.1
+SP100161,2024-11-08,M0257,Antalya,Akdeniz,Online,Ev & Yaşam,Yastık Seti,5,2180,1391.64,0.2
+SP100162,2024-12-17,M0048,İzmir,Ege,Mağaza,Giyim,Mont,3,640,270.97,0.0
+SP100163,2024-11-18,M0333,İstanbul,Marmara,Online,Elektronik,Kulaklık,2,3710,2460.31,0.2
+SP100164,2024-03-24,M0636,Bursa,Marmara,Online,Elektronik,Akıllı Saat,4,3920,2680.77,0.0
+SP100165,2024-04-04,M0103,Ankara,İç Anadolu,Mağaza,Kozmetik,Makyaj Paleti,4,230,86.92,0.0
+SP100166,2024-10-10,M0145,İstanbul,Marmara,Online,Kitap & Ofis,Ajanda,3,150,80.63,0.0
+SP100167,2024-03-24,M0086,İstanbul,Marmara,Online,Ev & Yaşam,Kahve Makinesi,3,1350,770.97,0.1
+SP100168,2024-09-03,M0235,Ankara,İç Anadolu,Online,Kitap & Ofis,Ajanda,2,180,100.69,0.0
+SP100169,2024-08-04,M0604,Bursa,Marmara,Online,Ev & Yaşam,Yastık Seti,4,2410,1407.26,0.1
+SP100170,2024-09-14,M0432,İzmir,Ege,Online,Elektronik,Kulaklık,5,590,420.64,0.0
+SP100171,2024-05-31,M0756,Trabzon,Karadeniz,Online,Giyim,Spor Ayakkabı,1,190,82.74,0.1
+SP100172,2024-03-14,M0059,Bursa,Marmara,Online,Ev & Yaşam,Kahve Makinesi,1,240,141.14,0.0
+SP100173,2024-03-01,M0645,İzmir,Ege,Mağaza,Kitap & Ofis,Kalem Kutusu,4,300,154.23,0.1
+SP100174,2024-04-23,M0146,Ankara,İç Anadolu,Mağaza,Elektronik,Kulaklık,4,2820,1897.19,0.0
+SP100175,2024-05-12,M0069,İstanbul,Marmara,Mağaza,Giyim,Kazak,3,280,127.09,0.15
+SP100176,2024-11-10,M0547,Gaziantep,Güneydoğu,Online,Giyim,Kazak,4,980,427.1,0.4
+SP100177,2024-03-27,M0427,İstanbul,Marmara,Online,Elektronik,Bluetooth Hoparlör,2,700,502.52,0.0
+SP100178,2024-02-03,M0433,Adana,Akdeniz,Online,Giyim,Spor Ayakkabı,4,1420,668.4,0.15
+SP100179,2024-07-13,M0771,Adana,Akdeniz,Online,Giyim,Spor Ayakkabı,5,1220,555.86,0.0
+SP100180,2024-02-21,M0312,İstanbul,Marmara,Online,Giyim,Kazak,2,840,359.91,0.0
+SP100181,2024-10-16,M0732,Gaziantep,Güneydoğu,Online,Giyim,Kazak,3,1750,820.69,0.0
+SP100182,2024-11-12,M0465,İzmir,Ege,Online,Kozmetik,Makyaj Paleti,3,130,53.85,0.2
+SP100183,2024-02-03,M0271,İstanbul,Marmara,Mağaza,Elektronik,Akıllı Saat,3,1100,791.08,0.0
+SP100184,2024-12-19,M0137,İstanbul,Marmara,Mağaza,Giyim,Tişört,2,1150,520.47,0.0
+SP100185,2024-05-26,M0656,Antalya,Akdeniz,Mağaza,Kozmetik,Cilt Bakım Seti,5,230,93.72,0.05
+SP100186,2024-09-07,M0314,Antalya,Akdeniz,Online,Giyim,Spor Ayakkabı,4,780,362.6,0.0
+SP100187,2024-02-06,M0672,Antalya,Akdeniz,Online,Elektronik,Kulaklık,5,2020,1479.44,0.0
+SP100188,2024-06-22,M0301,İstanbul,Marmara,Mağaza,Elektronik,Kulaklık,1,940,665.06,0.05
+SP100189,2024-04-14,M0046,Konya,İç Anadolu,Mağaza,Kozmetik,Parfüm,2,870,362.07,0.0
+SP100190,2024-09-26,M0527,Konya,İç Anadolu,Online,Ev & Yaşam,Aydınlatma,4,2320,1495.84,0.0
+SP100191,2024-10-16,M0634,Ankara,İç Anadolu,Mağaza,Elektronik,Kulaklık,3,2200,1551.92,0.0
+SP100192,2024-10-08,M0177,Adana,Akdeniz,Online,Ev & Yaşam,Aydınlatma,3,240,144.43,0.0
+SP100193,2024-11-26,M0613,İstanbul,Marmara,Online,Giyim,Spor Ayakkabı,5,340,143.7,0.4
+SP100194,2024-08-30,M0772,Antalya,Akdeniz,Online,Giyim,Spor Ayakkabı,5,670,303.65,0.0
+SP100195,2024-04-14,M0516,Antalya,Akdeniz,Online,Kozmetik,Cilt Bakım Seti,5,810,312.49,0.0
+SP100196,2024-10-11,M0140,Kocaeli,Marmara,Online,Kozmetik,Cilt Bakım Seti,3,360,132.5,0.1
+SP100197,2024-11-14,M0654,İstanbul,Marmara,Online,Elektronik,Akıllı Saat,4,1610,1134.65,0.2
+SP100198,2024-08-15,M0377,Ankara,İç Anadolu,Online,Elektronik,Akıllı Saat,5,1010,722.67,0.0
+SP100199,2024-03-25,M0367,Ankara,İç Anadolu,Mağaza,Elektronik,Kulaklık,3,1320,964.01,0.0
+SP100200,2024-12-19,M0107,İstanbul,Marmara,Online,Kozmetik,Parfüm,5,510,193.04,0.05
+SP100201,2024-03-15,M0532,Bursa,Marmara,Online,Giyim,Spor Ayakkabı,5,710,313.97,0.0
+SP100202,2024-11-08,M0425,Trabzon,Karadeniz,Online,Ev & Yaşam,Kahve Makinesi,3,1660,1077.16,0.3
+SP100203,2024-11-03,M0160,Gaziantep,Güneydoğu,Mağaza,Elektronik,Kulaklık,1,1170,848.67,0.3
+SP100204,2024-11-19,M0622,İzmir,Ege,Online,Kitap & Ofis,Defter Seti,1,190,103.59,0.1
+SP100205,2024-08-16,M0260,Gaziantep,Güneydoğu,Mağaza,Giyim,Tişört,5,490,211.35,0.1
+SP100206,2024-03-10,M0292,Ankara,İç Anadolu,Online,Kozmetik,Makyaj Paleti,2,260,108.28,0.05
+SP100207,2024-08-31,M0574,İstanbul,Marmara,Online,Ev & Yaşam,Aydınlatma,2,1650,992.59,0.0
+SP100208,2024-11-26,M0296,İzmir,Ege,Online,Giyim,Spor Ayakkabı,3,1180,550.52,0.2
+SP100209,2024-11-10,M0384,Adana,Akdeniz,Mağaza,Giyim,Tişört,5,1300,553.15,0.2
+SP100210,2024-11-06,M0583,İstanbul,Marmara,Mağaza,Elektronik,Bluetooth Hoparlör,3,2630,1870.87,0.2
+SP100211,2024-06-25,M0412,Gaziantep,Güneydoğu,Online,Giyim,Kazak,3,1490,658.07,0.0
+SP100212,2024-07-28,M0532,İstanbul,Marmara,Mağaza,Giyim,Mont,3,300,139.03,0.0
+SP100213,2024-05-18,M0251,İstanbul,Marmara,Online,Ev & Yaşam,Yastık Seti,5,1350,814.45,0.15
+SP100214,2024-05-11,M0155,Kocaeli,Marmara,Mağaza,Giyim,Spor Ayakkabı,4,1480,687.91,0.05
+SP100215,2024-12-20,M0626,İzmir,Ege,Mağaza,Ev & Yaşam,Aydınlatma,5,1690,1011.14,0.0
+SP100216,2024-09-14,M0199,İzmir,Ege,Mağaza,Giyim,Kazak,3,890,406.21,0.1
+SP100217,2024-10-12,M0086,İstanbul,Marmara,Online,Ev & Yaşam,Yastık Seti,2,1800,1042.65,0.0
+SP100218,2024-12-21,M0543,Ankara,İç Anadolu,Online,Kozmetik,Parfüm,2,750,291.55,0.0
+SP100219,2024-03-28,M0656,İstanbul,Marmara,Online,Kitap & Ofis,Ajanda,5,90,50.54,0.15
+SP100220,2024-11-04,M0093,Bursa,Marmara,Online,Giyim,Mont,4,570,247.89,0.2
+SP100221,2024-03-11,M0221,Gaziantep,Güneydoğu,Online,Kozmetik,Parfüm,2,850,335.61,0.1
+SP100222,2024-07-24,M0522,İstanbul,Marmara,Online,Kozmetik,Şampuan,5,450,186.89,0.1
+SP100223,2024-06-03,M0600,İzmir,Ege,Mağaza,Elektronik,Powerbank,2,3300,2193.69,0.0
+SP100224,2024-03-15,M0741,Bursa,Marmara,Online,Ev & Yaşam,Kahve Makinesi,5,400,242.45,0.0
+SP100225,2024-07-27,M0474,Kocaeli,Marmara,Online,Ev & Yaşam,Mutfak Robotu,4,1290,818.41,0.0
+SP100226,2024-06-08,M0335,İstanbul,Marmara,Mağaza,Kozmetik,Parfüm,3,380,141.26,0.0
+SP100227,2024-09-12,M0531,İzmir,Ege,Online,Elektronik,Akıllı Saat,3,1350,940.12,0.0
+SP100228,2024-10-07,M0250,Ankara,İç Anadolu,Online,Giyim,Spor Ayakkabı,2,1630,723.12,0.0
+SP100229,2024-08-05,M0660,Adana,Akdeniz,Mağaza,Giyim,Tişört,1,710,300.19,0.0
+SP100230,2024-06-14,M0652,Konya,İç Anadolu,Mağaza,Kozmetik,Parfüm,2,470,188.29,0.15
+SP100231,2024-12-05,M0352,Adana,Akdeniz,Online,Elektronik,Powerbank,4,1830,1275.5,0.1
+SP100232,2024-06-27,M0362,İstanbul,Marmara,Online,Giyim,Spor Ayakkabı,5,500,208.45,0.0
+SP100233,2024-03-09,M0259,İstanbul,Marmara,Mağaza,Ev & Yaşam,Aydınlatma,5,1520,971.02,0.0
+SP100234,2024-08-21,M0269,Antalya,Akdeniz,Mağaza,Kozmetik,Makyaj Paleti,4,730,280.19,0.0
+SP100235,2024-06-26,M0673,İstanbul,Marmara,Online,Ev & Yaşam,Aydınlatma,5,1850,1097.51,0.0
+SP100236,2024-12-22,M0101,İstanbul,Marmara,Mağaza,Giyim,Mont,5,1800,754.03,0.05
+SP100237,2024-10-30,M0036,İstanbul,Marmara,Mağaza,Elektronik,Akıllı Saat,5,3630,2507.91,0.0
+SP100238,2024-06-15,M0415,İstanbul,Marmara,Mağaza,Kitap & Ofis,Ajanda,2,330,168.55,0.05
+SP100239,2024-06-21,M0115,İstanbul,Marmara,Mağaza,Giyim,Kazak,5,1310,547.43,0.15
+SP100240,2024-10-24,M0548,İstanbul,Marmara,Online,Kozmetik,Makyaj Paleti,1,610,248.76,0.0
+SP100241,2024-12-01,M0099,İstanbul,Marmara,Online,Giyim,Kazak,2,450,209.74,0.0
+SP100242,2024-11-11,M0115,Kocaeli,Marmara,Online,Kozmetik,Şampuan,5,860,359.19,0.4
+SP100243,2024-04-18,M0504,İstanbul,Marmara,Online,Giyim,Tişört,3,400,169.45,0.1
+SP100244,2024-10-09,M0080,İstanbul,Marmara,Mağaza,Giyim,Kazak,5,1040,434.03,0.0
+SP100245,2024-09-15,M0400,İzmir,Ege,Mağaza,Elektronik,Bluetooth Hoparlör,5,830,608.98,0.0
+SP100246,2024-04-25,M0035,İstanbul,Marmara,Online,Ev & Yaşam,Kahve Makinesi,2,1060,623.45,0.05
+SP100247,2024-08-08,M0568,İstanbul,Marmara,Mağaza,Giyim,Kazak,5,1610,727.38,0.05
+SP100248,2024-11-12,M0569,İstanbul,Marmara,Online,Ev & Yaşam,Aydınlatma,4,1520,979.3,0.4
+SP100249,2024-07-08,M0525,İstanbul,Marmara,Online,Giyim,Spor Ayakkabı,4,570,239.12,0.05
+SP100250,2024-11-07,M0101,Bursa,Marmara,Online,Ev & Yaşam,Mutfak Robotu,4,1920,1153.58,0.3
+SP100251,2024-04-27,M0571,İstanbul,Marmara,Online,Elektronik,Bluetooth Hoparlör,5,3450,2320.31,0.05
+SP100252,2024-11-29,M0610,Adana,Akdeniz,Mağaza,Giyim,Spor Ayakkabı,1,510,227.73,0.1
+SP100253,2024-10-23,M0699,İstanbul,Marmara,Online,Elektronik,Bluetooth Hoparlör,2,1960,1355.76,0.0
+SP100254,2024-11-27,M0750,İstanbul,Marmara,Online,Kitap & Ofis,Kalem Kutusu,2,210,109.04,0.3
+SP100255,2024-12-18,M0324,Trabzon,Karadeniz,Mağaza,Elektronik,Bluetooth Hoparlör,3,3880,2708.1,0.05
+SP100256,2024-06-08,M0333,İstanbul,Marmara,Online,Giyim,Kazak,3,1210,505.86,0.0
+SP100257,2024-04-05,M0751,İstanbul,Marmara,Mağaza,Kozmetik,Makyaj Paleti,4,490,204.52,0.0
+SP100258,2024-02-06,M0511,İstanbul,Marmara,Online,Ev & Yaşam,Aydınlatma,5,2100,1249.33,0.0
+SP100259,2024-09-12,M0055,Trabzon,Karadeniz,Online,Ev & Yaşam,Aydınlatma,2,2000,1186.86,0.0
+SP100260,2024-01-15,M0597,Gaziantep,Güneydoğu,Online,Giyim,Tişört,2,420,179.75,0.0
+SP100261,2024-08-20,M0617,Konya,İç Anadolu,Online,Ev & Yaşam,Aydınlatma,3,510,298.74,0.1
+SP100262,2024-09-09,M0740,Ankara,İç Anadolu,Mağaza,Kozmetik,Makyaj Paleti,3,830,311.35,0.1
+SP100263,2024-04-24,M0176,İstanbul,Marmara,Mağaza,Kozmetik,Parfüm,4,450,184.15,0.0
+SP100264,2024-07-16,M0119,İstanbul,Marmara,Online,Elektronik,Akıllı Saat,4,2010,1327.72,0.0
+SP100265,2024-12-24,M0750,Ankara,İç Anadolu,Online,Kitap & Ofis,Defter Seti,5,210,116.71,0.0
+SP100266,2024-11-05,M0756,Ankara,İç Anadolu,Online,Elektronik,Bluetooth Hoparlör,3,510,371.94,0.3
+SP100267,2024-04-03,M0273,İstanbul,Marmara,Mağaza,Giyim,Kazak,2,1470,645.82,0.1
+SP100268,2024-12-20,M0385,İzmir,Ege,Mağaza,Elektronik,Kulaklık,3,1920,1358.6,0.0
+SP100269,2024-07-19,M0293,Konya,İç Anadolu,Online,Ev & Yaşam,Aydınlatma,3,490,310.86,0.0
+SP100270,2024-12-06,M0161,İstanbul,Marmara,Online,Ev & Yaşam,Yastık Seti,4,2210,1348.93,0.15
+SP100271,2024-07-08,M0392,İstanbul,Marmara,Online,Elektronik,Kulaklık,3,1660,1177.0,0.1
+SP100272,2024-08-19,M0309,Ankara,İç Anadolu,Online,Kozmetik,Makyaj Paleti,3,760,314.22,0.0
+SP100273,2024-04-07,M0765,Konya,İç Anadolu,Online,Elektronik,Bluetooth Hoparlör,5,1220,803.32,0.1
+SP100274,2024-07-16,M0017,Kocaeli,Marmara,Online,Elektronik,Powerbank,4,970,704.86,0.05
+SP100275,2024-11-25,M0551,Kocaeli,Marmara,Online,Ev & Yaşam,Mutfak Robotu,1,1310,761.78,0.1
+SP100276,2024-07-10,M0272,İzmir,Ege,Online,Elektronik,Powerbank,5,860,592.83,0.0
+SP100277,2024-09-21,M0484,İzmir,Ege,Mağaza,Ev & Yaşam,Mutfak Robotu,3,940,576.31,0.0
+SP100278,2024-11-18,M0144,Ankara,İç Anadolu,Mağaza,Elektronik,Bluetooth Hoparlör,4,700,483.58,0.3
+SP100279,2024-12-21,M0120,İstanbul,Marmara,Online,Elektronik,Akıllı Saat,4,3590,2621.54,0.15
+SP100280,2024-07-19,M0013,İstanbul,Marmara,Mağaza,Ev & Yaşam,Mutfak Robotu,5,2230,1282.68,0.05
+SP100281,2024-08-23,M0715,Kocaeli,Marmara,Online,Elektronik,Bluetooth Hoparlör,3,3220,2155.88,0.0
+SP100282,2024-03-04,M0645,İstanbul,Marmara,Online,Kozmetik,Cilt Bakım Seti,4,410,155.16,0.05
+SP100283,2024-11-25,M0073,Antalya,Akdeniz,Mağaza,Elektronik,Powerbank,2,800,534.08,0.2
+SP100284,2024-05-19,M0420,İstanbul,Marmara,Online,Kozmetik,Cilt Bakım Seti,4,530,204.31,0.0
+SP100285,2024-02-24,M0050,Gaziantep,Güneydoğu,Online,Ev & Yaşam,Kahve Makinesi,4,880,571.05,0.0
+SP100286,2024-07-03,M0443,Trabzon,Karadeniz,Online,Kozmetik,Parfüm,3,360,145.13,0.15
+SP100287,2024-04-03,M0241,Adana,Akdeniz,Mağaza,Kozmetik,Parfüm,2,540,209.59,0.05
+SP100288,2024-05-16,M0152,Kocaeli,Marmara,Online,Giyim,Tişört,2,480,209.87,0.05
+SP100289,2024-12-13,M0437,Konya,İç Anadolu,Online,Ev & Yaşam,Kahve Makinesi,1,890,555.8,0.0
+SP100290,2024-09-09,M0667,Ankara,İç Anadolu,Mağaza,Elektronik,Bluetooth Hoparlör,3,2240,1532.86,0.0
+SP100291,2024-07-01,M0330,Ankara,İç Anadolu,Online,Elektronik,Bluetooth Hoparlör,2,510,329.47,0.0
+SP100292,2024-11-22,M0378,Konya,İç Anadolu,Online,Giyim,Kazak,5,760,328.56,0.2
+SP100293,2024-09-12,M0297,İstanbul,Marmara,Online,Kitap & Ofis,Roman,3,340,183.19,0.0
+SP100294,2024-12-30,M0597,İzmir,Ege,Mağaza,Kozmetik,Parfüm,3,180,66.54,0.05
+SP100295,2024-06-12,M0237,Antalya,Akdeniz,Online,Giyim,Kazak,1,1000,460.99,0.0
+SP100296,2024-11-15,M0596,İstanbul,Marmara,Online,Elektronik,Akıllı Saat,2,2980,1996.47,0.3
+SP100297,2024-12-02,M0149,İstanbul,Marmara,Online,Kozmetik,Makyaj Paleti,2,830,344.33,0.0
+SP100298,2024-05-26,M0052,İstanbul,Marmara,Online,Elektronik,Bluetooth Hoparlör,5,3260,2303.62,0.0
+SP100299,2024-06-21,M0789,İstanbul,Marmara,Mağaza,Elektronik,Akıllı Saat,4,2950,2014.53,0.0
+SP100300,2024-12-11,M0403,Antalya,Akdeniz,Online,Giyim,Mont,3,1750,823.33,0.0
+SP100301,2024-04-22,M0586,Trabzon,Karadeniz,Online,Ev & Yaşam,Yastık Seti,2,380,244.11,0.1
+SP100302,2024-04-15,M0193,Antalya,Akdeniz,Mağaza,Ev & Yaşam,Mutfak Robotu,5,800,514.39,0.0
+SP100303,2024-11-25,M0704,Ankara,İç Anadolu,Online,Kozmetik,Parfüm,2,670,256.02,0.1
+SP100304,2024-08-06,M0227,Antalya,Akdeniz,Online,Giyim,Kazak,2,1240,568.61,0.0
+SP100305,2024-08-22,M0129,Kocaeli,Marmara,Online,Elektronik,Powerbank,5,1450,999.82,0.1
+SP100306,2024-07-27,M0276,Antalya,Akdeniz,Online,Ev & Yaşam,Kahve Makinesi,4,1510,929.21,0.1
+SP100307,2024-02-23,M0395,İstanbul,Marmara,Online,Giyim,Mont,3,340,159.2,0.1
+SP100308,2024-07-24,M0316,Gaziantep,Güneydoğu,Mağaza,Elektronik,Powerbank,5,3680,2625.62,0.05
+SP100309,2024-12-10,M0110,Ankara,İç Anadolu,Mağaza,Ev & Yaşam,Kahve Makinesi,3,1480,942.22,0.1
+SP100310,2024-12-22,M0694,Gaziantep,Güneydoğu,Online,Giyim,Kazak,3,190,80.51,0.1
+SP100311,2024-05-26,M0154,Antalya,Akdeniz,Mağaza,Giyim,Mont,1,1060,463.67,0.0
+SP100312,2024-12-16,M0243,Ankara,İç Anadolu,Mağaza,Kozmetik,Cilt Bakım Seti,4,280,107.84,0.0
+SP100313,2024-12-25,M0300,Ankara,İç Anadolu,Online,Kozmetik,Cilt Bakım Seti,3,130,50.27,0.0
+SP100314,2024-07-08,M0684,Bursa,Marmara,Online,Giyim,Mont,3,1730,768.84,0.1
+SP100315,2024-04-08,M0074,Konya,İç Anadolu,Online,Elektronik,Bluetooth Hoparlör,3,1450,955.67,0.05
+SP100316,2024-12-26,M0538,Adana,Akdeniz,Online,Elektronik,Powerbank,1,3040,1999.88,0.05
+SP100317,2024-12-26,M0142,İzmir,Ege,Online,Ev & Yaşam,Aydınlatma,2,1470,940.22,0.0
+SP100318,2024-11-19,M0133,Gaziantep,Güneydoğu,Mağaza,Giyim,Spor Ayakkabı,1,650,296.57,0.4
+SP100319,2024-12-14,M0136,İstanbul,Marmara,Online,Elektronik,Kulaklık,2,1810,1205.21,0.0
+SP100320,2024-10-02,M0205,Bursa,Marmara,Online,Elektronik,Akıllı Saat,2,1370,949.05,0.0
+SP100321,2024-03-20,M0384,İstanbul,Marmara,Mağaza,Giyim,Spor Ayakkabı,3,1290,567.25,0.0
+SP100322,2024-04-08,M0147,Ankara,İç Anadolu,Online,Giyim,Mont,5,830,353.47,0.0
+SP100323,2024-03-15,M0772,İstanbul,Marmara,Online,Giyim,Tişört,5,570,259.75,0.05
+SP100324,2024-07-30,M0193,Ankara,İç Anadolu,Mağaza,Giyim,Mont,4,1130,511.28,0.1
+SP100325,2024-11-09,M0717,Kocaeli,Marmara,Online,Elektronik,Bluetooth Hoparlör,1,2750,1972.89,0.4
+SP100326,2024-10-14,M0421,Adana,Akdeniz,Online,Elektronik,Akıllı Saat,5,1920,1364.73,0.0
+SP100327,2024-12-28,M0213,İstanbul,Marmara,Online,Giyim,Tişört,1,660,280.42,0.0
+SP100328,2024-04-27,M0602,Bursa,Marmara,Online,Elektronik,Akıllı Saat,5,3820,2615.7,0.0
+SP100329,2024-01-26,M0705,İzmir,Ege,Online,Giyim,Kazak,3,920,394.52,0.0
+SP100330,2024-04-16,M0714,İstanbul,Marmara,Mağaza,Ev & Yaşam,Aydınlatma,1,490,285.82,0.1
+SP100331,2024-10-14,M0627,Adana,Akdeniz,Online,Giyim,Mont,5,1170,488.07,0.1
+SP100332,2024-05-29,M0402,Adana,Akdeniz,Online,Elektronik,Akıllı Saat,3,3090,2016.91,0.05
+SP100333,2024-08-28,M0719,İstanbul,Marmara,Online,Giyim,Spor Ayakkabı,1,1070,505.03,0.1
+SP100334,2024-06-16,M0303,Gaziantep,Güneydoğu,Online,Ev & Yaşam,Kahve Makinesi,2,1630,939.19,0.1
+SP100335,2024-12-13,M0102,Ankara,İç Anadolu,Mağaza,Ev & Yaşam,Kahve Makinesi,2,2020,1277.28,0.0
+SP100336,2024-02-09,M0532,İstanbul,Marmara,Mağaza,Giyim,Kazak,5,630,268.2,0.05
+SP100337,2024-04-24,M0556,Bursa,Marmara,Mağaza,Elektronik,Bluetooth Hoparlör,1,820,571.56,0.1
+SP100338,2024-04-27,M0640,İstanbul,Marmara,Online,Giyim,Kazak,1,960,430.59,0.0
+SP100339,2024-05-18,M0009,Gaziantep,Güneydoğu,Online,Kitap & Ofis,Defter Seti,5,250,131.42,0.0
+SP100340,2024-01-16,M0119,Ankara,İç Anadolu,Mağaza,Kitap & Ofis,Ajanda,1,180,102.69,0.05
+SP100341,2024-01-31,M0298,Gaziantep,Güneydoğu,Online,Ev & Yaşam,Kahve Makinesi,5,1560,961.1,0.15
+SP100342,2024-05-22,M0561,Ankara,İç Anadolu,Online,Giyim,Mont,2,900,407.86,0.1
+SP100343,2024-03-30,M0635,Kocaeli,Marmara,Online,Giyim,Spor Ayakkabı,3,260,120.29,0.0
+SP100344,2024-11-15,M0641,Bursa,Marmara,Online,Giyim,Mont,2,170,73.15,0.3
+SP100345,2024-01-26,M0420,Bursa,Marmara,Online,Ev & Yaşam,Aydınlatma,2,2300,1313.95,0.05
+SP100346,2024-08-22,M0660,Trabzon,Karadeniz,Mağaza,Kozmetik,Parfüm,1,870,349.85,0.1
+SP100347,2024-11-11,M0242,Ankara,İç Anadolu,Mağaza,Elektronik,Powerbank,1,3750,2627.3,0.2
+SP100348,2024-04-02,M0255,İstanbul,Marmara,Mağaza,Elektronik,Kulaklık,2,1490,996.62,0.05
+SP100349,2024-04-08,M0522,İzmir,Ege,Online,Elektronik,Kulaklık,2,1100,782.6,0.0
+SP100350,2024-11-09,M0519,Konya,İç Anadolu,Mağaza,Ev & Yaşam,Yastık Seti,1,810,465.66,0.2
+SP100351,2024-01-23,M0023,İstanbul,Marmara,Mağaza,Kitap & Ofis,Ajanda,4,110,62.92,0.0
+SP100352,2024-01-12,M0206,Bursa,Marmara,Online,Elektronik,Powerbank,3,3040,2074.69,0.0
+SP100353,2024-03-16,M0425,Trabzon,Karadeniz,Mağaza,Elektronik,Bluetooth Hoparlör,5,3950,2623.43,0.0
+SP100354,2024-05-30,M0710,Konya,İç Anadolu,Online,Kozmetik,Şampuan,1,400,158.96,0.0
+SP100355,2024-02-13,M0421,İstanbul,Marmara,Mağaza,Elektronik,Kulaklık,3,1600,1148.55,0.1
+SP100356,2024-10-03,M0069,Adana,Akdeniz,Online,Elektronik,Kulaklık,5,1570,1115.96,0.15
+SP100357,2024-11-09,M0494,Antalya,Akdeniz,Online,Giyim,Spor Ayakkabı,3,1680,728.89,0.3
+SP100358,2024-09-03,M0357,İstanbul,Marmara,Online,Kozmetik,Cilt Bakım Seti,3,390,144.56,0.05
+SP100359,2024-01-08,M0102,Konya,İç Anadolu,Online,Kitap & Ofis,Kalem Kutusu,4,220,119.69,0.0
+SP100360,2024-09-16,M0524,İstanbul,Marmara,Online,Kozmetik,Cilt Bakım Seti,2,420,167.23,0.05
+SP100361,2024-12-28,M0435,Antalya,Akdeniz,Online,Kozmetik,Şampuan,3,200,82.21,0.0
+SP100362,2024-07-02,M0078,Trabzon,Karadeniz,Mağaza,Elektronik,Bluetooth Hoparlör,4,2850,2024.73,0.0
+SP100363,2024-11-20,M0115,Bursa,Marmara,Online,Ev & Yaşam,Yastık Seti,1,620,361.42,0.2
+SP100364,2024-01-27,M0130,Kocaeli,Marmara,Online,Giyim,Spor Ayakkabı,4,1500,689.78,0.0
+SP100365,2024-08-29,M0195,Antalya,Akdeniz,Online,Elektronik,Bluetooth Hoparlör,5,870,604.07,0.0
+SP100366,2024-02-19,M0069,Ankara,İç Anadolu,Online,Kozmetik,Makyaj Paleti,3,200,74.68,0.0
+SP100367,2024-11-30,M0431,Gaziantep,Güneydoğu,Online,Giyim,Spor Ayakkabı,2,1400,636.89,0.4
+SP100368,2024-09-23,M0267,Antalya,Akdeniz,Mağaza,Ev & Yaşam,Mutfak Robotu,5,1860,1092.69,0.1
+SP100369,2024-12-18,M0139,Ankara,İç Anadolu,Online,Kitap & Ofis,Ajanda,3,200,104.04,0.0
+SP100370,2024-10-07,M0015,Kocaeli,Marmara,Mağaza,Giyim,Mont,3,1110,501.28,0.0
+SP100371,2024-12-27,M0645,İzmir,Ege,Online,Kozmetik,Makyaj Paleti,5,660,265.13,0.0
+SP100372,2024-11-13,M0161,Ankara,İç Anadolu,Mağaza,Elektronik,Akıllı Saat,2,820,570.68,0.3
+SP100373,2024-03-06,M0202,Ankara,İç Anadolu,Online,Giyim,Tişört,1,820,351.61,0.15
+SP100374,2024-10-02,M0606,Gaziantep,Güneydoğu,Mağaza,Kozmetik,Parfüm,5,800,327.76,0.0
+SP100375,2024-04-26,M0018,İstanbul,Marmara,Online,Giyim,Mont,1,1260,531.57,0.0
+SP100376,2024-10-25,M0160,Ankara,İç Anadolu,Online,Ev & Yaşam,Aydınlatma,2,1460,873.5,0.0
+SP100377,2024-04-30,M0081,Konya,İç Anadolu,Online,Elektronik,Powerbank,4,1970,1425.43,0.05
+SP100378,2024-06-06,M0695,Ankara,İç Anadolu,Mağaza,Elektronik,Kulaklık,2,1330,903.61,0.0
+SP100379,2024-10-07,M0221,İstanbul,Marmara,Mağaza,Giyim,Mont,3,610,282.14,0.0
+SP100380,2024-09-13,M0763,Adana,Akdeniz,Online,Giyim,Mont,3,1020,435.02,0.0
+SP100381,2024-10-05,M0580,İstanbul,Marmara,Mağaza,Elektronik,Akıllı Saat,2,2360,1522.75,0.0
+SP100382,2024-10-31,M0070,İstanbul,Marmara,Mağaza,Giyim,Spor Ayakkabı,2,1090,453.68,0.15
+SP100383,2024-09-01,M0609,İzmir,Ege,Mağaza,Elektronik,Akıllı Saat,2,2140,1494.59,0.0
+SP100384,2024-12-06,M0221,Antalya,Akdeniz,Mağaza,Ev & Yaşam,Yastık Seti,2,730,418.38,0.1
+SP100385,2024-10-24,M0407,Konya,İç Anadolu,Mağaza,Giyim,Kazak,4,1070,453.73,0.0
+SP100386,2024-04-15,M0221,İzmir,Ege,Online,Ev & Yaşam,Yastık Seti,4,450,283.3,0.05
+SP100387,2024-02-22,M0303,İstanbul,Marmara,Mağaza,Giyim,Tişört,4,970,442.2,0.0
+SP100388,2024-12-31,M0232,Ankara,İç Anadolu,Mağaza,Giyim,Tişört,5,530,230.76,0.0
+SP100389,2024-06-03,M0138,Konya,İç Anadolu,Online,Ev & Yaşam,Aydınlatma,3,700,418.63,0.0
+SP100390,2024-08-27,M0170,Gaziantep,Güneydoğu,Online,Kozmetik,Makyaj Paleti,1,420,161.36,0.0
+SP100391,2024-03-08,M0437,Ankara,İç Anadolu,Online,Elektronik,Powerbank,5,3950,2595.7,0.0
+SP100392,2024-12-29,M0485,İstanbul,Marmara,Online,Kozmetik,Şampuan,4,210,78.5,0.0
+SP100393,2024-04-02,M0123,Gaziantep,Güneydoğu,Online,Kozmetik,Cilt Bakım Seti,5,270,102.62,0.05
+SP100394,2024-06-21,M0163,Ankara,İç Anadolu,Online,Ev & Yaşam,Kahve Makinesi,5,680,389.99,0.0
+SP100395,2024-11-09,M0564,Gaziantep,Güneydoğu,Mağaza,Ev & Yaşam,Kahve Makinesi,1,2390,1500.72,0.3
+SP100396,2024-09-22,M0300,İstanbul,Marmara,Mağaza,Giyim,Mont,3,610,273.68,0.0
+SP100397,2024-05-25,M0024,İzmir,Ege,Mağaza,Elektronik,Powerbank,5,2180,1601.37,0.15
+SP100398,2024-04-09,M0298,Ankara,İç Anadolu,Online,Elektronik,Bluetooth Hoparlör,2,590,407.26,0.0
+SP100399,2024-09-16,M0528,İstanbul,Marmara,Mağaza,Ev & Yaşam,Aydınlatma,1,470,281.51,0.0
+SP100400,2024-09-04,M0514,İzmir,Ege,Mağaza,Kozmetik,Parfüm,5,130,49.06,0.0
+SP100401,2024-09-09,M0096,Antalya,Akdeniz,Mağaza,Giyim,Kazak,1,760,340.05,0.0
+SP100402,2024-10-28,M0670,Trabzon,Karadeniz,Mağaza,Kozmetik,Şampuan,1,560,223.09,0.0
+SP100403,2024-03-20,M0065,Kocaeli,Marmara,Mağaza,Ev & Yaşam,Kahve Makinesi,2,2050,1175.16,0.0
+SP100404,2024-01-27,M0415,İstanbul,Marmara,Mağaza,Ev & Yaşam,Aydınlatma,2,2020,1209.32,0.0
+SP100405,2024-12-09,M0047,Bursa,Marmara,Online,Giyim,Tişört,2,580,272.58,0.1
+SP100406,2024-12-09,M0401,İzmir,Ege,Mağaza,Ev & Yaşam,Yastık Seti,2,1510,909.1,0.0
+SP100407,2024-08-18,M0399,İstanbul,Marmara,Mağaza,Elektronik,Powerbank,1,2340,1710.34,0.15
+SP100408,2024-08-05,M0381,İzmir,Ege,Online,Elektronik,Powerbank,2,1740,1260.31,0.0
+SP100409,2024-05-25,M0305,Ankara,İç Anadolu,Online,Ev & Yaşam,Yastık Seti,2,650,418.58,0.0
+SP100410,2024-09-17,M0015,Trabzon,Karadeniz,Online,Giyim,Tişört,5,1230,525.54,0.0
+SP100411,2024-10-08,M0261,Adana,Akdeniz,Online,Giyim,Mont,4,680,291.92,0.0
+SP100412,2024-09-16,M0312,Ankara,İç Anadolu,Mağaza,Giyim,Mont,5,210,95.54,0.05
+SP100413,2024-03-27,M0487,Antalya,Akdeniz,Mağaza,Elektronik,Akıllı Saat,4,1160,828.79,0.0
+SP100414,2024-10-16,M0275,Gaziantep,Güneydoğu,Mağaza,Giyim,Kazak,3,710,310.31,0.1
+SP100415,2024-06-29,M0163,Ankara,İç Anadolu,Online,Giyim,Spor Ayakkabı,4,1700,752.84,0.0
+SP100416,2024-12-25,M0514,İstanbul,Marmara,Online,Giyim,Kazak,5,490,224.18,0.0
+SP100417,2024-10-14,M0425,İstanbul,Marmara,Online,Elektronik,Kulaklık,4,620,448.39,0.0
+SP100418,2024-06-06,M0246,İstanbul,Marmara,Mağaza,Kozmetik,Parfüm,3,820,340.78,0.0
+SP100419,2024-09-08,M0082,Gaziantep,Güneydoğu,Mağaza,Kitap & Ofis,Ajanda,5,170,92.37,0.0
+SP100420,2024-02-02,M0157,Ankara,İç Anadolu,Mağaza,Giyim,Tişört,1,200,84.3,0.0
+SP100421,2024-04-14,M0098,Ankara,İç Anadolu,Mağaza,Kozmetik,Makyaj Paleti,1,510,204.14,0.0
+SP100422,2024-06-03,M0462,İstanbul,Marmara,Mağaza,Ev & Yaşam,Kahve Makinesi,3,1300,846.07,0.15
+SP100423,2024-11-25,M0416,İstanbul,Marmara,Online,Ev & Yaşam,Kahve Makinesi,4,1330,860.44,0.4
+SP100424,2024-09-15,M0361,Ankara,İç Anadolu,Online,Elektronik,Powerbank,3,1780,1229.75,0.0
+SP100425,2024-07-07,M0536,Ankara,İç Anadolu,Mağaza,Ev & Yaşam,Mutfak Robotu,4,2010,1192.68,0.0
+SP100426,2024-02-08,M0053,Ankara,İç Anadolu,Online,Giyim,Kazak,2,1050,443.46,0.0
+SP100427,2024-01-17,M0122,İzmir,Ege,Mağaza,Ev & Yaşam,Mutfak Robotu,5,350,209.46,0.1
+SP100428,2024-11-19,M0089,Trabzon,Karadeniz,Mağaza,Elektronik,Bluetooth Hoparlör,3,3870,2616.17,0.2
+SP100429,2024-06-29,M0047,İzmir,Ege,Online,Ev & Yaşam,Kahve Makinesi,3,390,242.64,0.0
+SP100430,2024-11-21,M0273,İstanbul,Marmara,Mağaza,Giyim,Tişört,2,180,78.77,0.3
+SP100431,2024-07-28,M0474,İstanbul,Marmara,Mağaza,Elektronik,Powerbank,1,3440,2466.9,0.0
+SP100432,2024-03-09,M0022,İstanbul,Marmara,Online,Kozmetik,Şampuan,5,620,240.18,0.0
+SP100433,2024-12-09,M0194,İstanbul,Marmara,Online,Ev & Yaşam,Aydınlatma,4,1760,1004.78,0.0
+SP100434,2024-05-09,M0633,İzmir,Ege,Online,Kozmetik,Cilt Bakım Seti,2,740,279.65,0.0
+SP100435,2024-07-13,M0516,İzmir,Ege,Online,Giyim,Mont,5,970,450.44,0.0
+SP100436,2024-09-20,M0433,Antalya,Akdeniz,Online,Elektronik,Kulaklık,1,2040,1333.82,0.15
+SP100437,2024-07-18,M0290,İstanbul,Marmara,Online,Kozmetik,Şampuan,1,860,346.1,0.05
+SP100438,2024-12-13,M0242,İzmir,Ege,Online,Ev & Yaşam,Mutfak Robotu,4,2080,1198.84,0.0
+SP100439,2024-10-23,M0453,Adana,Akdeniz,Mağaza,Elektronik,Kulaklık,5,1980,1450.23,0.0
+SP100440,2024-07-02,M0298,İstanbul,Marmara,Online,Ev & Yaşam,Kahve Makinesi,5,360,226.04,0.0
+SP100441,2024-08-24,M0674,İstanbul,Marmara,Online,Elektronik,Powerbank,4,3020,2167.77,0.0
+SP100442,2024-11-21,M0086,İstanbul,Marmara,Online,Giyim,Spor Ayakkabı,4,1640,718.84,0.4
+SP100443,2024-01-26,M0657,İstanbul,Marmara,Mağaza,Giyim,Mont,4,1170,505.12,0.0
+SP100444,2024-11-21,M0057,Kocaeli,Marmara,Online,Elektronik,Bluetooth Hoparlör,3,2890,2107.26,0.2
+SP100445,2024-12-03,M0215,Gaziantep,Güneydoğu,Mağaza,Ev & Yaşam,Aydınlatma,2,2390,1406.58,0.0
+SP100446,2024-04-30,M0765,Ankara,İç Anadolu,Mağaza,Giyim,Mont,5,330,141.82,0.0
+SP100447,2024-11-26,M0386,İzmir,Ege,Mağaza,Elektronik,Powerbank,4,1590,1035.92,0.1
+SP100448,2024-09-01,M0509,İstanbul,Marmara,Online,Ev & Yaşam,Aydınlatma,1,2040,1290.87,0.0
+SP100449,2024-02-25,M0732,İzmir,Ege,Online,Elektronik,Kulaklık,2,2990,2156.75,0.05
+SP100450,2024-11-07,M0097,İstanbul,Marmara,Online,Giyim,Mont,5,330,139.73,0.3
+SP100451,2024-02-18,M0383,İstanbul,Marmara,Online,Kozmetik,Parfüm,4,550,203.46,0.0
+SP100452,2024-05-19,M0405,Gaziantep,Güneydoğu,Online,Elektronik,Kulaklık,3,2670,1890.62,0.0
+SP100453,2024-12-03,M0363,Trabzon,Karadeniz,Online,Kozmetik,Parfüm,1,150,60.82,0.05
+SP100454,2024-03-31,M0362,Konya,İç Anadolu,Mağaza,Ev & Yaşam,Yastık Seti,1,1050,655.02,0.1
+SP100455,2024-10-14,M0046,İstanbul,Marmara,Mağaza,Ev & Yaşam,Yastık Seti,1,960,583.05,0.1
+SP100456,2024-06-01,M0095,İstanbul,Marmara,Mağaza,Kozmetik,Cilt Bakım Seti,3,230,85.89,0.0
+SP100457,2024-04-15,M0206,Konya,İç Anadolu,Online,Elektronik,Akıllı Saat,2,1280,864.18,0.15
+SP100458,2024-10-19,M0485,Gaziantep,Güneydoğu,Mağaza,Giyim,Kazak,1,830,373.15,0.1
+SP100459,2024-06-25,M0069,Gaziantep,Güneydoğu,Online,Elektronik,Kulaklık,3,2000,1406.2,0.0
+SP100460,2024-08-16,M0076,Ankara,İç Anadolu,Mağaza,Ev & Yaşam,Yastık Seti,3,850,484.91,0.05
+SP100461,2024-07-14,M0683,İstanbul,Marmara,Online,Elektronik,Bluetooth Hoparlör,1,1290,888.62,0.0
+SP100462,2024-04-25,M0727,İzmir,Ege,Mağaza,Giyim,Spor Ayakkabı,4,740,327.45,0.0
+SP100463,2024-09-12,M0663,İstanbul,Marmara,Online,Giyim,Tişört,5,790,350.64,0.15
+SP100464,2024-05-14,M0517,Bursa,Marmara,Online,Elektronik,Akıllı Saat,5,690,451.43,0.0
+SP100465,2024-10-17,M0715,İstanbul,Marmara,Mağaza,Giyim,Kazak,4,500,210.95,0.0
+SP100466,2024-01-20,M0256,Kocaeli,Marmara,Online,Ev & Yaşam,Kahve Makinesi,4,220,127.31,0.0
+SP100467,2024-08-20,M0540,İstanbul,Marmara,Mağaza,Ev & Yaşam,Yastık Seti,2,370,223.87,0.05
+SP100468,2024-11-17,M0639,Gaziantep,Güneydoğu,Online,Giyim,Kazak,2,1710,798.56,0.4
+SP100469,2024-07-23,M0395,Ankara,İç Anadolu,Mağaza,Giyim,Mont,1,960,409.23,0.05
+SP100470,2024-06-28,M0042,Adana,Akdeniz,Mağaza,Elektronik,Kulaklık,3,1080,792.01,0.0
+SP100471,2024-09-07,M0279,İstanbul,Marmara,Online,Ev & Yaşam,Kahve Makinesi,3,950,563.38,0.0
+SP100472,2024-09-21,M0711,Gaziantep,Güneydoğu,Online,Elektronik,Bluetooth Hoparlör,4,1300,864.04,0.0
+SP100473,2024-12-19,M0623,Ankara,İç Anadolu,Mağaza,Kozmetik,Parfüm,5,330,123.7,0.1
+SP100474,2024-07-24,M0011,Adana,Akdeniz,Mağaza,Elektronik,Powerbank,5,3500,2256.27,0.05
+SP100475,2024-12-02,M0555,Ankara,İç Anadolu,Mağaza,Elektronik,Powerbank,3,3620,2627.56,0.1
+SP100476,2024-10-02,M0336,Ankara,İç Anadolu,Online,Kitap & Ofis,Defter Seti,4,210,108.94,0.0
+SP100477,2024-12-19,M0447,Bursa,Marmara,Online,Kitap & Ofis,Kalem Kutusu,1,320,171.84,0.0
+SP100478,2024-12-31,M0270,Konya,İç Anadolu,Mağaza,Kozmetik,Şampuan,3,350,130.34,0.0
+SP100479,2024-12-08,M0600,İzmir,Ege,Mağaza,Elektronik,Bluetooth Hoparlör,1,1110,801.33,0.15
+SP100480,2024-05-30,M0305,Trabzon,Karadeniz,Online,Giyim,Kazak,2,1330,618.78,0.0
+SP100481,2024-09-02,M0225,Bursa,Marmara,Online,Elektronik,Powerbank,5,1790,1298.68,0.0
+SP100482,2024-08-21,M0680,İzmir,Ege,Online,Ev & Yaşam,Aydınlatma,1,290,185.51,0.0
+SP100483,2024-05-03,M0364,Kocaeli,Marmara,Online,Ev & Yaşam,Mutfak Robotu,3,1450,848.78,0.0
+SP100484,2024-05-28,M0742,Bursa,Marmara,Mağaza,Kitap & Ofis,Roman,4,90,48.24,0.0
+SP100485,2024-12-09,M0115,İzmir,Ege,Mağaza,Ev & Yaşam,Aydınlatma,2,1330,817.7,0.0
+SP100486,2024-10-14,M0437,İzmir,Ege,Online,Giyim,Mont,5,1010,441.7,0.0
+SP100487,2024-09-21,M0515,Bursa,Marmara,Online,Kozmetik,Parfüm,4,560,234.13,0.0
+SP100488,2024-11-17,M0295,Gaziantep,Güneydoğu,Online,Kozmetik,Cilt Bakım Seti,1,430,162.1,0.1
+SP100489,2024-07-01,M0163,İstanbul,Marmara,Online,Kitap & Ofis,Roman,5,240,131.1,0.0
+SP100490,2024-09-29,M0283,İstanbul,Marmara,Mağaza,Kitap & Ofis,Defter Seti,3,340,183.46,0.0
+SP100491,2024-06-05,M0771,İstanbul,Marmara,Online,Elektronik,Akıllı Saat,1,720,517.82,0.1
+SP100492,2024-03-17,M0325,Konya,İç Anadolu,Mağaza,Ev & Yaşam,Aydınlatma,3,440,286.12,0.0
+SP100493,2024-10-31,M0187,Adana,Akdeniz,Online,Elektronik,Powerbank,5,1680,1105.67,0.15
+SP100494,2024-08-21,M0281,İstanbul,Marmara,Online,Elektronik,Bluetooth Hoparlör,5,780,511.81,0.0
+SP100495,2024-11-02,M0729,Ankara,İç Anadolu,Mağaza,Ev & Yaşam,Mutfak Robotu,1,1510,896.77,0.2
+SP100496,2024-04-14,M0180,Bursa,Marmara,Mağaza,Elektronik,Powerbank,1,2700,1842.36,0.0
+SP100497,2024-12-10,M0285,İstanbul,Marmara,Online,Kitap & Ofis,Roman,3,200,111.25,0.0
+SP100498,2024-07-28,M0552,Konya,İç Anadolu,Online,Elektronik,Akıllı Saat,2,2440,1782.1,0.0
+SP100499,2024-07-12,M0532,İstanbul,Marmara,Online,Giyim,Spor Ayakkabı,4,1510,681.95,0.0
+SP100500,2024-04-24,M0412,Ankara,İç Anadolu,Online,Elektronik,Powerbank,1,3700,2550.06,0.15
+SP100501,2024-04-20,M0386,Ankara,İç Anadolu,Online,Giyim,Spor Ayakkabı,3,510,230.59,0.0
+SP100502,2024-10-25,M0612,Ankara,İç Anadolu,Online,Elektronik,Akıllı Saat,3,1470,952.7,0.05
+SP100503,2024-03-25,M0350,Trabzon,Karadeniz,Online,Giyim,Kazak,3,1530,706.95,0.1
+SP100504,2024-08-10,M0517,Ankara,İç Anadolu,Online,Kitap & Ofis,Roman,2,290,149.1,0.05
+SP100505,2024-08-03,M0035,Konya,İç Anadolu,Online,Kozmetik,Makyaj Paleti,5,760,313.38,0.0
+SP100506,2024-01-07,M0440,İstanbul,Marmara,Online,Elektronik,Bluetooth Hoparlör,5,940,690.07,0.05
+SP100507,2024-12-27,M0128,Ankara,İç Anadolu,Online,Ev & Yaşam,Yastık Seti,1,840,509.36,0.0
+SP100508,2024-08-03,M0140,Bursa,Marmara,Mağaza,Giyim,Mont,2,1320,547.59,0.15
+SP100509,2024-09-17,M0124,İstanbul,Marmara,Online,Kozmetik,Cilt Bakım Seti,2,780,325.17,0.0
+SP100510,2024-08-06,M0368,Antalya,Akdeniz,Mağaza,Giyim,Kazak,4,690,298.86,0.05
+SP100511,2024-08-22,M0424,Ankara,İç Anadolu,Mağaza,Kitap & Ofis,Ajanda,5,240,136.3,0.0
+SP100512,2024-08-29,M0508,İstanbul,Marmara,Online,Giyim,Tişört,3,590,274.15,0.1
+SP100513,2024-06-26,M0432,İzmir,Ege,Online,Ev & Yaşam,Yastık Seti,2,1170,726.34,0.15
+SP100514,2024-02-14,M0729,Adana,Akdeniz,Mağaza,Giyim,Mont,2,220,92.57,0.0
+SP100515,2024-11-17,M0080,Bursa,Marmara,Online,Giyim,Spor Ayakkabı,3,1500,705.43,0.4
+SP100516,2024-10-09,M0129,Antalya,Akdeniz,Online,Kozmetik,Parfüm,5,610,243.02,0.15
+SP100517,2024-09-28,M0153,Kocaeli,Marmara,Online,Giyim,Tişört,4,170,71.76,0.05
+SP100518,2024-08-19,M0527,İstanbul,Marmara,Online,Kozmetik,Parfüm,2,300,113.1,0.0
+SP100519,2024-09-25,M0094,Antalya,Akdeniz,Online,Kozmetik,Şampuan,3,900,350.01,0.05
+SP100520,2024-04-14,M0312,Adana,Akdeniz,Mağaza,Elektronik,Akıllı Saat,3,3870,2530.51,0.0
+SP100521,2024-07-08,M0254,Ankara,İç Anadolu,Online,Elektronik,Akıllı Saat,5,2810,1866.82,0.0
+SP100522,2024-11-10,M0790,Trabzon,Karadeniz,Mağaza,Ev & Yaşam,Mutfak Robotu,5,400,258.15,0.3
+SP100523,2024-12-16,M0411,Konya,İç Anadolu,Mağaza,Giyim,Spor Ayakkabı,5,390,170.67,0.0
+SP100524,2024-05-30,M0051,Kocaeli,Marmara,Online,Elektronik,Powerbank,3,3550,2345.42,0.1
+SP100525,2024-12-22,M0202,Ankara,İç Anadolu,Online,Elektronik,Akıllı Saat,2,2580,1757.5,0.0
+SP100526,2024-12-06,M0714,İstanbul,Marmara,Online,Ev & Yaşam,Kahve Makinesi,4,1660,1043.82,0.05
+SP100527,2024-06-25,M0257,Bursa,Marmara,Online,Ev & Yaşam,Kahve Makinesi,4,1050,629.35,0.0
+SP100528,2024-09-10,M0316,İstanbul,Marmara,Online,Kozmetik,Cilt Bakım Seti,3,200,79.56,0.1
+SP100529,2024-11-02,M0118,Bursa,Marmara,Mağaza,Kitap & Ofis,Ajanda,3,80,41.37,0.2
+SP100530,2024-01-02,M0231,Gaziantep,Güneydoğu,Online,Giyim,Tişört,5,1620,695.75,0.15
+SP100531,2024-06-23,M0481,Ankara,İç Anadolu,Online,Giyim,Kazak,4,660,287.7,0.0
+SP100532,2024-07-10,M0568,İstanbul,Marmara,Mağaza,Ev & Yaşam,Yastık Seti,3,1930,1132.53,0.0
+SP100533,2024-04-19,M0781,Ankara,İç Anadolu,Online,Ev & Yaşam,Aydınlatma,1,1490,895.21,0.0
+SP100534,2024-03-19,M0063,İstanbul,Marmara,Online,Kozmetik,Parfüm,3,600,244.63,0.0
+SP100535,2024-03-16,M0487,İstanbul,Marmara,Online,Ev & Yaşam,Yastık Seti,5,2000,1202.64,0.0
+SP100536,2024-03-07,M0161,Ankara,İç Anadolu,Mağaza,Giyim,Mont,5,1480,661.11,0.05
+SP100537,2024-05-06,M0256,İstanbul,Marmara,Mağaza,Elektronik,Kulaklık,2,910,619.02,0.05
+SP100538,2024-05-03,M0320,İzmir,Ege,Mağaza,Elektronik,Kulaklık,5,3750,2567.01,0.0
+SP100539,2024-11-23,M0331,İstanbul,Marmara,Online,Elektronik,Akıllı Saat,5,2370,1585.44,0.2
+SP100540,2024-11-16,M0319,İstanbul,Marmara,Mağaza,Giyim,Spor Ayakkabı,2,360,159.82,0.1
+SP100541,2024-04-06,M0653,Adana,Akdeniz,Online,Giyim,Tişört,5,1760,763.74,0.1
+SP100542,2024-05-17,M0656,İstanbul,Marmara,Online,Elektronik,Kulaklık,5,630,452.03,0.0
+SP100543,2024-12-17,M0128,İzmir,Ege,Online,Giyim,Mont,4,390,182.62,0.15
+SP100544,2024-12-11,M0778,İzmir,Ege,Mağaza,Elektronik,Akıllı Saat,5,740,509.11,0.0
+SP100545,2024-06-12,M0531,İstanbul,Marmara,Online,Kitap & Ofis,Ajanda,4,320,177.84,0.1
+SP100546,2024-12-06,M0511,Antalya,Akdeniz,Online,Kozmetik,Şampuan,3,700,285.56,0.0
+SP100547,2024-12-09,M0264,Ankara,İç Anadolu,Mağaza,Elektronik,Powerbank,4,1330,915.23,0.0
+SP100548,2024-12-06,M0598,Ankara,İç Anadolu,Online,Ev & Yaşam,Kahve Makinesi,1,1780,1115.18,0.05
+SP100549,2024-01-20,M0290,İstanbul,Marmara,Online,Ev & Yaşam,Mutfak Robotu,3,2140,1389.19,0.0
+SP100550,2024-09-28,M0112,Adana,Akdeniz,Mağaza,Kitap & Ofis,Kalem Kutusu,1,350,191.51,0.0
+SP100551,2024-11-18,M0041,İstanbul,Marmara,Mağaza,Kozmetik,Makyaj Paleti,3,470,193.02,0.3
+SP100552,2024-02-10,M0534,Ankara,İç Anadolu,Mağaza,Elektronik,Powerbank,4,3270,2188.26,0.0
+SP100553,2024-06-20,M0538,İstanbul,Marmara,Online,Elektronik,Akıllı Saat,2,1550,1126.7,0.05
+SP100554,2024-02-07,M0750,Ankara,İç Anadolu,Online,Kozmetik,Şampuan,3,260,104.04,0.1
+SP100555,2024-12-10,M0359,Antalya,Akdeniz,Online,Giyim,Mont,5,820,386.83,0.0
+SP100556,2024-11-16,M0025,Gaziantep,Güneydoğu,Mağaza,Ev & Yaşam,Kahve Makinesi,3,1180,764.97,0.4
+SP100557,2024-05-23,M0112,İstanbul,Marmara,Online,Ev & Yaşam,Mutfak Robotu,5,1480,848.08,0.05
+SP100558,2024-10-12,M0505,Kocaeli,Marmara,Online,Kitap & Ofis,Roman,4,80,44.88,0.0
+SP100559,2024-06-17,M0634,İzmir,Ege,Mağaza,Giyim,Kazak,4,1080,491.47,0.1
+SP100560,2024-10-20,M0636,İstanbul,Marmara,Mağaza,Ev & Yaşam,Mutfak Robotu,5,1620,952.69,0.0
+SP100561,2024-02-01,M0254,Trabzon,Karadeniz,Mağaza,Kitap & Ofis,Ajanda,5,320,168.92,0.0
+SP100562,2024-09-19,M0222,Antalya,Akdeniz,Mağaza,Giyim,Spor Ayakkabı,1,1550,717.35,0.0
+SP100563,2024-05-24,M0246,Kocaeli,Marmara,Online,Giyim,Kazak,3,220,96.4,0.0
+SP100564,2024-12-16,M0017,Ankara,İç Anadolu,Mağaza,Kozmetik,Parfüm,3,870,356.19,0.05
+SP100565,2024-12-17,M0391,Konya,İç Anadolu,Mağaza,Giyim,Spor Ayakkabı,4,1000,429.6,0.0
+SP100566,2024-10-30,M0410,Gaziantep,Güneydoğu,Online,Giyim,Kazak,5,1020,477.26,0.1
+SP100567,2024-04-20,M0712,İstanbul,Marmara,Online,Kozmetik,Şampuan,5,90,33.64,0.0
+SP100568,2024-07-02,M0313,İstanbul,Marmara,Online,Kitap & Ofis,Roman,5,160,81.1,0.0
+SP100569,2024-04-20,M0475,İzmir,Ege,Mağaza,Elektronik,Bluetooth Hoparlör,1,970,629.24,0.1
+SP100570,2024-11-16,M0617,Adana,Akdeniz,Online,Kozmetik,Makyaj Paleti,5,410,165.6,0.2
+SP100571,2024-01-07,M0472,Trabzon,Karadeniz,Mağaza,Ev & Yaşam,Yastık Seti,1,1300,821.4,0.0
+SP100572,2024-03-20,M0715,Konya,İç Anadolu,Online,Elektronik,Akıllı Saat,2,990,651.45,0.1
+SP100573,2024-11-30,M0634,Gaziantep,Güneydoğu,Online,Ev & Yaşam,Kahve Makinesi,4,1570,942.65,0.1
+SP100574,2024-06-08,M0661,Adana,Akdeniz,Online,Kozmetik,Şampuan,1,200,83.02,0.0
+SP100575,2024-03-31,M0246,İstanbul,Marmara,Online,Elektronik,Kulaklık,5,1120,794.72,0.05
+SP100576,2024-01-12,M0103,Konya,İç Anadolu,Online,Giyim,Kazak,2,1690,727.71,0.15
+SP100577,2024-10-21,M0543,Adana,Akdeniz,Mağaza,Kozmetik,Cilt Bakım Seti,1,850,316.14,0.0
+SP100578,2024-10-30,M0263,Ankara,İç Anadolu,Online,Elektronik,Powerbank,4,3870,2569.1,0.15
+SP100579,2024-05-08,M0339,Ankara,İç Anadolu,Online,Kozmetik,Makyaj Paleti,4,570,216.77,0.1
+SP100580,2024-04-09,M0561,İstanbul,Marmara,Online,Giyim,Mont,5,260,115.25,0.1
+SP100581,2024-07-15,M0096,Trabzon,Karadeniz,Online,Giyim,Spor Ayakkabı,5,950,402.67,0.0
+SP100582,2024-10-27,M0070,Ankara,İç Anadolu,Online,Elektronik,Bluetooth Hoparlör,3,870,630.78,0.1
+SP100583,2024-11-16,M0287,Adana,Akdeniz,Online,Ev & Yaşam,Yastık Seti,3,1840,1069.38,0.3
+SP100584,2024-12-10,M0747,İstanbul,Marmara,Mağaza,Ev & Yaşam,Aydınlatma,1,2170,1306.6,0.0
+SP100585,2024-10-03,M0439,İstanbul,Marmara,Mağaza,Elektronik,Bluetooth Hoparlör,3,670,466.96,0.0
+SP100586,2024-07-03,M0509,Gaziantep,Güneydoğu,Mağaza,Giyim,Mont,1,660,293.26,0.05
+SP100587,2024-08-17,M0438,Antalya,Akdeniz,Mağaza,Ev & Yaşam,Mutfak Robotu,5,2250,1421.27,0.1
+SP100588,2024-03-08,M0177,Trabzon,Karadeniz,Mağaza,Ev & Yaşam,Mutfak Robotu,2,1070,656.11,0.0
+SP100589,2024-08-29,M0140,İzmir,Ege,Online,Ev & Yaşam,Kahve Makinesi,5,960,610.03,0.15
+SP100590,2024-09-21,M0148,Kocaeli,Marmara,Mağaza,Elektronik,Kulaklık,1,3040,2048.38,0.0
+SP100591,2024-11-08,M0550,Antalya,Akdeniz,Mağaza,Elektronik,Powerbank,4,2570,1679.24,0.2
+SP100592,2024-11-10,M0609,İstanbul,Marmara,Online,Giyim,Tişört,2,1460,622.41,0.4
+SP100593,2024-01-21,M0392,Trabzon,Karadeniz,Mağaza,Ev & Yaşam,Yastık Seti,1,1540,980.08,0.0
+SP100594,2024-05-17,M0728,Antalya,Akdeniz,Online,Kozmetik,Parfüm,5,330,137.33,0.05
+SP100595,2024-08-03,M0400,Bursa,Marmara,Online,Elektronik,Akıllı Saat,5,3830,2783.46,0.1
+SP100596,2024-05-11,M0609,İstanbul,Marmara,Mağaza,Ev & Yaşam,Yastık Seti,5,2490,1526.28,0.1
+SP100597,2024-11-08,M0117,İzmir,Ege,Mağaza,Ev & Yaşam,Aydınlatma,4,2230,1354.69,0.2
+SP100598,2024-10-27,M0397,İstanbul,Marmara,Online,Ev & Yaşam,Yastık Seti,4,970,592.78,0.1
+SP100599,2024-05-12,M0748,Bursa,Marmara,Mağaza,Kozmetik,Parfüm,4,810,315.6,0.0
+SP100600,2024-12-12,M0527,İstanbul,Marmara,Online,Ev & Yaşam,Mutfak Robotu,3,570,367.04,0.15
+SP100601,2024-10-17,M0652,İstanbul,Marmara,Mağaza,Kozmetik,Şampuan,2,830,330.09,0.0
+SP100602,2024-04-13,M0731,İstanbul,Marmara,Mağaza,Ev & Yaşam,Kahve Makinesi,3,610,358.04,0.1
+SP100603,2024-08-05,M0763,İstanbul,Marmara,Online,Giyim,Kazak,2,750,348.75,0.0
+SP100604,2024-06-22,M0473,İstanbul,Marmara,Online,Kozmetik,Şampuan,1,330,132.84,0.0
+SP100605,2024-12-20,M0365,İzmir,Ege,Online,Giyim,Mont,3,1050,475.66,0.0
+SP100606,2024-03-15,M0328,İstanbul,Marmara,Mağaza,Elektronik,Kulaklık,4,3410,2239.14,0.0
+SP100607,2024-03-11,M0412,İzmir,Ege,Mağaza,Ev & Yaşam,Aydınlatma,3,1990,1265.27,0.0
+SP100608,2024-12-19,M0593,Bursa,Marmara,Mağaza,Elektronik,Kulaklık,3,1900,1241.61,0.1
+SP100609,2024-06-07,M0646,Bursa,Marmara,Online,Ev & Yaşam,Mutfak Robotu,1,2370,1458.5,0.0
+SP100610,2024-11-12,M0505,İstanbul,Marmara,Online,Elektronik,Akıllı Saat,1,1440,1040.12,0.3
+SP100611,2024-02-18,M0036,İstanbul,Marmara,Mağaza,Giyim,Mont,2,270,121.19,0.1
+SP100612,2024-03-13,M0030,İstanbul,Marmara,Online,Giyim,Spor Ayakkabı,1,1050,439.51,0.0
+SP100613,2024-10-26,M0334,İzmir,Ege,Online,Elektronik,Akıllı Saat,5,630,447.09,0.15
+SP100614,2024-12-24,M0504,Ankara,İç Anadolu,Online,Kozmetik,Parfüm,2,600,240.18,0.0
+SP100615,2024-08-08,M0267,Ankara,İç Anadolu,Online,Kitap & Ofis,Defter Seti,3,300,166.36,0.0
+SP100616,2024-07-24,M0018,Bursa,Marmara,Online,Giyim,Tişört,5,1720,715.35,0.0
+SP100617,2024-11-22,M0052,Trabzon,Karadeniz,Online,Giyim,Tişört,1,1300,582.99,0.2
+SP100618,2024-10-05,M0646,Ankara,İç Anadolu,Mağaza,Elektronik,Bluetooth Hoparlör,3,1470,1066.82,0.1
+SP100619,2024-11-30,M0280,İstanbul,Marmara,Online,Ev & Yaşam,Aydınlatma,1,2440,1516.15,0.1
+SP100620,2024-10-31,M0710,İzmir,Ege,Online,Ev & Yaşam,Kahve Makinesi,4,1180,726.29,0.0
+SP100621,2024-03-05,M0096,Antalya,Akdeniz,Online,Ev & Yaşam,Yastık Seti,2,2350,1410.9,0.0
+SP100622,2024-02-05,M0379,Ankara,İç Anadolu,Online,Elektronik,Bluetooth Hoparlör,1,3320,2340.21,0.0
+SP100623,2024-03-18,M0245,Gaziantep,Güneydoğu,Mağaza,Elektronik,Akıllı Saat,4,2390,1549.32,0.0
+SP100624,2024-07-13,M0248,İstanbul,Marmara,Online,Kitap & Ofis,Defter Seti,4,60,31.52,0.0
+SP100625,2024-12-12,M0084,Gaziantep,Güneydoğu,Mağaza,Elektronik,Akıllı Saat,3,970,676.83,0.0
+SP100626,2024-05-23,M0757,İstanbul,Marmara,Mağaza,Giyim,Tişört,5,240,110.13,0.0
+SP100627,2024-05-15,M0126,Antalya,Akdeniz,Online,Giyim,Kazak,5,1730,724.35,0.0
+SP100628,2024-10-10,M0246,Bursa,Marmara,Online,Elektronik,Kulaklık,3,1870,1343.72,0.0
+SP100629,2024-08-16,M0055,Kocaeli,Marmara,Mağaza,Ev & Yaşam,Kahve Makinesi,2,720,441.85,0.0
+SP100630,2024-10-08,M0387,Antalya,Akdeniz,Online,Ev & Yaşam,Mutfak Robotu,4,540,339.19,0.0
+SP100631,2024-10-28,M0564,İstanbul,Marmara,Online,Ev & Yaşam,Yastık Seti,2,950,553.14,0.0
+SP100632,2024-03-29,M0287,Adana,Akdeniz,Online,Ev & Yaşam,Kahve Makinesi,1,490,289.41,0.0
+SP100633,2024-06-21,M0225,Ankara,İç Anadolu,Mağaza,Ev & Yaşam,Aydınlatma,4,1890,1085.03,0.1
+SP100634,2024-10-14,M0607,Adana,Akdeniz,Online,Elektronik,Powerbank,3,1280,898.7,0.05
+SP100635,2024-11-06,M0263,Adana,Akdeniz,Mağaza,Ev & Yaşam,Yastık Seti,3,670,394.19,0.4
+SP100636,2024-12-10,M0214,İstanbul,Marmara,Online,Giyim,Kazak,3,1450,636.29,0.0
+SP100637,2024-05-16,M0470,Kocaeli,Marmara,Online,Ev & Yaşam,Yastık Seti,3,330,214.25,0.0
+SP100638,2024-12-21,M0120,Bursa,Marmara,Online,Giyim,Spor Ayakkabı,2,890,397.97,0.0
+SP100639,2024-03-12,M0285,İstanbul,Marmara,Online,Giyim,Spor Ayakkabı,2,820,344.64,0.0
+SP100640,2024-12-04,M0605,Ankara,İç Anadolu,Online,Elektronik,Powerbank,2,3800,2493.69,0.0
+SP100641,2024-06-28,M0341,Antalya,Akdeniz,Mağaza,Giyim,Kazak,5,1020,473.78,0.0
+SP100642,2024-08-19,M0100,İstanbul,Marmara,Online,Ev & Yaşam,Aydınlatma,2,2400,1463.29,0.0
+SP100643,2024-09-18,M0471,Kocaeli,Marmara,Online,Kitap & Ofis,Kalem Kutusu,2,60,33.37,0.0
+SP100644,2024-02-21,M0140,İstanbul,Marmara,Online,Elektronik,Kulaklık,1,830,594.25,0.0
+SP100645,2024-07-04,M0526,Adana,Akdeniz,Online,Giyim,Mont,3,1180,536.75,0.15
+SP100646,2024-04-08,M0109,İstanbul,Marmara,Mağaza,Elektronik,Akıllı Saat,3,1640,1066.63,0.05
+SP100647,2024-07-18,M0116,İzmir,Ege,Mağaza,Ev & Yaşam,Kahve Makinesi,5,1490,882.76,0.0
+SP100648,2024-11-10,M0089,Konya,İç Anadolu,Online,Giyim,Tişört,1,700,289.99,0.4
+SP100649,2024-08-17,M0164,Kocaeli,Marmara,Mağaza,Kozmetik,Parfüm,4,810,301.12,0.0
+SP100650,2024-04-02,M0544,İzmir,Ege,Online,Ev & Yaşam,Kahve Makinesi,1,1190,708.61,0.05
+SP100651,2024-11-06,M0158,İzmir,Ege,Mağaza,Elektronik,Powerbank,1,2120,1468.56,0.2
+SP100652,2024-05-14,M0061,İstanbul,Marmara,Online,Giyim,Tişört,3,1070,449.85,0.0
+SP100653,2024-02-22,M0688,İstanbul,Marmara,Mağaza,Giyim,Spor Ayakkabı,3,540,232.98,0.0
+SP100654,2024-03-24,M0028,Antalya,Akdeniz,Online,Elektronik,Kulaklık,1,1790,1315.55,0.1
+SP100655,2024-11-30,M0173,Konya,İç Anadolu,Mağaza,Elektronik,Kulaklık,4,1630,1097.87,0.2
+SP100656,2024-04-10,M0533,Antalya,Akdeniz,Mağaza,Giyim,Tişört,1,1550,658.96,0.0
+SP100657,2024-03-29,M0626,Kocaeli,Marmara,Mağaza,Ev & Yaşam,Aydınlatma,4,920,594.31,0.05
+SP100658,2024-10-17,M0339,İstanbul,Marmara,Online,Kozmetik,Cilt Bakım Seti,3,410,156.1,0.05
+SP100659,2024-02-03,M0032,Trabzon,Karadeniz,Mağaza,Kozmetik,Şampuan,3,410,171.04,0.05
+SP100660,2024-03-03,M0076,Bursa,Marmara,Mağaza,Ev & Yaşam,Mutfak Robotu,4,1550,918.1,0.0
+SP100661,2024-01-31,M0672,İzmir,Ege,Online,Ev & Yaşam,Aydınlatma,3,310,184.38,0.0
+SP100662,2024-09-28,M0125,İzmir,Ege,Mağaza,Elektronik,Bluetooth Hoparlör,4,840,575.46,0.0
+SP100663,2024-07-27,M0493,İstanbul,Marmara,Mağaza,Ev & Yaşam,Mutfak Robotu,4,1680,974.62,0.0
+SP100664,2024-03-23,M0729,Konya,İç Anadolu,Online,Giyim,Mont,1,440,197.2,0.1
+SP100665,2024-05-23,M0444,İstanbul,Marmara,Online,Ev & Yaşam,Mutfak Robotu,3,990,595.63,0.0
+SP100666,2024-12-28,M0288,İzmir,Ege,Online,Giyim,Spor Ayakkabı,2,630,290.93,0.0
+SP100667,2024-02-08,M0527,İstanbul,Marmara,Online,Kozmetik,Makyaj Paleti,4,710,283.31,0.0
+SP100668,2024-08-13,M0680,Antalya,Akdeniz,Mağaza,Elektronik,Powerbank,2,2000,1299.42,0.05
+SP100669,2024-12-08,M0451,Ankara,İç Anadolu,Online,Kitap & Ofis,Defter Seti,2,300,172.79,0.0
+SP100670,2024-02-25,M0435,Antalya,Akdeniz,Online,Elektronik,Powerbank,4,2070,1451.42,0.0
+SP100671,2024-02-28,M0018,İzmir,Ege,Online,Ev & Yaşam,Kahve Makinesi,5,1550,893.95,0.0
+SP100672,2024-09-15,M0643,Gaziantep,Güneydoğu,Online,Kozmetik,Cilt Bakım Seti,1,630,235.92,0.1
+SP100673,2024-02-28,M0209,Kocaeli,Marmara,Online,Giyim,Mont,1,960,443.25,0.0
+SP100674,2024-06-26,M0022,Ankara,İç Anadolu,Mağaza,Elektronik,Powerbank,2,650,419.44,0.05
+SP100675,2024-11-04,M0201,Adana,Akdeniz,Online,Elektronik,Bluetooth Hoparlör,3,1750,1285.16,0.3
+SP100676,2024-05-30,M0349,Antalya,Akdeniz,Online,Ev & Yaşam,Mutfak Robotu,3,2350,1399.21,0.1
+SP100677,2024-04-16,M0779,İstanbul,Marmara,Online,Elektronik,Powerbank,4,3900,2819.0,0.05
+SP100678,2024-12-05,M0175,Gaziantep,Güneydoğu,Mağaza,Giyim,Kazak,5,840,355.23,0.15
+SP100679,2024-05-06,M0030,İstanbul,Marmara,Mağaza,Giyim,Mont,1,1260,522.14,0.0
+SP100680,2024-04-17,M0462,Adana,Akdeniz,Online,Ev & Yaşam,Yastık Seti,2,1430,901.84,0.0
+SP100681,2024-12-02,M0255,Konya,İç Anadolu,Online,Elektronik,Kulaklık,4,2680,1775.3,0.15
+SP100682,2024-07-25,M0575,Adana,Akdeniz,Mağaza,Ev & Yaşam,Yastık Seti,5,430,275.91,0.05
+SP100683,2024-05-15,M0593,Ankara,İç Anadolu,Mağaza,Elektronik,Kulaklık,1,2210,1524.23,0.05
+SP100684,2024-07-17,M0606,İstanbul,Marmara,Online,Ev & Yaşam,Kahve Makinesi,1,2410,1543.52,0.0
+SP100685,2024-04-03,M0684,İstanbul,Marmara,Online,Kozmetik,Makyaj Paleti,4,180,67.38,0.0
+SP100686,2024-03-09,M0765,İstanbul,Marmara,Online,Giyim,Tişört,3,1590,739.43,0.0
+SP100687,2024-10-20,M0449,Antalya,Akdeniz,Online,Kozmetik,Parfüm,5,250,94.53,0.15
+SP100688,2024-10-24,M0519,Gaziantep,Güneydoğu,Online,Ev & Yaşam,Kahve Makinesi,2,260,150.39,0.1
+SP100689,2024-01-15,M0725,İstanbul,Marmara,Mağaza,Kitap & Ofis,Kalem Kutusu,4,340,188.58,0.0
+SP100690,2024-11-02,M0579,Ankara,İç Anadolu,Online,Giyim,Kazak,1,1740,813.17,0.3
+SP100691,2024-09-24,M0068,İstanbul,Marmara,Online,Kozmetik,Şampuan,1,190,70.23,0.1
+SP100692,2024-07-18,M0066,Ankara,İç Anadolu,Mağaza,Ev & Yaşam,Mutfak Robotu,2,680,417.18,0.0
+SP100693,2024-11-14,M0145,Konya,İç Anadolu,Mağaza,Kozmetik,Şampuan,5,820,329.64,0.4
+SP100694,2024-07-16,M0643,İstanbul,Marmara,Mağaza,Kozmetik,Şampuan,3,470,185.28,0.0
+SP100695,2024-10-15,M0018,İstanbul,Marmara,Mağaza,Elektronik,Bluetooth Hoparlör,3,1930,1345.01,0.0
+SP100696,2024-07-29,M0436,Konya,İç Anadolu,Mağaza,Ev & Yaşam,Yastık Seti,5,1640,995.13,0.1
+SP100697,2024-01-11,M0290,İzmir,Ege,Mağaza,Kozmetik,Makyaj Paleti,5,100,38.91,0.0
+SP100698,2024-06-21,M0458,İstanbul,Marmara,Online,Ev & Yaşam,Mutfak Robotu,1,780,497.09,0.15
+SP100699,2024-02-19,M0369,İzmir,Ege,Mağaza,Ev & Yaşam,Kahve Makinesi,5,1800,1144.82,0.1
+SP100700,2024-01-26,M0436,İstanbul,Marmara,Online,Ev & Yaşam,Kahve Makinesi,1,1510,957.89,0.0
+SP100701,2024-10-18,M0155,İstanbul,Marmara,Online,Kitap & Ofis,Kalem Kutusu,3,260,135.8,0.15
+SP100702,2024-05-24,M0425,Ankara,İç Anadolu,Mağaza,Ev & Yaşam,Aydınlatma,2,2090,1234.35,0.0
+SP100703,2024-10-26,M0175,İstanbul,Marmara,Mağaza,Ev & Yaşam,Yastık Seti,3,770,470.64,0.0
+SP100704,2024-10-23,M0650,İstanbul,Marmara,Mağaza,Kozmetik,Makyaj Paleti,2,720,300.46,0.0
+SP100705,2024-07-21,M0003,İstanbul,Marmara,Online,Kitap & Ofis,Defter Seti,1,300,163.53,0.0
+SP100706,2024-10-28,M0669,İstanbul,Marmara,Online,Kozmetik,Cilt Bakım Seti,5,820,317.54,0.0
+SP100707,2024-05-06,M0577,Ankara,İç Anadolu,Mağaza,Ev & Yaşam,Mutfak Robotu,3,2170,1325.07,0.05
+SP100708,2024-03-03,M0267,İstanbul,Marmara,Online,Giyim,Mont,4,920,405.51,0.0
+SP100709,2024-11-20,M0612,İzmir,Ege,Online,Kozmetik,Şampuan,2,130,48.25,0.2
+SP100710,2024-10-03,M0701,Gaziantep,Güneydoğu,Mağaza,Elektronik,Kulaklık,5,630,460.88,0.0
+SP100711,2024-05-21,M0791,Ankara,İç Anadolu,Mağaza,Giyim,Spor Ayakkabı,5,1740,747.92,0.0
+SP100712,2024-01-02,M0549,İzmir,Ege,Mağaza,Giyim,Tişört,1,180,84.03,0.05
+SP100713,2024-07-09,M0792,Bursa,Marmara,Online,Giyim,Mont,5,1760,816.62,0.0
+SP100714,2024-11-29,M0595,Adana,Akdeniz,Online,Giyim,Kazak,4,440,197.2,0.3
+SP100715,2024-05-26,M0779,İstanbul,Marmara,Mağaza,Ev & Yaşam,Kahve Makinesi,3,2440,1402.89,0.0
+SP100716,2024-06-13,M0590,Ankara,İç Anadolu,Online,Giyim,Kazak,2,1600,741.69,0.0
+SP100717,2024-08-06,M0694,Konya,İç Anadolu,Mağaza,Elektronik,Powerbank,4,3270,2358.69,0.0
+SP100718,2024-04-05,M0285,Ankara,İç Anadolu,Mağaza,Giyim,Kazak,1,1330,598.22,0.15
+SP100719,2024-06-14,M0363,İstanbul,Marmara,Online,Kozmetik,Cilt Bakım Seti,5,590,244.75,0.0
+SP100720,2024-04-28,M0108,İstanbul,Marmara,Online,Elektronik,Bluetooth Hoparlör,3,2800,1905.45,0.0
+SP100721,2024-03-02,M0102,Trabzon,Karadeniz,Online,Elektronik,Akıllı Saat,1,1670,1224.23,0.05
+SP100722,2024-12-06,M0626,Trabzon,Karadeniz,Online,Kozmetik,Cilt Bakım Seti,2,320,131.05,0.0
+SP100723,2024-05-12,M0599,Adana,Akdeniz,Online,Giyim,Kazak,5,1390,597.41,0.0
+SP100724,2024-05-30,M0736,İstanbul,Marmara,Online,Kitap & Ofis,Ajanda,5,160,88.48,0.1
+SP100725,2024-10-04,M0006,İstanbul,Marmara,Online,Elektronik,Bluetooth Hoparlör,2,570,377.53,0.1
+SP100726,2024-01-23,M0161,Adana,Akdeniz,Online,Ev & Yaşam,Kahve Makinesi,4,1850,1063.5,0.1
+SP100727,2024-12-24,M0653,Konya,İç Anadolu,Mağaza,Ev & Yaşam,Mutfak Robotu,2,910,523.97,0.05
+SP100728,2024-06-17,M0777,İzmir,Ege,Online,Kitap & Ofis,Defter Seti,4,70,38.11,0.0
+SP100729,2024-10-01,M0479,İzmir,Ege,Online,Giyim,Spor Ayakkabı,4,1360,638.95,0.05
+SP100730,2024-12-21,M0798,Konya,İç Anadolu,Online,Elektronik,Powerbank,5,970,645.78,0.0
+SP100731,2024-05-02,M0098,İstanbul,Marmara,Mağaza,Ev & Yaşam,Mutfak Robotu,4,1780,1096.09,0.05
+SP100732,2024-07-29,M0019,İzmir,Ege,Mağaza,Ev & Yaşam,Kahve Makinesi,2,380,238.58,0.0
+SP100733,2024-02-01,M0049,Trabzon,Karadeniz,Mağaza,Ev & Yaşam,Yastık Seti,5,460,263.71,0.0
+SP100734,2024-11-13,M0078,İzmir,Ege,Online,Kitap & Ofis,Roman,5,340,194.74,0.3
+SP100735,2024-03-31,M0350,Gaziantep,Güneydoğu,Online,Giyim,Mont,2,1000,463.9,0.1
+SP100736,2024-12-11,M0754,Antalya,Akdeniz,Online,Elektronik,Akıllı Saat,1,3450,2391.92,0.15
+SP100737,2024-12-09,M0305,Antalya,Akdeniz,Online,Kozmetik,Parfüm,3,470,191.01,0.05
+SP100738,2024-12-23,M0358,Kocaeli,Marmara,Mağaza,Kozmetik,Şampuan,4,120,45.47,0.05
+SP100739,2024-07-22,M0301,Adana,Akdeniz,Mağaza,Giyim,Spor Ayakkabı,3,990,410.67,0.1
+SP100740,2024-12-01,M0312,Ankara,İç Anadolu,Online,Kozmetik,Şampuan,1,620,248.86,0.0
+SP100741,2024-04-02,M0084,Bursa,Marmara,Online,Ev & Yaşam,Yastık Seti,5,960,595.49,0.05
+SP100742,2024-03-22,M0750,Antalya,Akdeniz,Online,Elektronik,Bluetooth Hoparlör,4,2760,1961.79,0.0
+SP100743,2024-01-16,M0183,Adana,Akdeniz,Mağaza,Giyim,Spor Ayakkabı,5,1190,531.66,0.0
+SP100744,2024-03-26,M0124,Gaziantep,Güneydoğu,Mağaza,Ev & Yaşam,Aydınlatma,1,940,545.46,0.05
+SP100745,2024-11-07,M0725,İstanbul,Marmara,Online,Elektronik,Akıllı Saat,1,3100,2150.54,0.1
+SP100746,2024-11-27,M0778,Adana,Akdeniz,Online,Giyim,Spor Ayakkabı,1,930,386.65,0.2
+SP100747,2024-05-11,M0147,Bursa,Marmara,Mağaza,Giyim,Mont,3,800,331.2,0.0
+SP100748,2024-03-15,M0418,Konya,İç Anadolu,Online,Kitap & Ofis,Roman,3,310,164.19,0.15
+SP100749,2024-08-19,M0678,Adana,Akdeniz,Mağaza,Elektronik,Powerbank,2,3120,2242.68,0.0
+SP100750,2024-06-23,M0017,Adana,Akdeniz,Online,Ev & Yaşam,Kahve Makinesi,5,2430,1487.13,0.05
+SP100751,2024-03-27,M0266,İzmir,Ege,Online,Kitap & Ofis,Roman,2,210,113.76,0.05
+SP100752,2024-06-16,M0573,İstanbul,Marmara,Online,Ev & Yaşam,Yastık Seti,4,1170,722.95,0.1
+SP100753,2024-12-10,M0382,Bursa,Marmara,Mağaza,Kozmetik,Parfüm,3,750,286.9,0.0
+SP100754,2024-11-09,M0283,İzmir,Ege,Online,Elektronik,Akıllı Saat,2,1590,1162.88,0.1
+SP100755,2024-03-20,M0219,Trabzon,Karadeniz,Mağaza,Elektronik,Powerbank,1,3260,2330.08,0.0
+SP100756,2024-12-19,M0389,İzmir,Ege,Mağaza,Ev & Yaşam,Aydınlatma,4,1230,760.87,0.15
+SP100757,2024-05-23,M0577,İzmir,Ege,Online,Elektronik,Kulaklık,1,1990,1337.92,0.0
+SP100758,2024-09-28,M0112,İstanbul,Marmara,Online,Giyim,Tişört,5,480,222.29,0.0
+SP100759,2024-09-12,M0560,İstanbul,Marmara,Online,Elektronik,Bluetooth Hoparlör,5,1340,961.81,0.0
+SP100760,2024-09-13,M0751,İstanbul,Marmara,Online,Giyim,Spor Ayakkabı,4,1760,753.21,0.0
+SP100761,2024-03-29,M0418,Antalya,Akdeniz,Mağaza,Kitap & Ofis,Kalem Kutusu,3,120,62.39,0.0
+SP100762,2024-11-29,M0097,Gaziantep,Güneydoğu,Mağaza,Giyim,Tişört,1,1060,494.1,0.2
+SP100763,2024-10-16,M0089,Antalya,Akdeniz,Mağaza,Ev & Yaşam,Aydınlatma,1,330,207.4,0.0
+SP100764,2024-04-15,M0030,Ankara,İç Anadolu,Online,Elektronik,Powerbank,2,3750,2683.02,0.0
+SP100765,2024-06-29,M0266,İstanbul,Marmara,Online,Kitap & Ofis,Kalem Kutusu,1,190,109.57,0.0
+SP100766,2024-07-19,M0440,Kocaeli,Marmara,Online,Giyim,Mont,1,1760,761.74,0.0
+SP100767,2024-04-04,M0762,Gaziantep,Güneydoğu,Online,Ev & Yaşam,Kahve Makinesi,1,1260,766.08,0.1
+SP100768,2024-11-28,M0251,İstanbul,Marmara,Online,Elektronik,Kulaklık,5,2560,1712.2,0.2
+SP100769,2024-10-08,M0247,Adana,Akdeniz,Online,Kozmetik,Şampuan,5,420,163.06,0.0
+SP100770,2024-09-07,M0607,Ankara,İç Anadolu,Online,Ev & Yaşam,Kahve Makinesi,2,840,525.37,0.0
+SP100771,2024-12-16,M0658,Kocaeli,Marmara,Online,Giyim,Spor Ayakkabı,3,320,138.96,0.0
+SP100772,2024-10-21,M0418,İzmir,Ege,Mağaza,Kitap & Ofis,Roman,5,60,33.05,0.0
+SP100773,2024-09-19,M0349,İstanbul,Marmara,Online,Kitap & Ofis,Kalem Kutusu,3,170,97.49,0.0
+SP100774,2024-10-13,M0586,Ankara,İç Anadolu,Online,Elektronik,Akıllı Saat,1,840,609.78,0.0
+SP100775,2024-06-01,M0500,Adana,Akdeniz,Online,Ev & Yaşam,Aydınlatma,1,2270,1367.86,0.0
+SP100776,2024-09-12,M0350,Trabzon,Karadeniz,Mağaza,Elektronik,Akıllı Saat,1,1300,907.37,0.0
+SP100777,2024-08-21,M0781,İzmir,Ege,Mağaza,Giyim,Mont,2,510,226.49,0.05
+SP100778,2024-03-04,M0086,İstanbul,Marmara,Online,Elektronik,Bluetooth Hoparlör,3,3690,2544.63,0.1
+SP100779,2024-05-18,M0572,Gaziantep,Güneydoğu,Online,Ev & Yaşam,Kahve Makinesi,2,480,296.39,0.0
+SP100780,2024-04-03,M0436,Gaziantep,Güneydoğu,Online,Giyim,Kazak,2,1210,564.08,0.0
+SP100781,2024-06-04,M0323,İstanbul,Marmara,Mağaza,Elektronik,Kulaklık,4,2690,1734.88,0.15
+SP100782,2024-10-14,M0057,Antalya,Akdeniz,Online,Ev & Yaşam,Kahve Makinesi,1,1560,917.68,0.0
+SP100783,2024-03-14,M0606,İstanbul,Marmara,Mağaza,Giyim,Mont,1,1110,484.93,0.0
+SP100784,2024-06-19,M0386,Konya,İç Anadolu,Online,Kozmetik,Cilt Bakım Seti,4,280,117.51,0.0
+SP100785,2024-12-16,M0059,Konya,İç Anadolu,Online,Kozmetik,Şampuan,2,150,62.47,0.0
+SP100786,2024-07-22,M0613,Gaziantep,Güneydoğu,Online,Ev & Yaşam,Mutfak Robotu,4,1160,714.75,0.0
+SP100787,2024-10-11,M0495,Ankara,İç Anadolu,Online,Elektronik,Powerbank,3,2490,1759.31,0.1
+SP100788,2024-04-23,M0751,Antalya,Akdeniz,Online,Ev & Yaşam,Yastık Seti,5,2240,1409.81,0.1
+SP100789,2024-11-21,M0731,Konya,İç Anadolu,Online,Elektronik,Akıllı Saat,5,3220,2310.26,0.3
+SP100790,2024-05-02,M0375,İstanbul,Marmara,Mağaza,Giyim,Kazak,4,560,246.93,0.0
+SP100791,2024-11-08,M0121,İstanbul,Marmara,Online,Kitap & Ofis,Kalem Kutusu,5,100,55.7,0.2
+SP100792,2024-01-13,M0017,İzmir,Ege,Mağaza,Ev & Yaşam,Mutfak Robotu,2,1150,660.56,0.0
+SP100793,2024-12-16,M0301,İstanbul,Marmara,Mağaza,Kitap & Ofis,Defter Seti,1,140,73.52,0.0
+SP100794,2024-08-13,M0535,Konya,İç Anadolu,Online,Giyim,Spor Ayakkabı,4,1420,647.17,0.0
+SP100795,2024-11-25,M0345,Ankara,İç Anadolu,Mağaza,Giyim,Tişört,4,360,168.43,0.1
+SP100796,2024-10-06,M0296,Bursa,Marmara,Mağaza,Kitap & Ofis,Roman,1,170,95.27,0.0
+SP100797,2024-11-25,M0352,Ankara,İç Anadolu,Mağaza,Giyim,Mont,4,450,190.36,0.4
+SP100798,2024-07-19,M0423,Adana,Akdeniz,Mağaza,Elektronik,Bluetooth Hoparlör,1,1760,1140.2,0.15
+SP100799,2024-02-16,M0662,İstanbul,Marmara,Mağaza,Elektronik,Akıllı Saat,2,3790,2575.94,0.1
+SP100800,2024-04-29,M0423,Antalya,Akdeniz,Online,Giyim,Tişört,2,590,272.76,0.0
+SP100801,2024-11-13,M0269,Bursa,Marmara,Mağaza,Ev & Yaşam,Mutfak Robotu,2,470,270.62,0.1
+SP100802,2024-07-12,M0719,Antalya,Akdeniz,Online,Elektronik,Bluetooth Hoparlör,1,1020,721.15,0.0
+SP100803,2024-10-12,M0413,Konya,İç Anadolu,Online,Kozmetik,Makyaj Paleti,5,660,272.87,0.0
+SP100804,2024-01-02,M0126,İzmir,Ege,Online,Kozmetik,Makyaj Paleti,1,130,51.21,0.05
+SP100805,2024-08-18,M0616,İstanbul,Marmara,Online,Ev & Yaşam,Yastık Seti,4,1360,873.91,0.1
+SP100806,2024-02-23,M0673,Antalya,Akdeniz,Online,Giyim,Kazak,4,550,233.32,0.0
+SP100807,2024-11-18,M0042,Kocaeli,Marmara,Mağaza,Kozmetik,Parfüm,4,570,226.2,0.1
+SP100808,2024-05-29,M0225,Konya,İç Anadolu,Mağaza,Elektronik,Powerbank,1,2360,1707.55,0.0
+SP100809,2024-11-03,M0473,Adana,Akdeniz,Online,Kozmetik,Makyaj Paleti,5,690,282.65,0.2
+SP100810,2024-12-01,M0696,İstanbul,Marmara,Online,Giyim,Kazak,3,1280,600.53,0.0
+SP100811,2024-04-09,M0256,İzmir,Ege,Online,Elektronik,Kulaklık,1,1860,1310.09,0.0
+SP100812,2024-01-17,M0109,Antalya,Akdeniz,Online,Ev & Yaşam,Aydınlatma,4,1040,644.92,0.1
+SP100813,2024-12-18,M0035,Bursa,Marmara,Mağaza,Elektronik,Bluetooth Hoparlör,3,1100,804.73,0.1
+SP100814,2024-04-03,M0797,İzmir,Ege,Online,Ev & Yaşam,Yastık Seti,5,520,320.21,0.0
+SP100815,2024-12-05,M0731,İzmir,Ege,Online,Giyim,Spor Ayakkabı,4,1720,791.12,0.1
+SP100816,2024-11-07,M0492,Ankara,İç Anadolu,Mağaza,Giyim,Mont,4,960,452.26,0.2
+SP100817,2024-06-06,M0788,İstanbul,Marmara,Mağaza,Ev & Yaşam,Yastık Seti,2,1650,1052.31,0.0
+SP100818,2024-07-24,M0386,Antalya,Akdeniz,Mağaza,Ev & Yaşam,Mutfak Robotu,2,1010,580.85,0.0
+SP100819,2024-08-05,M0018,İstanbul,Marmara,Online,Kitap & Ofis,Defter Seti,2,220,113.0,0.0
+SP100820,2024-04-02,M0671,İstanbul,Marmara,Mağaza,Ev & Yaşam,Aydınlatma,4,1170,710.99,0.0
+SP100821,2024-03-18,M0282,Adana,Akdeniz,Online,Giyim,Tişört,3,1270,555.48,0.0
+SP100822,2024-03-14,M0521,Konya,İç Anadolu,Online,Ev & Yaşam,Yastık Seti,4,500,295.46,0.0
+SP100823,2024-08-05,M0182,İzmir,Ege,Mağaza,Elektronik,Kulaklık,1,2280,1514.57,0.0
+SP100824,2024-12-29,M0113,Ankara,İç Anadolu,Mağaza,Elektronik,Bluetooth Hoparlör,5,830,586.24,0.1
+SP100825,2024-05-04,M0409,Adana,Akdeniz,Online,Ev & Yaşam,Kahve Makinesi,5,1780,1066.84,0.0
+SP100826,2024-12-26,M0279,İstanbul,Marmara,Online,Giyim,Mont,4,1260,558.91,0.0
+SP100827,2024-03-11,M0757,Kocaeli,Marmara,Online,Elektronik,Akıllı Saat,1,1700,1135.27,0.0
+SP100828,2024-06-04,M0223,İzmir,Ege,Online,Kozmetik,Şampuan,1,890,351.55,0.05
+SP100829,2024-06-10,M0335,İstanbul,Marmara,Online,Kitap & Ofis,Defter Seti,4,160,81.09,0.1
+SP100830,2024-06-10,M0113,Antalya,Akdeniz,Online,Ev & Yaşam,Yastık Seti,1,1720,1032.97,0.0
+SP100831,2024-12-29,M0332,Ankara,İç Anadolu,Online,Elektronik,Bluetooth Hoparlör,3,3370,2351.12,0.0
+SP100832,2024-10-11,M0149,İstanbul,Marmara,Mağaza,Elektronik,Powerbank,1,2470,1623.53,0.15
+SP100833,2024-11-08,M0306,Ankara,İç Anadolu,Online,Elektronik,Kulaklık,5,1180,779.22,0.2
+SP100834,2024-10-03,M0601,Ankara,İç Anadolu,Online,Elektronik,Akıllı Saat,2,1940,1323.17,0.0
+SP100835,2024-11-30,M0555,Konya,İç Anadolu,Mağaza,Kozmetik,Şampuan,1,150,55.7,0.3
+SP100836,2024-10-03,M0567,İstanbul,Marmara,Online,Elektronik,Kulaklık,4,2530,1656.48,0.05
+SP100837,2024-02-25,M0160,Trabzon,Karadeniz,Mağaza,Elektronik,Akıllı Saat,2,2990,2076.31,0.0
+SP100838,2024-03-05,M0257,Bursa,Marmara,Online,Giyim,Mont,1,1020,442.04,0.0
+SP100839,2024-11-21,M0776,Bursa,Marmara,Online,Ev & Yaşam,Mutfak Robotu,1,1780,1083.42,0.1
+SP100840,2024-07-20,M0152,Trabzon,Karadeniz,Online,Elektronik,Bluetooth Hoparlör,3,2310,1682.72,0.05
+SP100841,2024-01-14,M0663,Kocaeli,Marmara,Mağaza,Kitap & Ofis,Ajanda,4,250,132.1,0.0
+SP100842,2024-06-16,M0077,Trabzon,Karadeniz,Mağaza,Giyim,Kazak,2,1320,574.55,0.0
+SP100843,2024-07-13,M0026,İstanbul,Marmara,Online,Elektronik,Kulaklık,4,1210,815.25,0.0
+SP100844,2024-03-20,M0484,Antalya,Akdeniz,Mağaza,Giyim,Spor Ayakkabı,2,910,428.76,0.05
+SP100845,2024-11-24,M0271,Konya,İç Anadolu,Online,Giyim,Spor Ayakkabı,2,820,369.46,0.2
+SP100846,2024-10-02,M0111,Gaziantep,Güneydoğu,Online,Elektronik,Akıllı Saat,4,1580,1138.07,0.0
+SP100847,2024-12-27,M0576,Ankara,İç Anadolu,Mağaza,Kozmetik,Cilt Bakım Seti,2,610,249.48,0.0
+SP100848,2024-09-02,M0018,Ankara,İç Anadolu,Online,Elektronik,Bluetooth Hoparlör,2,2120,1369.72,0.05
+SP100849,2024-07-06,M0762,Ankara,İç Anadolu,Mağaza,Kitap & Ofis,Ajanda,4,150,86.04,0.0
+SP100850,2024-10-11,M0613,İzmir,Ege,Online,Kozmetik,Makyaj Paleti,1,360,145.86,0.0
+SP100851,2024-05-09,M0169,İstanbul,Marmara,Mağaza,Ev & Yaşam,Mutfak Robotu,2,1980,1214.94,0.0
+SP100852,2024-07-13,M0103,Antalya,Akdeniz,Mağaza,Giyim,Spor Ayakkabı,5,1580,733.99,0.05
+SP100853,2024-11-02,M0358,İzmir,Ege,Online,Kozmetik,Şampuan,4,390,158.2,0.1
+SP100854,2024-11-27,M0599,İstanbul,Marmara,Online,Giyim,Mont,4,1020,454.81,0.4
+SP100855,2024-07-15,M0363,Bursa,Marmara,Mağaza,Giyim,Mont,2,700,307.22,0.0
+SP100856,2024-06-26,M0012,Adana,Akdeniz,Online,Elektronik,Bluetooth Hoparlör,2,760,503.02,0.05
+SP100857,2024-09-23,M0133,Ankara,İç Anadolu,Online,Giyim,Spor Ayakkabı,4,150,64.23,0.0
+SP100858,2024-10-20,M0607,İstanbul,Marmara,Online,Giyim,Mont,5,1270,553.76,0.05
+SP100859,2024-12-10,M0691,İstanbul,Marmara,Online,Giyim,Tişört,5,1260,576.1,0.1
+SP100860,2024-06-18,M0714,İstanbul,Marmara,Online,Elektronik,Bluetooth Hoparlör,4,1400,1026.77,0.1
+SP100861,2024-02-22,M0264,Ankara,İç Anadolu,Online,Ev & Yaşam,Kahve Makinesi,1,280,177.43,0.0
+SP100862,2024-12-09,M0746,Gaziantep,Güneydoğu,Online,Ev & Yaşam,Mutfak Robotu,2,1260,786.12,0.0
+SP100863,2024-06-25,M0031,Trabzon,Karadeniz,Online,Giyim,Kazak,4,1730,799.86,0.0
+SP100864,2024-10-26,M0089,İzmir,Ege,Online,Giyim,Spor Ayakkabı,4,250,115.59,0.0
+SP100865,2024-05-15,M0248,Antalya,Akdeniz,Online,Kozmetik,Parfüm,2,470,187.69,0.0
+SP100866,2024-07-29,M0038,Ankara,İç Anadolu,Online,Kitap & Ofis,Roman,2,60,32.47,0.1
+SP100867,2024-11-21,M0103,İzmir,Ege,Online,Elektronik,Kulaklık,2,2580,1714.88,0.2
+SP100868,2024-12-25,M0502,İstanbul,Marmara,Mağaza,Giyim,Mont,4,1430,644.17,0.05
+SP100869,2024-04-21,M0076,Adana,Akdeniz,Online,Elektronik,Kulaklık,2,3280,2182.71,0.0
+SP100870,2024-04-21,M0285,Bursa,Marmara,Mağaza,Elektronik,Bluetooth Hoparlör,1,2460,1695.41,0.0
+SP100871,2024-05-14,M0536,Konya,İç Anadolu,Mağaza,Kozmetik,Makyaj Paleti,3,710,262.51,0.0
+SP100872,2024-08-01,M0544,Ankara,İç Anadolu,Online,Kozmetik,Cilt Bakım Seti,4,180,67.87,0.15
+SP100873,2024-09-19,M0180,Ankara,İç Anadolu,Online,Elektronik,Akıllı Saat,2,1120,752.76,0.1
+SP100874,2024-12-15,M0333,İstanbul,Marmara,Online,Elektronik,Powerbank,3,740,484.95,0.0
+SP100875,2024-06-17,M0636,Gaziantep,Güneydoğu,Online,Ev & Yaşam,Mutfak Robotu,4,580,371.32,0.0
+SP100876,2024-11-14,M0141,Trabzon,Karadeniz,Online,Giyim,Spor Ayakkabı,1,770,354.48,0.3
+SP100877,2024-09-10,M0500,İzmir,Ege,Online,Giyim,Spor Ayakkabı,2,320,138.61,0.05
+SP100878,2024-11-12,M0078,İstanbul,Marmara,Mağaza,Elektronik,Kulaklık,3,3310,2398.62,0.2
+SP100879,2024-11-29,M0038,Adana,Akdeniz,Online,Elektronik,Akıllı Saat,2,2650,1789.06,0.3
+SP100880,2024-03-26,M0654,İzmir,Ege,Online,Giyim,Spor Ayakkabı,2,270,114.98,0.05
+SP100881,2024-04-28,M0597,Antalya,Akdeniz,Online,Ev & Yaşam,Aydınlatma,5,1260,732.21,0.0
+SP100882,2024-01-16,M0586,İstanbul,Marmara,Mağaza,Giyim,Spor Ayakkabı,1,1200,545.65,0.0
+SP100883,2024-08-04,M0756,İstanbul,Marmara,Online,Ev & Yaşam,Mutfak Robotu,5,2070,1202.08,0.0
+SP100884,2024-03-08,M0142,İstanbul,Marmara,Mağaza,Giyim,Spor Ayakkabı,4,570,243.51,0.1
+SP100885,2024-02-14,M0493,Konya,İç Anadolu,Online,Elektronik,Powerbank,1,2920,2133.06,0.0
+SP100886,2024-09-29,M0068,İzmir,Ege,Online,Elektronik,Kulaklık,2,2730,1803.98,0.0
+SP100887,2024-02-14,M0052,İstanbul,Marmara,Online,Elektronik,Bluetooth Hoparlör,1,3210,2254.72,0.05
+SP100888,2024-04-26,M0361,İzmir,Ege,Online,Elektronik,Akıllı Saat,4,1280,872.58,0.0
+SP100889,2024-01-10,M0599,Ankara,İç Anadolu,Mağaza,Giyim,Mont,3,1230,579.27,0.1
+SP100890,2024-06-30,M0600,İstanbul,Marmara,Online,Elektronik,Kulaklık,3,1350,991.79,0.0
+SP100891,2024-01-07,M0126,Trabzon,Karadeniz,Online,Ev & Yaşam,Yastık Seti,3,990,565.78,0.0
+SP100892,2024-10-18,M0779,Konya,İç Anadolu,Online,Elektronik,Kulaklık,5,3060,2117.3,0.0
+SP100893,2024-07-25,M0354,Adana,Akdeniz,Online,Giyim,Tişört,2,220,94.98,0.05
+SP100894,2024-03-20,M0198,Adana,Akdeniz,Mağaza,Kitap & Ofis,Kalem Kutusu,3,180,97.95,0.05
+SP100895,2024-06-03,M0223,Trabzon,Karadeniz,Mağaza,Ev & Yaşam,Kahve Makinesi,5,1980,1210.6,0.05
+SP100896,2024-12-13,M0525,Bursa,Marmara,Online,Ev & Yaşam,Yastık Seti,1,2130,1219.75,0.15
+SP100897,2024-12-05,M0113,Antalya,Akdeniz,Online,Elektronik,Akıllı Saat,4,770,513.47,0.05
+SP100898,2024-08-12,M0405,Konya,İç Anadolu,Mağaza,Elektronik,Bluetooth Hoparlör,1,1490,1050.18,0.0
+SP100899,2024-03-06,M0636,Ankara,İç Anadolu,Online,Elektronik,Kulaklık,1,3600,2560.62,0.0
+SP100900,2024-12-15,M0423,İzmir,Ege,Online,Giyim,Tişört,3,490,218.07,0.0
+SP100901,2024-05-02,M0457,Antalya,Akdeniz,Online,Giyim,Mont,2,730,327.88,0.0
+SP100902,2024-04-17,M0454,İstanbul,Marmara,Online,Ev & Yaşam,Mutfak Robotu,2,950,586.31,0.0
+SP100903,2024-02-24,M0559,Konya,İç Anadolu,Online,Kitap & Ofis,Ajanda,4,190,102.56,0.05
+SP100904,2024-04-26,M0105,İzmir,Ege,Mağaza,Elektronik,Kulaklık,2,2170,1488.36,0.1
+SP100905,2024-09-23,M0559,İstanbul,Marmara,Online,Ev & Yaşam,Yastık Seti,1,550,353.11,0.0
+SP100906,2024-04-28,M0700,İstanbul,Marmara,Mağaza,Kozmetik,Cilt Bakım Seti,5,670,254.52,0.1
+SP100907,2024-12-14,M0669,Adana,Akdeniz,Mağaza,Giyim,Mont,5,1490,668.16,0.0
+SP100908,2024-08-01,M0163,İzmir,Ege,Mağaza,Ev & Yaşam,Kahve Makinesi,2,1290,812.25,0.0
+SP100909,2024-04-07,M0638,Gaziantep,Güneydoğu,Mağaza,Kozmetik,Makyaj Paleti,4,430,167.4,0.0
+SP100910,2024-01-12,M0020,İstanbul,Marmara,Mağaza,Kitap & Ofis,Defter Seti,4,330,172.54,0.1
+SP100911,2024-09-14,M0117,İstanbul,Marmara,Online,Elektronik,Akıllı Saat,4,1090,785.57,0.0
+SP100912,2024-12-09,M0568,İstanbul,Marmara,Online,Kitap & Ofis,Roman,1,160,92.09,0.0
+SP100913,2024-09-29,M0388,İzmir,Ege,Online,Kozmetik,Parfüm,1,750,277.23,0.05
+SP100914,2024-03-30,M0533,Trabzon,Karadeniz,Online,Kitap & Ofis,Kalem Kutusu,4,90,50.27,0.0
+SP100915,2024-09-11,M0694,Antalya,Akdeniz,Online,Giyim,Spor Ayakkabı,2,230,101.29,0.0
+SP100916,2024-02-15,M0499,İzmir,Ege,Online,Elektronik,Powerbank,4,2650,1744.47,0.0
+SP100917,2024-10-18,M0093,İstanbul,Marmara,Online,Ev & Yaşam,Yastık Seti,5,1190,686.76,0.05
+SP100918,2024-02-29,M0735,İzmir,Ege,Mağaza,Elektronik,Bluetooth Hoparlör,3,2680,1804.5,0.05
+SP100919,2024-01-22,M0431,Konya,İç Anadolu,Mağaza,Elektronik,Kulaklık,1,2300,1673.38,0.0
+SP100920,2024-01-26,M0117,Antalya,Akdeniz,Online,Elektronik,Powerbank,4,1510,1105.24,0.0
+SP100921,2024-11-02,M0295,İstanbul,Marmara,Online,Giyim,Kazak,5,1640,733.74,0.4
+SP100922,2024-11-14,M0689,Konya,İç Anadolu,Online,Kozmetik,Şampuan,2,880,352.73,0.4
+SP100923,2024-05-19,M0513,İstanbul,Marmara,Mağaza,Kitap & Ofis,Roman,2,240,128.77,0.0
+SP100924,2024-12-19,M0577,İstanbul,Marmara,Mağaza,Ev & Yaşam,Kahve Makinesi,5,2340,1387.22,0.0
+SP100925,2024-09-04,M0488,Adana,Akdeniz,Online,Kozmetik,Makyaj Paleti,1,880,333.66,0.0
+SP100926,2024-10-01,M0735,Bursa,Marmara,Online,Ev & Yaşam,Aydınlatma,2,760,480.17,0.0
+SP100927,2024-11-09,M0140,İstanbul,Marmara,Mağaza,Ev & Yaşam,Mutfak Robotu,5,1910,1131.04,0.2
+SP100928,2024-05-02,M0323,Adana,Akdeniz,Mağaza,Kozmetik,Makyaj Paleti,2,820,315.29,0.0
+SP100929,2024-01-25,M0299,Konya,İç Anadolu,Mağaza,Ev & Yaşam,Kahve Makinesi,5,2060,1253.71,0.15
+SP100930,2024-04-07,M0026,Kocaeli,Marmara,Online,Kozmetik,Şampuan,2,510,212.05,0.05
+SP100931,2024-09-02,M0370,İstanbul,Marmara,Mağaza,Elektronik,Akıllı Saat,2,2490,1666.74,0.0
+SP100932,2024-10-23,M0263,Ankara,İç Anadolu,Mağaza,Ev & Yaşam,Mutfak Robotu,5,1350,799.37,0.1
+SP100933,2024-07-15,M0209,Ankara,İç Anadolu,Online,Kitap & Ofis,Kalem Kutusu,2,110,60.12,0.0
+SP100934,2024-05-28,M0322,İstanbul,Marmara,Mağaza,Elektronik,Akıllı Saat,2,2090,1487.39,0.1
+SP100935,2024-04-24,M0053,İstanbul,Marmara,Mağaza,Kozmetik,Şampuan,3,110,43.83,0.0
+SP100936,2024-03-07,M0419,Trabzon,Karadeniz,Online,Elektronik,Powerbank,1,2200,1558.53,0.05
+SP100937,2024-11-10,M0755,Antalya,Akdeniz,Online,Elektronik,Kulaklık,4,940,650.42,0.4
+SP100938,2024-03-20,M0311,Kocaeli,Marmara,Online,Giyim,Mont,2,1380,605.7,0.0
+SP100939,2024-05-11,M0403,İstanbul,Marmara,Online,Kozmetik,Makyaj Paleti,1,270,101.13,0.0
+SP100940,2024-02-22,M0528,Antalya,Akdeniz,Online,Giyim,Tişört,2,1030,483.68,0.0
+SP100941,2024-07-04,M0099,Adana,Akdeniz,Online,Giyim,Spor Ayakkabı,1,760,319.01,0.0
+SP100942,2024-12-01,M0491,Gaziantep,Güneydoğu,Online,Elektronik,Bluetooth Hoparlör,3,2020,1389.54,0.0
+SP100943,2024-04-17,M0248,İstanbul,Marmara,Online,Kitap & Ofis,Kalem Kutusu,4,50,26.58,0.05
+SP100944,2024-10-03,M0766,İzmir,Ege,Online,Giyim,Spor Ayakkabı,5,370,161.21,0.0
+SP100945,2024-01-14,M0748,İzmir,Ege,Online,Giyim,Tişört,3,620,269.35,0.1
+SP100946,2024-07-12,M0724,Trabzon,Karadeniz,Online,Kitap & Ofis,Ajanda,3,110,61.48,0.1
+SP100947,2024-05-03,M0675,İstanbul,Marmara,Mağaza,Giyim,Kazak,5,280,122.79,0.0
+SP100948,2024-11-21,M0496,İstanbul,Marmara,Online,Elektronik,Kulaklık,4,3440,2267.47,0.4
+SP100949,2024-09-11,M0574,İzmir,Ege,Mağaza,Giyim,Mont,1,280,128.09,0.05
+SP100950,2024-06-29,M0512,Kocaeli,Marmara,Mağaza,Elektronik,Kulaklık,4,850,614.53,0.0
+SP100951,2024-06-30,M0031,Antalya,Akdeniz,Online,Kozmetik,Şampuan,1,590,223.67,0.1
+SP100952,2024-05-04,M0751,Trabzon,Karadeniz,Online,Elektronik,Bluetooth Hoparlör,4,3270,2239.25,0.0
+SP100953,2024-02-07,M0528,İstanbul,Marmara,Online,Elektronik,Akıllı Saat,1,2750,1954.69,0.0
+SP100954,2024-05-03,M0471,Bursa,Marmara,Online,Kozmetik,Şampuan,2,620,248.24,0.1
+SP100955,2024-03-11,M0200,İstanbul,Marmara,Mağaza,Elektronik,Powerbank,5,1220,827.17,0.0
+SP100956,2024-05-12,M0293,İstanbul,Marmara,Online,Giyim,Spor Ayakkabı,4,1100,513.66,0.0
+SP100957,2024-04-05,M0089,Ankara,İç Anadolu,Online,Giyim,Spor Ayakkabı,4,1600,734.93,0.0
+SP100958,2024-06-19,M0555,İstanbul,Marmara,Online,Kitap & Ofis,Kalem Kutusu,5,250,139.02,0.0
+SP100959,2024-11-14,M0243,Gaziantep,Güneydoğu,Online,Elektronik,Kulaklık,5,3010,2183.0,0.3
+SP100960,2024-03-26,M0369,İstanbul,Marmara,Online,Giyim,Tişört,3,1280,603.85,0.0
+SP100961,2024-08-25,M0339,İstanbul,Marmara,Online,Elektronik,Bluetooth Hoparlör,4,790,560.77,0.0
+SP100962,2024-03-15,M0089,İstanbul,Marmara,Online,Giyim,Kazak,5,1130,523.11,0.0
+SP100963,2024-06-14,M0239,İstanbul,Marmara,Mağaza,Ev & Yaşam,Kahve Makinesi,5,820,530.82,0.1
+SP100964,2024-11-06,M0244,İstanbul,Marmara,Online,Kitap & Ofis,Defter Seti,4,200,111.84,0.4
+SP100965,2024-05-19,M0286,Konya,İç Anadolu,Online,Giyim,Tişört,2,310,138.47,0.15
+SP100966,2024-12-12,M0347,Kocaeli,Marmara,Online,Ev & Yaşam,Kahve Makinesi,5,1580,976.22,0.0
+SP100967,2024-01-09,M0314,Gaziantep,Güneydoğu,Online,Elektronik,Akıllı Saat,1,3140,2158.17,0.0
+SP100968,2024-08-18,M0656,Antalya,Akdeniz,Online,Kozmetik,Cilt Bakım Seti,5,390,158.49,0.0
+SP100969,2024-11-27,M0336,İzmir,Ege,Mağaza,Elektronik,Akıllı Saat,3,1790,1288.44,0.3
+SP100970,2024-11-17,M0077,Trabzon,Karadeniz,Online,Giyim,Kazak,5,560,242.93,0.4
+SP100971,2024-08-19,M0164,Konya,İç Anadolu,Online,Kozmetik,Cilt Bakım Seti,1,890,351.79,0.0
+SP100972,2024-02-26,M0227,İstanbul,Marmara,Online,Elektronik,Powerbank,5,1700,1163.96,0.15
+SP100973,2024-04-19,M0036,Gaziantep,Güneydoğu,Online,Kitap & Ofis,Defter Seti,3,280,153.67,0.0
+SP100974,2024-03-25,M0185,İstanbul,Marmara,Online,Kitap & Ofis,Defter Seti,1,170,92.77,0.0
+SP100975,2024-10-12,M0193,İstanbul,Marmara,Mağaza,Ev & Yaşam,Mutfak Robotu,1,1460,876.7,0.0
+SP100976,2024-06-12,M0673,Kocaeli,Marmara,Mağaza,Ev & Yaşam,Yastık Seti,5,1820,1143.19,0.0
+SP100977,2024-06-04,M0229,İstanbul,Marmara,Mağaza,Elektronik,Akıllı Saat,5,1260,887.78,0.0
+SP100978,2024-12-23,M0200,Ankara,İç Anadolu,Online,Ev & Yaşam,Yastık Seti,4,1240,730.27,0.0
+SP100979,2024-06-01,M0284,Adana,Akdeniz,Online,Ev & Yaşam,Kahve Makinesi,2,1200,718.63,0.0
+SP100980,2024-03-14,M0745,İzmir,Ege,Mağaza,Elektronik,Bluetooth Hoparlör,1,710,498.13,0.0
+SP100981,2024-11-08,M0256,İstanbul,Marmara,Mağaza,Kitap & Ofis,Roman,1,290,160.74,0.2
+SP100982,2024-08-07,M0185,İstanbul,Marmara,Online,Kozmetik,Makyaj Paleti,3,630,247.19,0.1
+SP100983,2024-05-04,M0757,İzmir,Ege,Mağaza,Kitap & Ofis,Kalem Kutusu,2,180,98.51,0.0
+SP100984,2024-08-27,M0251,İstanbul,Marmara,Online,Giyim,Tişört,1,1730,750.17,0.05
+SP100985,2024-06-11,M0626,İzmir,Ege,Online,Giyim,Spor Ayakkabı,3,1220,509.85,0.0
+SP100986,2024-07-10,M0485,Antalya,Akdeniz,Online,Elektronik,Kulaklık,2,1310,863.0,0.0
+SP100987,2024-05-25,M0259,İstanbul,Marmara,Mağaza,Kozmetik,Şampuan,3,650,260.98,0.0
+SP100988,2024-05-20,M0028,İzmir,Ege,Online,Elektronik,Bluetooth Hoparlör,4,3350,2250.0,0.0
+SP100989,2024-12-07,M0028,İzmir,Ege,Online,Elektronik,Powerbank,1,2390,1616.12,0.0
+SP100990,2024-11-11,M0316,Bursa,Marmara,Mağaza,Giyim,Spor Ayakkabı,5,730,335.63,0.2
+SP100991,2024-03-22,M0707,Trabzon,Karadeniz,Online,Ev & Yaşam,Aydınlatma,3,520,310.94,0.05
+SP100992,2024-09-15,M0290,Ankara,İç Anadolu,Mağaza,Giyim,Tişört,4,1400,635.68,0.0
+SP100993,2024-12-31,M0498,Antalya,Akdeniz,Mağaza,Giyim,Tişört,3,780,366.4,0.1
+SP100994,2024-05-22,M0213,İzmir,Ege,Mağaza,Giyim,Mont,2,730,341.72,0.0
+SP100995,2024-02-28,M0584,Ankara,İç Anadolu,Online,Kitap & Ofis,Ajanda,1,260,132.6,0.0
+SP100996,2024-12-21,M0114,Ankara,İç Anadolu,Online,Kitap & Ofis,Kalem Kutusu,4,110,62.88,0.0
+SP100997,2024-04-01,M0667,İstanbul,Marmara,Mağaza,Ev & Yaşam,Aydınlatma,2,540,347.09,0.0
+SP100998,2024-10-24,M0567,Konya,İç Anadolu,Online,Elektronik,Powerbank,3,2280,1502.19,0.0
+SP100999,2024-10-06,M0408,İzmir,Ege,Mağaza,Ev & Yaşam,Aydınlatma,5,2420,1527.04,0.05
+SP101000,2024-06-22,M0661,İstanbul,Marmara,Mağaza,Elektronik,Bluetooth Hoparlör,1,2560,1762.91,0.0
+SP101001,2024-09-09,M0327,Kocaeli,Marmara,Online,Elektronik,Bluetooth Hoparlör,4,3150,2107.69,0.1
+SP101002,2024-06-15,M0210,Antalya,Akdeniz,Mağaza,Giyim,Spor Ayakkabı,3,690,316.83,0.0
+SP101003,2024-08-19,M0253,Ankara,İç Anadolu,Online,Giyim,Spor Ayakkabı,1,1710,766.31,0.0
+SP101004,2024-08-08,M0221,Konya,İç Anadolu,Mağaza,Giyim,Spor Ayakkabı,4,440,196.05,0.05
+SP101005,2024-11-12,M0617,Konya,İç Anadolu,Mağaza,Elektronik,Powerbank,2,2680,1852.19,0.3
+SP101006,2024-08-19,M0229,İstanbul,Marmara,Mağaza,Giyim,Mont,4,400,169.8,0.1
+SP101007,2024-08-03,M0588,Ankara,İç Anadolu,Online,Elektronik,Akıllı Saat,5,2340,1715.61,0.05
+SP101008,2024-11-25,M0662,İstanbul,Marmara,Online,Elektronik,Bluetooth Hoparlör,4,2920,2122.59,0.3
+SP101009,2024-03-27,M0293,Bursa,Marmara,Mağaza,Giyim,Tişört,5,1070,446.76,0.05
+SP101010,2024-01-09,M0170,Ankara,İç Anadolu,Online,Elektronik,Bluetooth Hoparlör,5,560,390.93,0.05
+SP101011,2024-08-30,M0156,İstanbul,Marmara,Online,Ev & Yaşam,Aydınlatma,5,1080,678.12,0.0
+SP101012,2024-10-30,M0669,İstanbul,Marmara,Mağaza,Giyim,Spor Ayakkabı,2,510,214.4,0.0
+SP101013,2024-06-06,M0091,Trabzon,Karadeniz,Mağaza,Ev & Yaşam,Yastık Seti,3,2130,1236.86,0.05
+SP101014,2024-09-27,M0536,Antalya,Akdeniz,Mağaza,Elektronik,Bluetooth Hoparlör,5,2000,1293.49,0.0
+SP101015,2024-01-01,M0535,Gaziantep,Güneydoğu,Online,Kozmetik,Şampuan,5,690,255.3,0.15
+SP101016,2024-09-08,M0122,Adana,Akdeniz,Mağaza,Giyim,Mont,5,1300,558.33,0.0
+SP101017,2024-08-04,M0707,Ankara,İç Anadolu,Online,Ev & Yaşam,Yastık Seti,4,300,174.99,0.0
+SP101018,2024-06-11,M0142,İstanbul,Marmara,Online,Kitap & Ofis,Ajanda,4,220,117.91,0.05
+SP101019,2024-07-07,M0263,Gaziantep,Güneydoğu,Online,Ev & Yaşam,Mutfak Robotu,4,1070,628.07,0.0
+SP101020,2024-05-30,M0461,İstanbul,Marmara,Mağaza,Ev & Yaşam,Kahve Makinesi,4,1990,1292.25,0.0
+SP101021,2024-07-18,M0271,Ankara,İç Anadolu,Online,Elektronik,Kulaklık,3,3340,2358.14,0.1
+SP101022,2024-10-13,M0278,Ankara,İç Anadolu,Online,Ev & Yaşam,Aydınlatma,3,1450,844.28,0.1
+SP101023,2024-11-14,M0114,Ankara,İç Anadolu,Online,Giyim,Tişört,3,1730,748.76,0.2
+SP101024,2024-09-25,M0083,İstanbul,Marmara,Online,Ev & Yaşam,Aydınlatma,1,1820,1140.23,0.0
+SP101025,2024-04-23,M0366,İzmir,Ege,Mağaza,Elektronik,Bluetooth Hoparlör,5,1940,1347.87,0.0
+SP101026,2024-12-25,M0259,Adana,Akdeniz,Mağaza,Elektronik,Kulaklık,5,750,511.49,0.0
+SP101027,2024-02-16,M0486,Gaziantep,Güneydoğu,Mağaza,Giyim,Mont,4,290,126.55,0.0
+SP101028,2024-03-26,M0497,İstanbul,Marmara,Online,Elektronik,Powerbank,5,890,624.92,0.15
+SP101029,2024-05-15,M0707,Gaziantep,Güneydoğu,Online,Ev & Yaşam,Yastık Seti,4,230,138.52,0.0
+SP101030,2024-11-10,M0162,Gaziantep,Güneydoğu,Online,Kozmetik,Şampuan,5,540,217.09,0.3
+SP101031,2024-08-25,M0136,Gaziantep,Güneydoğu,Online,Kitap & Ofis,Roman,2,160,83.67,0.05
+SP101032,2024-10-22,M0631,Bursa,Marmara,Mağaza,Elektronik,Kulaklık,3,3230,2168.64,0.0
+SP101033,2024-10-07,M0468,İzmir,Ege,Mağaza,Kozmetik,Şampuan,4,340,136.55,0.0
+SP101034,2024-12-26,M0531,İstanbul,Marmara,Online,Elektronik,Powerbank,4,3160,2178.7,0.0
+SP101035,2024-05-13,M0172,Trabzon,Karadeniz,Online,Elektronik,Bluetooth Hoparlör,3,2960,2075.76,0.0
+SP101036,2024-12-30,M0725,İstanbul,Marmara,Online,Giyim,Kazak,5,290,130.32,0.0
+SP101037,2024-01-21,M0768,İzmir,Ege,Mağaza,Elektronik,Akıllı Saat,5,1130,788.28,0.0
+SP101038,2024-04-27,M0497,İzmir,Ege,Online,Elektronik,Akıllı Saat,4,2910,1964.34,0.05
+SP101039,2024-11-10,M0201,İstanbul,Marmara,Online,Kitap & Ofis,Ajanda,5,260,148.64,0.2
+SP101040,2024-03-06,M0102,Antalya,Akdeniz,Online,Elektronik,Powerbank,3,680,496.13,0.0
+SP101041,2024-06-22,M0684,İstanbul,Marmara,Online,Elektronik,Akıllı Saat,5,2080,1488.64,0.0
+SP101042,2024-03-31,M0423,Ankara,İç Anadolu,Online,Elektronik,Akıllı Saat,1,2210,1550.45,0.1
+SP101043,2024-06-01,M0094,Adana,Akdeniz,Online,Giyim,Tişört,2,1270,531.44,0.1
+SP101044,2024-04-10,M0762,İstanbul,Marmara,Online,Ev & Yaşam,Kahve Makinesi,2,2100,1328.01,0.15
+SP101045,2024-04-19,M0205,İstanbul,Marmara,Online,Kitap & Ofis,Kalem Kutusu,3,120,68.51,0.05
+SP101046,2024-08-28,M0503,Antalya,Akdeniz,Online,Giyim,Mont,5,390,172.44,0.0
+SP101047,2024-12-26,M0522,İstanbul,Marmara,Mağaza,Elektronik,Kulaklık,3,3230,2131.88,0.0
+SP101048,2024-10-06,M0453,Konya,İç Anadolu,Mağaza,Elektronik,Akıllı Saat,5,750,540.51,0.1
+SP101049,2024-10-26,M0744,İstanbul,Marmara,Online,Elektronik,Kulaklık,3,2670,1843.18,0.0
+SP101050,2024-07-27,M0333,Antalya,Akdeniz,Mağaza,Kozmetik,Şampuan,4,750,276.88,0.0
+SP101051,2024-07-04,M0294,İstanbul,Marmara,Mağaza,Ev & Yaşam,Mutfak Robotu,3,2250,1450.37,0.0
+SP101052,2024-12-15,M0545,İstanbul,Marmara,Online,Elektronik,Bluetooth Hoparlör,4,2820,1848.78,0.1
+SP101053,2024-11-10,M0646,Bursa,Marmara,Mağaza,Giyim,Kazak,3,1080,466.73,0.4
+SP101054,2024-11-01,M0601,İstanbul,Marmara,Mağaza,Giyim,Spor Ayakkabı,5,1330,611.22,0.3
+SP101055,2024-09-30,M0784,Adana,Akdeniz,Online,Kitap & Ofis,Defter Seti,4,150,80.56,0.0
+SP101056,2024-11-25,M0474,İstanbul,Marmara,Online,Ev & Yaşam,Yastık Seti,5,1880,1093.09,0.3
+SP101057,2024-11-30,M0648,Bursa,Marmara,Online,Elektronik,Powerbank,4,2810,2033.46,0.3
+SP101058,2024-01-26,M0013,Bursa,Marmara,Mağaza,Ev & Yaşam,Aydınlatma,4,680,440.68,0.0
+SP101059,2024-03-28,M0480,Konya,İç Anadolu,Online,Elektronik,Akıllı Saat,4,1710,1182.22,0.05
+SP101060,2024-05-11,M0765,İstanbul,Marmara,Online,Giyim,Kazak,3,740,326.28,0.0
+SP101061,2024-03-02,M0795,Ankara,İç Anadolu,Mağaza,Elektronik,Akıllı Saat,1,3870,2842.07,0.05
+SP101062,2024-10-19,M0346,Gaziantep,Güneydoğu,Mağaza,Elektronik,Powerbank,2,2750,1894.75,0.1
+SP101063,2024-11-04,M0679,İzmir,Ege,Online,Ev & Yaşam,Aydınlatma,3,2150,1298.88,0.4
+SP101064,2024-12-08,M0453,İstanbul,Marmara,Mağaza,Elektronik,Akıllı Saat,4,740,480.98,0.05
+SP101065,2024-10-02,M0662,İstanbul,Marmara,Mağaza,Ev & Yaşam,Aydınlatma,5,2050,1299.8,0.0
+SP101066,2024-12-19,M0051,İstanbul,Marmara,Online,Kitap & Ofis,Ajanda,5,220,121.09,0.1
+SP101067,2024-11-12,M0628,İzmir,Ege,Online,Ev & Yaşam,Kahve Makinesi,4,2170,1386.11,0.3
+SP101068,2024-05-29,M0746,Ankara,İç Anadolu,Online,Elektronik,Akıllı Saat,5,2310,1548.32,0.15
+SP101069,2024-01-17,M0055,Trabzon,Karadeniz,Mağaza,Kozmetik,Cilt Bakım Seti,1,300,112.09,0.05
+SP101070,2024-11-21,M0258,Ankara,İç Anadolu,Online,Ev & Yaşam,Yastık Seti,2,1480,927.51,0.3
+SP101071,2024-08-28,M0660,İstanbul,Marmara,Online,Kitap & Ofis,Ajanda,5,210,120.2,0.0
+SP101072,2024-09-14,M0728,Trabzon,Karadeniz,Mağaza,Elektronik,Akıllı Saat,3,630,416.43,0.0
+SP101073,2024-11-20,M0032,Gaziantep,Güneydoğu,Online,Ev & Yaşam,Aydınlatma,5,2350,1360.08,0.3
+SP101074,2024-01-03,M0326,İstanbul,Marmara,Mağaza,Elektronik,Bluetooth Hoparlör,2,3640,2646.52,0.0
+SP101075,2024-01-04,M0117,İstanbul,Marmara,Mağaza,Kozmetik,Cilt Bakım Seti,4,320,134.3,0.0
+SP101076,2024-12-30,M0386,Adana,Akdeniz,Mağaza,Ev & Yaşam,Aydınlatma,4,880,547.2,0.1
+SP101077,2024-05-25,M0013,Gaziantep,Güneydoğu,Online,Kozmetik,Şampuan,1,830,344.53,0.0
+SP101078,2024-10-04,M0699,Gaziantep,Güneydoğu,Mağaza,Kozmetik,Cilt Bakım Seti,2,250,99.99,0.0
+SP101079,2024-11-12,M0062,Bursa,Marmara,Mağaza,Kozmetik,Cilt Bakım Seti,2,720,274.75,0.2
+SP101080,2024-07-02,M0450,İstanbul,Marmara,Online,Elektronik,Powerbank,4,2500,1763.3,0.0
+SP101081,2024-10-17,M0436,İzmir,Ege,Online,Elektronik,Akıllı Saat,4,1440,964.7,0.05
+SP101082,2024-12-19,M0160,İzmir,Ege,Online,Giyim,Spor Ayakkabı,2,630,279.03,0.0
+SP101083,2024-11-19,M0757,Ankara,İç Anadolu,Online,Ev & Yaşam,Mutfak Robotu,2,2470,1443.47,0.4
+SP101084,2024-02-05,M0800,İstanbul,Marmara,Mağaza,Elektronik,Powerbank,2,1830,1267.45,0.0
+SP101085,2024-11-21,M0003,Konya,İç Anadolu,Online,Ev & Yaşam,Yastık Seti,3,250,148.53,0.4
+SP101086,2024-04-27,M0596,İstanbul,Marmara,Online,Elektronik,Akıllı Saat,2,2680,1769.36,0.0
+SP101087,2024-06-21,M0788,İstanbul,Marmara,Online,Kozmetik,Parfüm,2,440,183.75,0.0
+SP101088,2024-09-28,M0333,İstanbul,Marmara,Mağaza,Ev & Yaşam,Aydınlatma,3,390,251.8,0.05
+SP101089,2024-11-02,M0078,İstanbul,Marmara,Online,Giyim,Spor Ayakkabı,4,1010,448.67,0.3
+SP101090,2024-05-20,M0635,İzmir,Ege,Online,Kozmetik,Parfüm,1,790,322.96,0.0
+SP101091,2024-03-26,M0573,İstanbul,Marmara,Mağaza,Elektronik,Akıllı Saat,1,1960,1399.58,0.0
+SP101092,2024-04-20,M0305,Kocaeli,Marmara,Mağaza,Elektronik,Kulaklık,2,3380,2274.95,0.0
+SP101093,2024-09-05,M0451,İstanbul,Marmara,Online,Elektronik,Kulaklık,1,3280,2228.74,0.0
+SP101094,2024-09-13,M0531,İstanbul,Marmara,Online,Elektronik,Akıllı Saat,2,2110,1382.87,0.0
+SP101095,2024-07-26,M0610,Ankara,İç Anadolu,Mağaza,Ev & Yaşam,Kahve Makinesi,2,290,183.56,0.15
+SP101096,2024-11-19,M0205,İstanbul,Marmara,Online,Ev & Yaşam,Yastık Seti,2,1350,823.28,0.2
+SP101097,2024-05-24,M0076,İstanbul,Marmara,Online,Elektronik,Akıllı Saat,1,930,660.37,0.05
+SP101098,2024-03-14,M0513,İstanbul,Marmara,Online,Elektronik,Powerbank,5,2250,1509.57,0.0
+SP101099,2024-11-07,M0237,Ankara,İç Anadolu,Mağaza,Giyim,Tişört,3,1280,546.1,0.4
+SP101100,2024-09-07,M0153,Ankara,İç Anadolu,Online,Elektronik,Powerbank,5,2150,1544.16,0.0
+SP101101,2024-06-16,M0696,İstanbul,Marmara,Online,Kozmetik,Parfüm,1,810,322.23,0.0
+SP101102,2024-06-23,M0168,Ankara,İç Anadolu,Mağaza,Kozmetik,Cilt Bakım Seti,1,790,321.6,0.0
+SP101103,2024-07-09,M0501,Bursa,Marmara,Online,Ev & Yaşam,Aydınlatma,3,1840,1116.59,0.0
+SP101104,2024-07-29,M0373,İstanbul,Marmara,Online,Ev & Yaşam,Aydınlatma,3,1360,818.14,0.0
+SP101105,2024-06-14,M0378,Ankara,İç Anadolu,Mağaza,Ev & Yaşam,Mutfak Robotu,5,2040,1241.7,0.1
+SP101106,2024-05-18,M0381,Ankara,İç Anadolu,Mağaza,Ev & Yaşam,Kahve Makinesi,5,290,182.55,0.0
+SP101107,2024-02-08,M0371,İzmir,Ege,Online,Kozmetik,Cilt Bakım Seti,3,90,37.32,0.0
+SP101108,2024-12-08,M0543,İzmir,Ege,Mağaza,Kozmetik,Cilt Bakım Seti,3,230,94.32,0.0
+SP101109,2024-12-30,M0096,Trabzon,Karadeniz,Online,Elektronik,Powerbank,2,2610,1712.33,0.0
+SP101110,2024-12-12,M0651,Kocaeli,Marmara,Mağaza,Ev & Yaşam,Kahve Makinesi,5,800,489.09,0.15
+SP101111,2024-09-21,M0013,İstanbul,Marmara,Mağaza,Elektronik,Bluetooth Hoparlör,1,3890,2609.76,0.0
+SP101112,2024-07-18,M0241,İzmir,Ege,Mağaza,Elektronik,Powerbank,3,870,637.73,0.0
+SP101113,2024-11-03,M0717,İstanbul,Marmara,Online,Ev & Yaşam,Mutfak Robotu,3,2220,1305.66,0.2
+SP101114,2024-10-17,M0022,Adana,Akdeniz,Mağaza,Elektronik,Akıllı Saat,4,1730,1218.24,0.0
+SP101115,2024-09-07,M0262,Konya,İç Anadolu,Mağaza,Ev & Yaşam,Kahve Makinesi,1,1280,802.6,0.0
+SP101116,2024-08-16,M0635,Ankara,İç Anadolu,Mağaza,Giyim,Spor Ayakkabı,1,260,115.33,0.15
+SP101117,2024-07-30,M0333,İstanbul,Marmara,Online,Kitap & Ofis,Ajanda,5,340,179.69,0.0
+SP101118,2024-12-06,M0551,İstanbul,Marmara,Mağaza,Kozmetik,Makyaj Paleti,4,380,149.58,0.0
+SP101119,2024-11-23,M0159,İstanbul,Marmara,Online,Kozmetik,Makyaj Paleti,1,660,273.12,0.1
+SP101120,2024-07-15,M0690,Adana,Akdeniz,Online,Ev & Yaşam,Yastık Seti,3,1750,1099.16,0.0
+SP101121,2024-05-30,M0786,İstanbul,Marmara,Online,Elektronik,Akıllı Saat,1,1900,1336.07,0.0
+SP101122,2024-12-05,M0347,Trabzon,Karadeniz,Mağaza,Elektronik,Akıllı Saat,5,1370,888.67,0.0
+SP101123,2024-04-17,M0710,İzmir,Ege,Online,Kitap & Ofis,Ajanda,4,280,142.29,0.0
+SP101124,2024-10-23,M0094,İzmir,Ege,Online,Elektronik,Powerbank,4,2680,1756.67,0.0
+SP101125,2024-05-15,M0017,Bursa,Marmara,Online,Elektronik,Powerbank,1,1070,714.04,0.05
+SP101126,2024-12-06,M0419,İstanbul,Marmara,Mağaza,Giyim,Tişört,4,1720,734.42,0.0
+SP101127,2024-11-19,M0525,Kocaeli,Marmara,Mağaza,Elektronik,Kulaklık,2,3650,2660.15,0.1
+SP101128,2024-08-08,M0184,Gaziantep,Güneydoğu,Online,Ev & Yaşam,Yastık Seti,1,800,473.04,0.0
+SP101129,2024-01-23,M0216,İstanbul,Marmara,Online,Elektronik,Akıllı Saat,2,2670,1724.93,0.05
+SP101130,2024-06-24,M0690,Adana,Akdeniz,Mağaza,Elektronik,Kulaklık,5,3010,1994.47,0.0
+SP101131,2024-01-08,M0076,Antalya,Akdeniz,Online,Kozmetik,Cilt Bakım Seti,3,170,64.75,0.15
+SP101132,2024-06-27,M0279,İstanbul,Marmara,Online,Kozmetik,Parfüm,1,310,114.44,0.0
+SP101133,2024-08-11,M0710,Ankara,İç Anadolu,Online,Kozmetik,Parfüm,5,190,71.52,0.0
+SP101134,2024-10-23,M0070,İstanbul,Marmara,Online,Elektronik,Bluetooth Hoparlör,1,1510,1024.32,0.0
+SP101135,2024-12-29,M0365,İstanbul,Marmara,Online,Kozmetik,Şampuan,3,150,60.33,0.05
+SP101136,2024-08-26,M0664,İstanbul,Marmara,Online,Ev & Yaşam,Kahve Makinesi,4,910,552.7,0.05
+SP101137,2024-11-05,M0701,İstanbul,Marmara,Mağaza,Ev & Yaşam,Kahve Makinesi,5,570,326.73,0.2
+SP101138,2024-03-13,M0084,Antalya,Akdeniz,Online,Giyim,Mont,1,380,171.22,0.0
+SP101139,2024-11-16,M0382,İzmir,Ege,Mağaza,Giyim,Spor Ayakkabı,2,820,353.06,0.1
+SP101140,2024-05-23,M0708,İzmir,Ege,Online,Ev & Yaşam,Mutfak Robotu,1,2400,1522.1,0.15
+SP101141,2024-04-07,M0341,İstanbul,Marmara,Mağaza,Giyim,Tişört,1,1130,490.23,0.0
+SP101142,2024-05-23,M0752,İstanbul,Marmara,Online,Elektronik,Kulaklık,4,870,566.86,0.1
+SP101143,2024-11-08,M0577,Trabzon,Karadeniz,Online,Giyim,Kazak,3,1740,738.56,0.3
+SP101144,2024-07-06,M0070,Gaziantep,Güneydoğu,Online,Ev & Yaşam,Kahve Makinesi,1,880,565.99,0.0
+SP101145,2024-11-25,M0644,Ankara,İç Anadolu,Mağaza,Giyim,Mont,4,570,262.27,0.3
+SP101146,2024-11-10,M0674,Adana,Akdeniz,Mağaza,Ev & Yaşam,Aydınlatma,5,1770,1023.38,0.3
+SP101147,2024-12-21,M0465,İstanbul,Marmara,Online,Giyim,Spor Ayakkabı,4,550,256.71,0.0
+SP101148,2024-07-28,M0675,İstanbul,Marmara,Online,Ev & Yaşam,Mutfak Robotu,3,2410,1417.45,0.15
+SP101149,2024-03-26,M0312,Kocaeli,Marmara,Mağaza,Giyim,Kazak,5,1720,724.09,0.0
+SP101150,2024-08-01,M0600,Konya,İç Anadolu,Online,Kozmetik,Makyaj Paleti,2,830,314.93,0.0
+SP101151,2024-05-18,M0701,İzmir,Ege,Online,Elektronik,Bluetooth Hoparlör,4,930,602.95,0.05
+SP101152,2024-10-30,M0110,İstanbul,Marmara,Mağaza,Elektronik,Kulaklık,5,3150,2259.5,0.0
+SP101153,2024-04-26,M0001,Bursa,Marmara,Online,Ev & Yaşam,Kahve Makinesi,4,830,510.87,0.0
+SP101154,2024-03-23,M0427,İstanbul,Marmara,Online,Elektronik,Akıllı Saat,4,2850,1932.21,0.0
+SP101155,2024-02-02,M0126,Ankara,İç Anadolu,Mağaza,Ev & Yaşam,Yastık Seti,5,2010,1289.84,0.0
+SP101156,2024-06-03,M0023,Ankara,İç Anadolu,Online,Elektronik,Akıllı Saat,1,3300,2254.25,0.0
+SP101157,2024-02-29,M0582,Ankara,İç Anadolu,Online,Ev & Yaşam,Aydınlatma,3,520,331.86,0.05
+SP101158,2024-02-22,M0755,Gaziantep,Güneydoğu,Online,Elektronik,Kulaklık,4,2780,2024.39,0.0
+SP101159,2024-02-13,M0302,İstanbul,Marmara,Online,Giyim,Mont,3,1340,561.28,0.0
+SP101160,2024-06-13,M0584,Bursa,Marmara,Online,Kozmetik,Cilt Bakım Seti,4,460,180.64,0.0
+SP101161,2024-12-05,M0125,Gaziantep,Güneydoğu,Online,Ev & Yaşam,Yastık Seti,3,420,252.98,0.0
+SP101162,2024-06-11,M0001,Bursa,Marmara,Online,Giyim,Spor Ayakkabı,5,330,140.6,0.0
+SP101163,2024-11-22,M0581,Bursa,Marmara,Online,Ev & Yaşam,Kahve Makinesi,3,540,308.09,0.2
+SP101164,2024-05-14,M0121,İstanbul,Marmara,Mağaza,Elektronik,Powerbank,2,1150,831.59,0.0
+SP101165,2024-05-01,M0371,Trabzon,Karadeniz,Online,Kozmetik,Cilt Bakım Seti,4,730,292.12,0.0
+SP101166,2024-11-21,M0075,Ankara,İç Anadolu,Mağaza,Giyim,Kazak,5,260,109.76,0.4
+SP101167,2024-08-14,M0619,İstanbul,Marmara,Mağaza,Kitap & Ofis,Roman,1,330,186.44,0.0
+SP101168,2024-07-19,M0322,Ankara,İç Anadolu,Online,Ev & Yaşam,Aydınlatma,1,460,296.66,0.0
+SP101169,2024-10-11,M0510,Trabzon,Karadeniz,Online,Giyim,Kazak,5,330,155.01,0.0
+SP101170,2024-02-17,M0409,Gaziantep,Güneydoğu,Mağaza,Ev & Yaşam,Mutfak Robotu,2,2050,1188.94,0.0
+SP101171,2024-12-03,M0389,Ankara,İç Anadolu,Online,Kozmetik,Cilt Bakım Seti,4,540,221.23,0.05
+SP101172,2024-08-28,M0554,Bursa,Marmara,Online,Ev & Yaşam,Yastık Seti,4,930,590.21,0.0
+SP101173,2024-11-28,M0501,Konya,İç Anadolu,Online,Kitap & Ofis,Defter Seti,3,90,48.78,0.3
+SP101174,2024-11-26,M0635,Ankara,İç Anadolu,Online,Ev & Yaşam,Yastık Seti,2,290,179.42,0.4
+SP101175,2024-01-22,M0352,Antalya,Akdeniz,Online,Giyim,Spor Ayakkabı,4,1680,710.78,0.1
+SP101176,2024-12-16,M0363,Adana,Akdeniz,Online,Kitap & Ofis,Kalem Kutusu,2,160,84.77,0.0
+SP101177,2024-11-16,M0643,Ankara,İç Anadolu,Online,Ev & Yaşam,Yastık Seti,5,740,464.55,0.1
+SP101178,2024-12-28,M0176,Bursa,Marmara,Online,Giyim,Mont,2,1490,662.02,0.05
+SP101179,2024-04-29,M0349,Trabzon,Karadeniz,Mağaza,Giyim,Mont,3,670,309.32,0.0
+SP101180,2024-06-23,M0203,İstanbul,Marmara,Mağaza,Kitap & Ofis,Kalem Kutusu,1,130,70.0,0.0
+SP101181,2024-06-25,M0104,İstanbul,Marmara,Online,Giyim,Mont,2,510,239.52,0.05
+SP101182,2024-12-07,M0154,İstanbul,Marmara,Online,Giyim,Tişört,5,350,147.25,0.0
+SP101183,2024-08-22,M0108,Ankara,İç Anadolu,Online,Kitap & Ofis,Ajanda,4,130,70.08,0.0
+SP101184,2024-07-17,M0425,Ankara,İç Anadolu,Online,Giyim,Mont,1,1550,715.24,0.0
+SP101185,2024-03-19,M0566,Antalya,Akdeniz,Online,Giyim,Mont,4,1120,515.43,0.0
+SP101186,2024-12-02,M0588,Trabzon,Karadeniz,Online,Giyim,Kazak,2,420,178.73,0.15
+SP101187,2024-07-30,M0719,İstanbul,Marmara,Mağaza,Ev & Yaşam,Mutfak Robotu,1,330,194.0,0.1
+SP101188,2024-06-20,M0614,İstanbul,Marmara,Online,Elektronik,Bluetooth Hoparlör,1,2240,1570.48,0.05
+SP101189,2024-08-08,M0102,İstanbul,Marmara,Online,Kozmetik,Şampuan,5,780,310.78,0.0
+SP101190,2024-09-02,M0247,Gaziantep,Güneydoğu,Online,Giyim,Spor Ayakkabı,3,1220,523.98,0.15
+SP101191,2024-10-20,M0440,İstanbul,Marmara,Online,Kozmetik,Makyaj Paleti,5,750,309.33,0.1
+SP101192,2024-10-03,M0623,İstanbul,Marmara,Online,Ev & Yaşam,Aydınlatma,4,1560,933.81,0.0
+SP101193,2024-09-05,M0322,İstanbul,Marmara,Online,Giyim,Spor Ayakkabı,2,260,115.81,0.0
+SP101194,2024-04-08,M0211,Kocaeli,Marmara,Online,Elektronik,Kulaklık,4,690,500.8,0.0
+SP101195,2024-10-18,M0306,Ankara,İç Anadolu,Online,Kitap & Ofis,Ajanda,5,250,134.03,0.0
+SP101196,2024-06-08,M0537,Ankara,İç Anadolu,Online,Elektronik,Kulaklık,4,1930,1357.68,0.0
+SP101197,2024-09-25,M0631,İzmir,Ege,Online,Giyim,Kazak,2,570,263.6,0.0
+SP101198,2024-11-01,M0157,Adana,Akdeniz,Mağaza,Giyim,Mont,1,1420,609.9,0.4
+SP101199,2024-11-20,M0595,İstanbul,Marmara,Mağaza,Elektronik,Bluetooth Hoparlör,4,2550,1851.24,0.2
+SP101200,2024-02-07,M0206,Bursa,Marmara,Mağaza,Giyim,Mont,3,1270,550.08,0.15
+SP101201,2024-09-26,M0443,İstanbul,Marmara,Mağaza,Giyim,Spor Ayakkabı,4,300,128.89,0.0
+SP101202,2024-10-05,M0443,Gaziantep,Güneydoğu,Online,Ev & Yaşam,Kahve Makinesi,5,1670,1018.03,0.1
+SP101203,2024-11-08,M0015,Gaziantep,Güneydoğu,Online,Kozmetik,Makyaj Paleti,4,620,243.39,0.2
+SP101204,2024-08-31,M0182,İstanbul,Marmara,Mağaza,Elektronik,Kulaklık,4,1730,1248.62,0.0
+SP101205,2024-01-17,M0456,Antalya,Akdeniz,Online,Elektronik,Kulaklık,5,1310,860.82,0.0
+SP101206,2024-07-26,M0346,Antalya,Akdeniz,Online,Elektronik,Bluetooth Hoparlör,2,2850,1990.14,0.0
+SP101207,2024-03-01,M0699,İstanbul,Marmara,Mağaza,Elektronik,Akıllı Saat,1,3340,2238.16,0.1
+SP101208,2024-03-08,M0253,Ankara,İç Anadolu,Online,Kitap & Ofis,Ajanda,4,180,97.34,0.0
+SP101209,2024-08-31,M0698,İzmir,Ege,Mağaza,Giyim,Tişört,3,940,402.31,0.1
+SP101210,2024-12-15,M0584,Ankara,İç Anadolu,Online,Kitap & Ofis,Ajanda,5,140,73.37,0.0
+SP101211,2024-11-04,M0715,Bursa,Marmara,Online,Kozmetik,Şampuan,2,800,328.6,0.1
+SP101212,2024-11-18,M0326,Kocaeli,Marmara,Online,Giyim,Tişört,2,1430,633.1,0.2
+SP101213,2024-11-04,M0473,İzmir,Ege,Online,Giyim,Kazak,3,370,164.46,0.4
+SP101214,2024-05-28,M0614,İstanbul,Marmara,Online,Giyim,Spor Ayakkabı,5,950,404.67,0.1
+SP101215,2024-12-17,M0437,İstanbul,Marmara,Mağaza,Ev & Yaşam,Yastık Seti,5,970,574.97,0.0
+SP101216,2024-04-20,M0363,İstanbul,Marmara,Mağaza,Kitap & Ofis,Roman,4,300,162.66,0.0
+SP101217,2024-09-23,M0393,Gaziantep,Güneydoğu,Online,Elektronik,Kulaklık,2,720,475.45,0.0
+SP101218,2024-01-11,M0476,Bursa,Marmara,Mağaza,Elektronik,Powerbank,3,3420,2479.75,0.05
+SP101219,2024-04-26,M0062,İstanbul,Marmara,Mağaza,Kitap & Ofis,Defter Seti,2,100,52.72,0.0
+SP101220,2024-12-12,M0410,Antalya,Akdeniz,Online,Kitap & Ofis,Roman,1,50,27.26,0.05
+SP101221,2024-05-31,M0737,Antalya,Akdeniz,Online,Elektronik,Powerbank,4,1170,782.07,0.0
+SP101222,2024-05-04,M0628,Antalya,Akdeniz,Mağaza,Giyim,Tişört,1,1770,751.49,0.0
+SP101223,2024-04-05,M0032,Ankara,İç Anadolu,Online,Giyim,Tişört,2,510,221.1,0.0
+SP101224,2024-05-05,M0047,Kocaeli,Marmara,Online,Ev & Yaşam,Mutfak Robotu,4,420,245.79,0.0
+SP101225,2024-09-08,M0171,İzmir,Ege,Online,Kozmetik,Şampuan,1,700,259.98,0.05
+SP101226,2024-12-06,M0450,İstanbul,Marmara,Online,Kitap & Ofis,Roman,4,240,122.86,0.0
+SP101227,2024-03-09,M0368,Ankara,İç Anadolu,Online,Elektronik,Powerbank,4,2760,1891.28,0.0
+SP101228,2024-08-07,M0105,Konya,İç Anadolu,Online,Elektronik,Powerbank,4,780,561.7,0.0
+SP101229,2024-11-01,M0004,İstanbul,Marmara,Online,Giyim,Tişört,1,920,413.19,0.2
+SP101230,2024-11-21,M0274,İstanbul,Marmara,Online,Ev & Yaşam,Kahve Makinesi,4,1080,635.86,0.3
+SP101231,2024-11-01,M0189,İstanbul,Marmara,Online,Ev & Yaşam,Mutfak Robotu,1,760,486.21,0.1
+SP101232,2024-12-04,M0540,İzmir,Ege,Mağaza,Ev & Yaşam,Yastık Seti,1,1220,745.64,0.0
+SP101233,2024-03-13,M0217,İstanbul,Marmara,Mağaza,Giyim,Spor Ayakkabı,5,170,78.38,0.0
+SP101234,2024-07-09,M0798,Trabzon,Karadeniz,Mağaza,Giyim,Mont,3,170,74.01,0.0
+SP101235,2024-06-12,M0128,İstanbul,Marmara,Online,Elektronik,Powerbank,3,1860,1359.26,0.1
+SP101236,2024-08-07,M0180,Bursa,Marmara,Mağaza,Elektronik,Powerbank,5,950,655.36,0.0
+SP101237,2024-08-03,M0119,İstanbul,Marmara,Mağaza,Giyim,Spor Ayakkabı,4,1660,742.27,0.0
+SP101238,2024-10-11,M0103,Adana,Akdeniz,Online,Elektronik,Bluetooth Hoparlör,3,2030,1353.85,0.0
+SP101239,2024-06-09,M0477,Ankara,İç Anadolu,Mağaza,Kitap & Ofis,Roman,3,140,78.96,0.0
+SP101240,2024-05-03,M0714,Bursa,Marmara,Mağaza,Giyim,Mont,4,1080,466.86,0.0
+SP101241,2024-04-03,M0343,Bursa,Marmara,Online,Elektronik,Bluetooth Hoparlör,3,1960,1408.06,0.0
+SP101242,2024-04-09,M0196,Adana,Akdeniz,Online,Kitap & Ofis,Kalem Kutusu,1,40,21.18,0.0
+SP101243,2024-11-21,M0700,Gaziantep,Güneydoğu,Mağaza,Elektronik,Powerbank,3,1800,1257.37,0.1
+SP101244,2024-06-04,M0097,İstanbul,Marmara,Mağaza,Giyim,Spor Ayakkabı,3,1320,576.29,0.0
+SP101245,2024-04-05,M0190,Gaziantep,Güneydoğu,Online,Giyim,Spor Ayakkabı,4,750,333.48,0.0
+SP101246,2024-03-03,M0469,Adana,Akdeniz,Online,Giyim,Spor Ayakkabı,2,1050,460.08,0.0
+SP101247,2024-12-05,M0625,Kocaeli,Marmara,Mağaza,Elektronik,Bluetooth Hoparlör,3,1340,884.7,0.0
+SP101248,2024-02-11,M0753,İzmir,Ege,Mağaza,Giyim,Tişört,1,200,83.91,0.05
+SP101249,2024-07-28,M0614,İstanbul,Marmara,Online,Kitap & Ofis,Kalem Kutusu,5,350,183.04,0.0
+SP101250,2024-03-08,M0426,Antalya,Akdeniz,Mağaza,Ev & Yaşam,Yastık Seti,2,1680,971.35,0.0
+SP101251,2024-05-13,M0723,Ankara,İç Anadolu,Online,Giyim,Spor Ayakkabı,5,1230,571.39,0.0
+SP101252,2024-11-11,M0218,İstanbul,Marmara,Online,Elektronik,Akıllı Saat,3,1290,831.51,0.1
+SP101253,2024-04-05,M0307,Ankara,İç Anadolu,Online,Elektronik,Bluetooth Hoparlör,5,3340,2336.69,0.0
+SP101254,2024-01-01,M0391,İzmir,Ege,Mağaza,Ev & Yaşam,Kahve Makinesi,1,1130,723.26,0.0
+SP101255,2024-05-02,M0045,Kocaeli,Marmara,Mağaza,Kitap & Ofis,Kalem Kutusu,4,180,91.72,0.1
+SP101256,2024-05-11,M0494,Ankara,İç Anadolu,Mağaza,Giyim,Kazak,5,560,246.57,0.0
+SP101257,2024-02-10,M0375,Konya,İç Anadolu,Online,Giyim,Mont,2,1090,472.17,0.05
+SP101258,2024-02-18,M0468,İstanbul,Marmara,Mağaza,Giyim,Tişört,2,440,185.68,0.05
+SP101259,2024-11-19,M0747,Ankara,İç Anadolu,Online,Elektronik,Powerbank,3,2530,1687.02,0.3
+SP101260,2024-03-04,M0495,Ankara,İç Anadolu,Online,Elektronik,Kulaklık,3,1570,1098.81,0.05
+SP101261,2024-03-06,M0452,Trabzon,Karadeniz,Online,Giyim,Spor Ayakkabı,1,1020,477.4,0.0
+SP101262,2024-01-27,M0590,Antalya,Akdeniz,Online,Giyim,Spor Ayakkabı,1,970,430.24,0.0
+SP101263,2024-10-20,M0442,İstanbul,Marmara,Mağaza,Ev & Yaşam,Yastık Seti,2,790,500.14,0.05
+SP101264,2024-09-28,M0511,Ankara,İç Anadolu,Online,Elektronik,Kulaklık,2,2130,1442.0,0.1
+SP101265,2024-06-16,M0197,Trabzon,Karadeniz,Online,Elektronik,Akıllı Saat,1,2590,1860.72,0.05
+SP101266,2024-07-18,M0124,Adana,Akdeniz,Mağaza,Elektronik,Akıllı Saat,5,3270,2302.92,0.0
+SP101267,2024-11-21,M0209,Ankara,İç Anadolu,Online,Elektronik,Akıllı Saat,4,1670,1076.89,0.3
+SP101268,2024-08-06,M0452,Antalya,Akdeniz,Mağaza,Ev & Yaşam,Mutfak Robotu,4,2140,1257.35,0.0
+SP101269,2024-05-27,M0066,Bursa,Marmara,Online,Kozmetik,Parfüm,1,820,335.86,0.0
+SP101270,2024-10-17,M0399,Antalya,Akdeniz,Mağaza,Giyim,Kazak,1,320,141.43,0.15
+SP101271,2024-10-26,M0123,Antalya,Akdeniz,Online,Elektronik,Powerbank,3,3710,2527.01,0.0
+SP101272,2024-06-01,M0700,Adana,Akdeniz,Mağaza,Giyim,Tişört,5,500,225.48,0.0
+SP101273,2024-02-15,M0722,İstanbul,Marmara,Mağaza,Giyim,Kazak,1,1390,653.7,0.05
+SP101274,2024-07-31,M0149,İstanbul,Marmara,Online,Ev & Yaşam,Yastık Seti,1,420,247.83,0.1
+SP101275,2024-08-17,M0662,Konya,İç Anadolu,Mağaza,Elektronik,Akıllı Saat,4,3920,2597.23,0.0
+SP101276,2024-11-10,M0672,İzmir,Ege,Online,Giyim,Mont,4,1650,770.6,0.3
+SP101277,2024-03-27,M0200,İstanbul,Marmara,Online,Elektronik,Powerbank,5,860,570.45,0.15
+SP101278,2024-03-31,M0674,Ankara,İç Anadolu,Online,Giyim,Tişört,1,1340,598.87,0.05
+SP101279,2024-04-16,M0225,Bursa,Marmara,Mağaza,Elektronik,Kulaklık,1,1040,691.26,0.15
+SP101280,2024-01-06,M0160,Trabzon,Karadeniz,Online,Ev & Yaşam,Aydınlatma,1,1280,809.77,0.0
+SP101281,2024-11-13,M0624,İstanbul,Marmara,Online,Giyim,Mont,5,1070,444.01,0.1
+SP101282,2024-03-17,M0634,Konya,İç Anadolu,Mağaza,Elektronik,Akıllı Saat,2,1990,1350.84,0.15
+SP101283,2024-02-03,M0342,Ankara,İç Anadolu,Online,Elektronik,Kulaklık,2,2290,1676.74,0.05
+SP101284,2024-03-10,M0080,İstanbul,Marmara,Mağaza,Giyim,Tişört,3,1740,722.61,0.0
+SP101285,2024-09-13,M0344,Adana,Akdeniz,Online,Giyim,Kazak,2,620,265.23,0.1
+SP101286,2024-12-06,M0173,Antalya,Akdeniz,Online,Giyim,Mont,5,780,322.95,0.1
+SP101287,2024-08-04,M0318,Antalya,Akdeniz,Mağaza,Giyim,Spor Ayakkabı,5,1080,490.68,0.0
+SP101288,2024-11-06,M0467,İstanbul,Marmara,Online,Kitap & Ofis,Defter Seti,5,180,103.43,0.2
+SP101289,2024-11-13,M0245,Trabzon,Karadeniz,Online,Elektronik,Kulaklık,3,3880,2517.84,0.1
+SP101290,2024-08-12,M0585,İstanbul,Marmara,Mağaza,Kozmetik,Parfüm,2,540,219.21,0.1
+SP101291,2024-08-23,M0314,İstanbul,Marmara,Online,Giyim,Spor Ayakkabı,2,1200,562.67,0.15
+SP101292,2024-10-21,M0615,Antalya,Akdeniz,Mağaza,Kitap & Ofis,Kalem Kutusu,4,80,42.96,0.0
+SP101293,2024-12-13,M0081,Kocaeli,Marmara,Mağaza,Kozmetik,Şampuan,5,80,29.88,0.05
+SP101294,2024-12-29,M0214,İzmir,Ege,Online,Kozmetik,Şampuan,1,120,44.93,0.0
+SP101295,2024-10-15,M0720,Trabzon,Karadeniz,Online,Elektronik,Akıllı Saat,5,980,666.73,0.0
+SP101296,2024-10-04,M0652,İstanbul,Marmara,Mağaza,Ev & Yaşam,Yastık Seti,4,1530,968.17,0.1
+SP101297,2024-12-08,M0219,Gaziantep,Güneydoğu,Mağaza,Giyim,Spor Ayakkabı,2,1690,747.35,0.0
+SP101298,2024-10-10,M0598,Ankara,İç Anadolu,Online,Kozmetik,Parfüm,2,410,158.02,0.1
+SP101299,2024-05-14,M0400,Konya,İç Anadolu,Online,Elektronik,Kulaklık,5,1890,1312.66,0.15
+SP101300,2024-11-10,M0297,İstanbul,Marmara,Online,Kozmetik,Cilt Bakım Seti,5,420,173.22,0.1
+SP101301,2024-12-17,M0349,İstanbul,Marmara,Online,Elektronik,Powerbank,5,2500,1824.03,0.0
+SP101302,2024-11-07,M0663,Gaziantep,Güneydoğu,Online,Kozmetik,Şampuan,3,370,149.97,0.3
+SP101303,2024-11-02,M0742,İstanbul,Marmara,Online,Ev & Yaşam,Aydınlatma,2,1700,1039.46,0.2
+SP101304,2024-04-23,M0068,Ankara,İç Anadolu,Mağaza,Elektronik,Akıllı Saat,3,2690,1938.5,0.15
+SP101305,2024-11-02,M0414,Antalya,Akdeniz,Mağaza,Giyim,Tişört,5,440,199.75,0.2
+SP101306,2024-10-10,M0410,İstanbul,Marmara,Online,Elektronik,Bluetooth Hoparlör,2,1100,712.63,0.1
+SP101307,2024-10-24,M0011,Gaziantep,Güneydoğu,Online,Ev & Yaşam,Yastık Seti,3,1470,923.42,0.0
+SP101308,2024-12-11,M0034,Ankara,İç Anadolu,Online,Kozmetik,Şampuan,1,740,295.99,0.0
+SP101309,2024-05-22,M0568,Ankara,İç Anadolu,Mağaza,Elektronik,Powerbank,1,3480,2494.23,0.0
+SP101310,2024-10-21,M0135,İstanbul,Marmara,Online,Ev & Yaşam,Mutfak Robotu,4,540,315.38,0.0
+SP101311,2024-10-11,M0273,Konya,İç Anadolu,Mağaza,Elektronik,Kulaklık,2,1490,968.2,0.05
+SP101312,2024-12-15,M0150,Ankara,İç Anadolu,Mağaza,Giyim,Mont,2,680,303.66,0.0
+SP101313,2024-10-09,M0604,İstanbul,Marmara,Online,Ev & Yaşam,Mutfak Robotu,5,840,544.79,0.05
+SP101314,2024-01-10,M0531,İstanbul,Marmara,Mağaza,Elektronik,Akıllı Saat,3,750,491.48,0.1
+SP101315,2024-12-20,M0101,Antalya,Akdeniz,Mağaza,Kozmetik,Cilt Bakım Seti,4,650,254.38,0.0
+SP101316,2024-12-15,M0727,İstanbul,Marmara,Mağaza,Ev & Yaşam,Mutfak Robotu,1,740,424.32,0.0
+SP101317,2024-08-15,M0199,İzmir,Ege,Online,Kozmetik,Cilt Bakım Seti,3,260,102.14,0.0
+SP101318,2024-07-19,M0166,Adana,Akdeniz,Online,Ev & Yaşam,Aydınlatma,5,880,563.55,0.0
+SP101319,2024-02-29,M0205,İstanbul,Marmara,Online,Kitap & Ofis,Kalem Kutusu,5,340,173.44,0.05
+SP101320,2024-01-02,M0525,İstanbul,Marmara,Online,Giyim,Mont,5,450,210.96,0.0
+SP101321,2024-01-01,M0635,İzmir,Ege,Online,Ev & Yaşam,Yastık Seti,4,1880,1201.47,0.0
+SP101322,2024-08-27,M0665,İstanbul,Marmara,Online,Giyim,Mont,1,870,399.83,0.05
+SP101323,2024-03-17,M0227,Bursa,Marmara,Online,Ev & Yaşam,Aydınlatma,1,1610,988.41,0.1
+SP101324,2024-09-02,M0157,Adana,Akdeniz,Online,Giyim,Mont,2,1010,451.09,0.05
+SP101325,2024-12-27,M0656,Kocaeli,Marmara,Online,Ev & Yaşam,Yastık Seti,3,660,429.64,0.15
+SP101326,2024-04-09,M0363,Adana,Akdeniz,Online,Giyim,Mont,2,590,251.95,0.0
+SP101327,2024-08-11,M0419,İstanbul,Marmara,Online,Giyim,Spor Ayakkabı,3,670,308.69,0.0
+SP101328,2024-11-23,M0453,İzmir,Ege,Online,Kitap & Ofis,Defter Seti,4,110,61.71,0.3
+SP101329,2024-07-22,M0773,İzmir,Ege,Mağaza,Giyim,Mont,1,1280,575.34,0.0
+SP101330,2024-06-16,M0776,Ankara,İç Anadolu,Online,Elektronik,Kulaklık,3,3810,2618.14,0.05
+SP101331,2024-11-04,M0209,Ankara,İç Anadolu,Mağaza,Giyim,Tişört,4,590,261.65,0.4
+SP101332,2024-08-18,M0456,Adana,Akdeniz,Mağaza,Elektronik,Powerbank,5,2880,1933.78,0.0
+SP101333,2024-09-05,M0626,Gaziantep,Güneydoğu,Online,Elektronik,Bluetooth Hoparlör,5,530,382.3,0.0
+SP101334,2024-12-16,M0004,Bursa,Marmara,Mağaza,Kozmetik,Şampuan,2,210,87.99,0.0
+SP101335,2024-04-06,M0631,Ankara,İç Anadolu,Online,Giyim,Kazak,1,290,135.79,0.0
+SP101336,2024-01-14,M0086,Konya,İç Anadolu,Online,Giyim,Kazak,5,1260,538.11,0.15
+SP101337,2024-10-25,M0740,İstanbul,Marmara,Mağaza,Giyim,Tişört,2,480,205.64,0.0
+SP101338,2024-07-16,M0772,Ankara,İç Anadolu,Online,Elektronik,Akıllı Saat,4,590,403.9,0.05
+SP101339,2024-03-02,M0477,Adana,Akdeniz,Online,Ev & Yaşam,Mutfak Robotu,1,610,353.92,0.0
+SP101340,2024-07-05,M0556,Antalya,Akdeniz,Online,Kozmetik,Cilt Bakım Seti,4,740,281.28,0.0
+SP101341,2024-03-01,M0759,İzmir,Ege,Mağaza,Kozmetik,Şampuan,1,320,128.05,0.0
+SP101342,2024-05-14,M0677,Ankara,İç Anadolu,Online,Kitap & Ofis,Kalem Kutusu,5,260,143.56,0.0
+SP101343,2024-07-04,M0309,Antalya,Akdeniz,Online,Elektronik,Powerbank,2,3750,2554.06,0.0
+SP101344,2024-12-29,M0218,İstanbul,Marmara,Online,Kitap & Ofis,Roman,3,160,85.22,0.0
+SP101345,2024-06-15,M0643,Antalya,Akdeniz,Mağaza,Giyim,Tişört,2,1420,643.64,0.0
+SP101346,2024-05-07,M0002,Ankara,İç Anadolu,Online,Giyim,Spor Ayakkabı,1,1690,753.71,0.0
+SP101347,2024-02-15,M0146,İzmir,Ege,Online,Ev & Yaşam,Mutfak Robotu,3,360,207.17,0.0
+SP101348,2024-08-04,M0486,Gaziantep,Güneydoğu,Online,Ev & Yaşam,Kahve Makinesi,2,720,464.13,0.05
+SP101349,2024-05-12,M0690,Ankara,İç Anadolu,Mağaza,Elektronik,Powerbank,4,2990,1960.25,0.0
+SP101350,2024-12-06,M0568,Ankara,İç Anadolu,Online,Kitap & Ofis,Ajanda,1,330,175.69,0.0
+SP101351,2024-12-15,M0564,İzmir,Ege,Online,Giyim,Tişört,3,1730,762.59,0.1
+SP101352,2024-11-16,M0712,İstanbul,Marmara,Online,Giyim,Kazak,3,1500,649.2,0.1
+SP101353,2024-09-23,M0591,Kocaeli,Marmara,Online,Kitap & Ofis,Roman,3,120,67.31,0.0
+SP101354,2024-04-04,M0707,İstanbul,Marmara,Online,Elektronik,Bluetooth Hoparlör,5,2420,1695.17,0.0
+SP101355,2024-06-07,M0665,İstanbul,Marmara,Online,Kitap & Ofis,Ajanda,1,340,187.75,0.0
+SP101356,2024-12-25,M0666,İzmir,Ege,Online,Elektronik,Kulaklık,4,2370,1719.03,0.15
+SP101357,2024-07-02,M0716,Ankara,İç Anadolu,Online,Elektronik,Kulaklık,4,2870,2069.81,0.1
+SP101358,2024-03-04,M0633,İstanbul,Marmara,Online,Elektronik,Bluetooth Hoparlör,4,1710,1234.25,0.05
+SP101359,2024-08-15,M0403,Ankara,İç Anadolu,Online,Giyim,Kazak,5,440,202.87,0.0
+SP101360,2024-12-11,M0201,İzmir,Ege,Online,Elektronik,Akıllı Saat,1,1450,1006.84,0.0
+SP101361,2024-05-18,M0747,Adana,Akdeniz,Online,Giyim,Kazak,2,740,335.5,0.0
+SP101362,2024-03-12,M0570,Kocaeli,Marmara,Online,Giyim,Kazak,1,550,257.07,0.0
+SP101363,2024-05-16,M0728,İzmir,Ege,Mağaza,Elektronik,Kulaklık,4,3910,2855.7,0.0
+SP101364,2024-07-22,M0064,Trabzon,Karadeniz,Mağaza,Elektronik,Powerbank,1,3980,2833.52,0.15
+SP101365,2024-09-01,M0773,Kocaeli,Marmara,Mağaza,Elektronik,Akıllı Saat,4,750,534.02,0.0
+SP101366,2024-05-30,M0613,Adana,Akdeniz,Online,Elektronik,Bluetooth Hoparlör,1,2830,1982.85,0.05
+SP101367,2024-11-22,M0154,İstanbul,Marmara,Online,Elektronik,Bluetooth Hoparlör,4,1860,1354.39,0.3
+SP101368,2024-04-22,M0427,Antalya,Akdeniz,Online,Giyim,Spor Ayakkabı,5,1300,543.6,0.0
+SP101369,2024-02-12,M0594,Trabzon,Karadeniz,Mağaza,Ev & Yaşam,Yastık Seti,2,530,321.48,0.1
+SP101370,2024-08-08,M0465,Adana,Akdeniz,Online,Ev & Yaşam,Kahve Makinesi,4,1230,781.86,0.15
+SP101371,2024-08-18,M0231,Ankara,İç Anadolu,Online,Ev & Yaşam,Mutfak Robotu,5,1980,1159.65,0.0
+SP101372,2024-07-08,M0242,İzmir,Ege,Online,Giyim,Mont,3,1650,721.63,0.05
+SP101373,2024-12-28,M0126,Antalya,Akdeniz,Online,Kitap & Ofis,Roman,3,300,158.11,0.0
+SP101374,2024-12-27,M0213,Antalya,Akdeniz,Mağaza,Elektronik,Powerbank,4,3100,2221.13,0.0
+SP101375,2024-01-11,M0031,Antalya,Akdeniz,Online,Giyim,Kazak,3,390,166.88,0.0
+SP101376,2024-06-12,M0524,Antalya,Akdeniz,Mağaza,Kitap & Ofis,Ajanda,3,260,143.23,0.1
+SP101377,2024-05-11,M0127,İzmir,Ege,Online,Kitap & Ofis,Kalem Kutusu,3,240,135.84,0.1
+SP101378,2024-05-19,M0638,Ankara,İç Anadolu,Online,Giyim,Tişört,1,1740,761.91,0.0
+SP101379,2024-11-23,M0721,Konya,İç Anadolu,Online,Ev & Yaşam,Kahve Makinesi,5,1290,809.2,0.2
+SP101380,2024-11-16,M0740,İstanbul,Marmara,Online,Elektronik,Bluetooth Hoparlör,2,2860,2068.52,0.2
+SP101381,2024-08-13,M0399,İstanbul,Marmara,Mağaza,Ev & Yaşam,Kahve Makinesi,4,2180,1350.53,0.0
+SP101382,2024-09-02,M0327,İstanbul,Marmara,Online,Elektronik,Powerbank,4,1950,1349.01,0.1
+SP101383,2024-11-27,M0265,İzmir,Ege,Online,Giyim,Kazak,2,1440,614.48,0.3
+SP101384,2024-09-24,M0216,Ankara,İç Anadolu,Online,Kitap & Ofis,Roman,3,40,21.82,0.0
+SP101385,2024-08-23,M0727,İstanbul,Marmara,Online,Giyim,Mont,2,1570,683.61,0.0
+SP101386,2024-05-29,M0242,İstanbul,Marmara,Online,Elektronik,Akıllı Saat,3,1300,906.85,0.0
+SP101387,2024-08-19,M0335,Antalya,Akdeniz,Mağaza,Elektronik,Kulaklık,5,520,342.36,0.0
+SP101388,2024-07-06,M0594,Ankara,İç Anadolu,Online,Ev & Yaşam,Kahve Makinesi,2,2390,1378.86,0.05
+SP101389,2024-04-29,M0487,İstanbul,Marmara,Mağaza,Giyim,Tişört,3,1290,602.67,0.05
+SP101390,2024-09-21,M0709,Trabzon,Karadeniz,Mağaza,Elektronik,Bluetooth Hoparlör,5,3540,2412.24,0.0
+SP101391,2024-06-18,M0751,İstanbul,Marmara,Online,Kozmetik,Makyaj Paleti,5,250,92.55,0.0
+SP101392,2024-11-21,M0124,Adana,Akdeniz,Online,Elektronik,Bluetooth Hoparlör,3,3090,2058.21,0.4
+SP101393,2024-11-06,M0709,Gaziantep,Güneydoğu,Online,Elektronik,Bluetooth Hoparlör,1,2620,1735.2,0.1
+SP101394,2024-12-31,M0635,İstanbul,Marmara,Online,Kozmetik,Şampuan,3,590,227.09,0.0
+SP101395,2024-07-09,M0444,İstanbul,Marmara,Online,Elektronik,Bluetooth Hoparlör,5,3630,2414.85,0.0
+SP101396,2024-11-22,M0402,İstanbul,Marmara,Online,Giyim,Mont,5,1520,663.06,0.1
+SP101397,2024-08-03,M0275,İstanbul,Marmara,Mağaza,Giyim,Spor Ayakkabı,3,470,213.81,0.0
+SP101398,2024-12-24,M0098,İzmir,Ege,Online,Giyim,Spor Ayakkabı,1,1210,528.27,0.0
+SP101399,2024-08-31,M0222,Konya,İç Anadolu,Mağaza,Elektronik,Akıllı Saat,1,660,455.25,0.05
+SP101400,2024-08-12,M0154,Gaziantep,Güneydoğu,Mağaza,Kozmetik,Şampuan,2,90,37.08,0.0
+SP101401,2024-02-09,M0156,İstanbul,Marmara,Online,Ev & Yaşam,Mutfak Robotu,5,1330,844.3,0.05
+SP101402,2024-03-16,M0295,Antalya,Akdeniz,Mağaza,Kozmetik,Parfüm,1,170,63.75,0.0
+SP101403,2024-04-06,M0063,Adana,Akdeniz,Online,Elektronik,Akıllı Saat,1,970,635.22,0.05
+SP101404,2024-05-19,M0575,Antalya,Akdeniz,Online,Giyim,Tişört,5,1000,438.87,0.0
+SP101405,2024-06-24,M0232,İstanbul,Marmara,Mağaza,Elektronik,Bluetooth Hoparlör,5,1610,1143.61,0.0
+SP101406,2024-03-05,M0190,Adana,Akdeniz,Online,Elektronik,Powerbank,4,1330,916.49,0.0
+SP101407,2024-06-30,M0248,Bursa,Marmara,Online,Ev & Yaşam,Aydınlatma,4,2450,1448.8,0.0
+SP101408,2024-09-25,M0242,Antalya,Akdeniz,Online,Ev & Yaşam,Mutfak Robotu,3,2240,1316.07,0.15
+SP101409,2024-11-20,M0481,Ankara,İç Anadolu,Mağaza,Kitap & Ofis,Roman,3,220,119.36,0.3
+SP101410,2024-07-05,M0536,Ankara,İç Anadolu,Mağaza,Giyim,Mont,1,450,206.33,0.1
+SP101411,2024-03-19,M0736,Ankara,İç Anadolu,Mağaza,Giyim,Spor Ayakkabı,3,1320,621.31,0.0
+SP101412,2024-07-30,M0112,İstanbul,Marmara,Online,Elektronik,Bluetooth Hoparlör,5,3970,2653.08,0.0
+SP101413,2024-10-08,M0634,Adana,Akdeniz,Online,Elektronik,Bluetooth Hoparlör,4,2430,1701.5,0.0
+SP101414,2024-12-15,M0166,Bursa,Marmara,Online,Giyim,Tişört,1,1260,528.12,0.0
+SP101415,2024-04-13,M0035,Kocaeli,Marmara,Online,Ev & Yaşam,Aydınlatma,1,1700,1092.18,0.1
+SP101416,2024-05-12,M0255,İzmir,Ege,Online,Ev & Yaşam,Mutfak Robotu,4,1100,709.67,0.0
+SP101417,2024-04-03,M0800,Adana,Akdeniz,Online,Giyim,Kazak,5,870,387.92,0.0
+SP101418,2024-10-05,M0534,Ankara,İç Anadolu,Online,Ev & Yaşam,Mutfak Robotu,4,660,386.85,0.0
+SP101419,2024-09-15,M0155,Gaziantep,Güneydoğu,Online,Elektronik,Bluetooth Hoparlör,3,670,487.11,0.0
+SP101420,2024-06-04,M0193,İzmir,Ege,Mağaza,Giyim,Tişört,3,1000,455.79,0.0
+SP101421,2024-12-30,M0264,Konya,İç Anadolu,Online,Kitap & Ofis,Ajanda,3,120,62.78,0.15
+SP101422,2024-10-27,M0478,Ankara,İç Anadolu,Mağaza,Giyim,Mont,2,400,183.48,0.0
+SP101423,2024-03-28,M0231,Antalya,Akdeniz,Online,Giyim,Spor Ayakkabı,4,1300,594.41,0.0
+SP101424,2024-08-15,M0353,İzmir,Ege,Online,Ev & Yaşam,Mutfak Robotu,2,1180,692.01,0.0
+SP101425,2024-09-10,M0066,Ankara,İç Anadolu,Online,Kozmetik,Parfüm,4,640,266.29,0.0
+SP101426,2024-07-10,M0592,İstanbul,Marmara,Online,Giyim,Tişört,1,960,438.28,0.15
+SP101427,2024-09-27,M0435,İzmir,Ege,Online,Ev & Yaşam,Kahve Makinesi,5,2100,1210.22,0.05
+SP101428,2024-06-16,M0520,Ankara,İç Anadolu,Mağaza,Giyim,Spor Ayakkabı,3,1120,519.13,0.0
+SP101429,2024-03-14,M0411,Kocaeli,Marmara,Mağaza,Giyim,Spor Ayakkabı,3,150,68.99,0.05
+SP101430,2024-12-10,M0346,İstanbul,Marmara,Online,Elektronik,Bluetooth Hoparlör,3,2800,1989.4,0.1
+SP101431,2024-02-06,M0062,İstanbul,Marmara,Mağaza,Ev & Yaşam,Aydınlatma,2,1040,669.65,0.0
+SP101432,2024-04-05,M0427,Ankara,İç Anadolu,Mağaza,Ev & Yaşam,Mutfak Robotu,4,890,508.51,0.0
+SP101433,2024-11-28,M0785,Ankara,İç Anadolu,Online,Giyim,Spor Ayakkabı,5,160,72.46,0.1
+SP101434,2024-03-21,M0333,Ankara,İç Anadolu,Online,Ev & Yaşam,Mutfak Robotu,3,410,246.42,0.0
+SP101435,2024-09-01,M0264,İstanbul,Marmara,Mağaza,Elektronik,Akıllı Saat,4,3710,2694.19,0.0
+SP101436,2024-10-12,M0577,Bursa,Marmara,Online,Elektronik,Powerbank,1,630,440.97,0.05
+SP101437,2024-03-05,M0782,İzmir,Ege,Online,Giyim,Spor Ayakkabı,4,350,147.99,0.0
+SP101438,2024-09-21,M0526,İstanbul,Marmara,Mağaza,Elektronik,Akıllı Saat,1,1060,731.49,0.0
+SP101439,2024-04-18,M0414,İstanbul,Marmara,Online,Elektronik,Powerbank,4,2240,1492.44,0.05
+SP101440,2024-05-10,M0041,Bursa,Marmara,Online,Elektronik,Akıllı Saat,2,1140,822.46,0.0
+SP101441,2024-09-27,M0593,Antalya,Akdeniz,Online,Elektronik,Powerbank,3,3840,2756.84,0.0
+SP101442,2024-07-08,M0460,İzmir,Ege,Mağaza,Giyim,Spor Ayakkabı,1,1750,782.58,0.0
+SP101443,2024-06-08,M0652,İstanbul,Marmara,Mağaza,Ev & Yaşam,Aydınlatma,3,2090,1241.46,0.0
+SP101444,2024-10-10,M0136,İstanbul,Marmara,Online,Ev & Yaşam,Yastık Seti,1,1540,974.62,0.05
+SP101445,2024-07-21,M0338,İzmir,Ege,Online,Giyim,Kazak,5,760,351.59,0.15
+SP101446,2024-01-23,M0651,İstanbul,Marmara,Online,Giyim,Mont,1,1780,804.79,0.0
+SP101447,2024-09-30,M0351,Ankara,İç Anadolu,Mağaza,Giyim,Mont,4,300,125.63,0.0
+SP101448,2024-11-20,M0644,Gaziantep,Güneydoğu,Online,Giyim,Tişört,4,310,140.78,0.4
+SP101449,2024-10-02,M0584,İstanbul,Marmara,Online,Elektronik,Kulaklık,2,1940,1395.06,0.0
+SP101450,2024-07-28,M0365,İzmir,Ege,Online,Ev & Yaşam,Mutfak Robotu,5,940,556.59,0.1
+SP101451,2024-12-31,M0134,Bursa,Marmara,Online,Elektronik,Powerbank,3,1510,1054.22,0.05
+SP101452,2024-02-03,M0622,İstanbul,Marmara,Online,Ev & Yaşam,Yastık Seti,5,1690,983.68,0.0
+SP101453,2024-12-13,M0621,Antalya,Akdeniz,Online,Elektronik,Kulaklık,2,1870,1282.39,0.1
+SP101454,2024-04-11,M0704,İstanbul,Marmara,Mağaza,Kitap & Ofis,Roman,1,80,42.08,0.0
+SP101455,2024-11-16,M0696,Ankara,İç Anadolu,Mağaza,Kozmetik,Cilt Bakım Seti,1,330,121.5,0.1
+SP101456,2024-07-06,M0113,İstanbul,Marmara,Online,Giyim,Spor Ayakkabı,3,1130,520.99,0.05
+SP101457,2024-10-23,M0077,Ankara,İç Anadolu,Mağaza,Ev & Yaşam,Kahve Makinesi,1,930,556.14,0.1
+SP101458,2024-08-20,M0434,Ankara,İç Anadolu,Mağaza,Giyim,Tişört,1,440,196.58,0.0
+SP101459,2024-01-28,M0056,İzmir,Ege,Mağaza,Ev & Yaşam,Mutfak Robotu,5,900,560.5,0.1
+SP101460,2024-10-19,M0003,İstanbul,Marmara,Mağaza,Elektronik,Bluetooth Hoparlör,3,1640,1119.79,0.05
+SP101461,2024-01-29,M0049,Kocaeli,Marmara,Online,Kozmetik,Cilt Bakım Seti,1,130,48.5,0.0
+SP101462,2024-12-18,M0154,İstanbul,Marmara,Online,Kozmetik,Cilt Bakım Seti,2,250,92.08,0.1
+SP101463,2024-12-16,M0676,İstanbul,Marmara,Online,Giyim,Mont,5,490,210.99,0.0
+SP101464,2024-10-31,M0144,İstanbul,Marmara,Online,Elektronik,Kulaklık,4,3420,2401.55,0.0
+SP101465,2024-02-06,M0560,Trabzon,Karadeniz,Mağaza,Ev & Yaşam,Kahve Makinesi,5,740,441.05,0.0
+SP101466,2024-09-06,M0433,İstanbul,Marmara,Mağaza,Giyim,Tişört,2,660,297.87,0.0
+SP101467,2024-11-27,M0148,Kocaeli,Marmara,Mağaza,Elektronik,Bluetooth Hoparlör,5,1020,731.15,0.3
+SP101468,2024-04-09,M0343,İstanbul,Marmara,Online,Giyim,Spor Ayakkabı,2,190,82.12,0.1
+SP101469,2024-04-06,M0289,İstanbul,Marmara,Online,Kozmetik,Makyaj Paleti,2,750,308.6,0.0
+SP101470,2024-03-09,M0575,Ankara,İç Anadolu,Online,Ev & Yaşam,Kahve Makinesi,5,2330,1490.66,0.15
+SP101471,2024-12-06,M0336,İstanbul,Marmara,Mağaza,Elektronik,Kulaklık,1,1560,1112.94,0.0
+SP101472,2024-03-13,M0049,İstanbul,Marmara,Mağaza,Elektronik,Bluetooth Hoparlör,2,3310,2259.48,0.0
+SP101473,2024-08-27,M0588,İstanbul,Marmara,Online,Giyim,Tişört,5,790,345.6,0.15
+SP101474,2024-11-04,M0428,Konya,İç Anadolu,Online,Giyim,Spor Ayakkabı,5,1660,722.59,0.2
+SP101475,2024-04-12,M0771,Antalya,Akdeniz,Mağaza,Elektronik,Bluetooth Hoparlör,5,3220,2271.65,0.05
+SP101476,2024-05-27,M0326,Kocaeli,Marmara,Mağaza,Kozmetik,Şampuan,3,780,304.27,0.15
+SP101477,2024-10-26,M0289,Adana,Akdeniz,Online,Ev & Yaşam,Yastık Seti,5,1090,641.07,0.0
+SP101478,2024-08-01,M0683,Konya,İç Anadolu,Mağaza,Ev & Yaşam,Mutfak Robotu,5,2460,1578.71,0.05
+SP101479,2024-05-11,M0475,İstanbul,Marmara,Online,Giyim,Spor Ayakkabı,1,1360,622.05,0.0
+SP101480,2024-09-18,M0288,Antalya,Akdeniz,Online,Elektronik,Powerbank,4,1210,862.33,0.05
+SP101481,2024-08-26,M0783,Ankara,İç Anadolu,Mağaza,Elektronik,Powerbank,1,3660,2526.03,0.0
+SP101482,2024-08-30,M0332,Ankara,İç Anadolu,Online,Kozmetik,Parfüm,5,130,54.37,0.0
+SP101483,2024-09-30,M0372,İstanbul,Marmara,Online,Elektronik,Bluetooth Hoparlör,4,1230,881.53,0.1
+SP101484,2024-10-01,M0375,İstanbul,Marmara,Online,Elektronik,Powerbank,2,1760,1242.23,0.0
+SP101485,2024-08-28,M0093,Trabzon,Karadeniz,Mağaza,Kozmetik,Cilt Bakım Seti,4,370,137.82,0.0
+SP101486,2024-09-01,M0539,İstanbul,Marmara,Online,Giyim,Tişört,2,530,225.89,0.0
+SP101487,2024-04-08,M0546,Trabzon,Karadeniz,Mağaza,Ev & Yaşam,Kahve Makinesi,4,1190,713.96,0.0
+SP101488,2024-03-03,M0485,Trabzon,Karadeniz,Online,Elektronik,Powerbank,3,3950,2891.02,0.0
+SP101489,2024-04-25,M0212,İstanbul,Marmara,Mağaza,Kitap & Ofis,Roman,2,340,182.38,0.0
+SP101490,2024-06-18,M0712,İstanbul,Marmara,Online,Elektronik,Bluetooth Hoparlör,2,1130,793.38,0.0
+SP101491,2024-04-15,M0197,Trabzon,Karadeniz,Online,Elektronik,Bluetooth Hoparlör,4,2990,2024.32,0.0
+SP101492,2024-12-03,M0690,İzmir,Ege,Online,Giyim,Tişört,1,1160,530.97,0.0
+SP101493,2024-12-23,M0057,İstanbul,Marmara,Online,Giyim,Kazak,4,270,121.9,0.0
+SP101494,2024-06-18,M0154,İstanbul,Marmara,Mağaza,Kozmetik,Şampuan,2,880,367.06,0.0
+SP101495,2024-06-14,M0224,İstanbul,Marmara,Online,Ev & Yaşam,Kahve Makinesi,2,820,506.25,0.0
+SP101496,2024-12-23,M0225,İstanbul,Marmara,Mağaza,Elektronik,Akıllı Saat,2,1510,1059.38,0.05
+SP101497,2024-01-08,M0340,Gaziantep,Güneydoğu,Online,Elektronik,Bluetooth Hoparlör,4,1810,1294.19,0.1
+SP101498,2024-07-22,M0600,Adana,Akdeniz,Online,Elektronik,Kulaklık,5,3510,2558.71,0.0
+SP101499,2024-10-13,M0177,Konya,İç Anadolu,Online,Ev & Yaşam,Yastık Seti,3,1710,993.26,0.0
+SP101500,2024-11-24,M0474,İstanbul,Marmara,Mağaza,Ev & Yaşam,Mutfak Robotu,2,2170,1333.99,0.3
+SP101501,2024-09-03,M0632,İstanbul,Marmara,Mağaza,Elektronik,Bluetooth Hoparlör,2,1990,1332.36,0.0
+SP101502,2024-04-29,M0594,İzmir,Ege,Online,Kozmetik,Cilt Bakım Seti,2,520,217.95,0.0
+SP101503,2024-05-06,M0249,İstanbul,Marmara,Online,Giyim,Kazak,4,450,201.58,0.1
+SP101504,2024-05-13,M0048,Ankara,İç Anadolu,Online,Giyim,Mont,3,650,306.18,0.05
+SP101505,2024-10-10,M0146,Konya,İç Anadolu,Online,Kitap & Ofis,Kalem Kutusu,5,220,120.76,0.0
+SP101506,2024-12-03,M0156,Ankara,İç Anadolu,Online,Kozmetik,Parfüm,3,630,254.11,0.05
+SP101507,2024-10-20,M0033,Konya,İç Anadolu,Mağaza,Elektronik,Akıllı Saat,1,3100,2256.47,0.0
+SP101508,2024-11-29,M0591,Adana,Akdeniz,Online,Ev & Yaşam,Mutfak Robotu,1,1610,1043.97,0.4
+SP101509,2024-11-16,M0414,Kocaeli,Marmara,Online,Kitap & Ofis,Kalem Kutusu,1,40,20.81,0.3
+SP101510,2024-08-23,M0623,Trabzon,Karadeniz,Online,Elektronik,Powerbank,4,2240,1561.48,0.15
+SP101511,2024-12-28,M0108,Konya,İç Anadolu,Online,Kozmetik,Makyaj Paleti,1,470,180.81,0.0
+SP101512,2024-08-04,M0716,Konya,İç Anadolu,Online,Ev & Yaşam,Aydınlatma,5,1530,964.7,0.05
+SP101513,2024-12-06,M0066,İstanbul,Marmara,Mağaza,Kozmetik,Cilt Bakım Seti,2,730,303.5,0.0
+SP101514,2024-05-06,M0039,İzmir,Ege,Mağaza,Kozmetik,Makyaj Paleti,4,670,274.82,0.05
+SP101515,2024-10-14,M0197,Gaziantep,Güneydoğu,Online,Kozmetik,Şampuan,1,520,211.08,0.0
+SP101516,2024-11-09,M0599,İstanbul,Marmara,Online,Ev & Yaşam,Aydınlatma,3,1350,822.65,0.4
+SP101517,2024-11-23,M0427,Trabzon,Karadeniz,Online,Giyim,Kazak,5,960,439.35,0.3
+SP101518,2024-05-30,M0721,Bursa,Marmara,Online,Elektronik,Bluetooth Hoparlör,2,1210,855.62,0.05
+SP101519,2024-03-12,M0771,İstanbul,Marmara,Online,Giyim,Spor Ayakkabı,4,190,81.4,0.0
+SP101520,2024-07-09,M0798,İstanbul,Marmara,Online,Kozmetik,Şampuan,3,890,361.17,0.05
+SP101521,2024-12-22,M0082,İstanbul,Marmara,Mağaza,Elektronik,Bluetooth Hoparlör,1,1250,874.9,0.0
+SP101522,2024-11-15,M0096,Gaziantep,Güneydoğu,Online,Elektronik,Powerbank,1,3380,2297.11,0.4
+SP101523,2024-08-02,M0744,Gaziantep,Güneydoğu,Mağaza,Elektronik,Powerbank,3,2400,1584.43,0.0
+SP101524,2024-12-25,M0487,Ankara,İç Anadolu,Online,Kozmetik,Makyaj Paleti,3,650,256.51,0.15
+SP101525,2024-09-08,M0380,Ankara,İç Anadolu,Mağaza,Kitap & Ofis,Ajanda,4,260,133.89,0.0
+SP101526,2024-01-09,M0005,İstanbul,Marmara,Mağaza,Giyim,Tişört,4,1130,491.88,0.0
+SP101527,2024-03-21,M0490,İstanbul,Marmara,Online,Kozmetik,Parfüm,3,90,37.67,0.0
+SP101528,2024-11-04,M0005,Trabzon,Karadeniz,Mağaza,Kitap & Ofis,Roman,2,320,165.19,0.3
+SP101529,2024-02-18,M0381,Gaziantep,Güneydoğu,Online,Elektronik,Kulaklık,5,1300,889.02,0.0
+SP101530,2024-07-18,M0391,Ankara,İç Anadolu,Online,Giyim,Kazak,2,1590,741.65,0.0
+SP101531,2024-12-28,M0505,İstanbul,Marmara,Online,Ev & Yaşam,Kahve Makinesi,5,2070,1291.91,0.0
+SP101532,2024-11-11,M0200,Gaziantep,Güneydoğu,Online,Elektronik,Kulaklık,2,2280,1630.18,0.3
+SP101533,2024-03-16,M0114,İzmir,Ege,Mağaza,Ev & Yaşam,Mutfak Robotu,4,1390,879.79,0.05
+SP101534,2024-10-17,M0563,Kocaeli,Marmara,Mağaza,Kitap & Ofis,Kalem Kutusu,5,260,142.56,0.0
+SP101535,2024-11-26,M0067,İstanbul,Marmara,Online,Elektronik,Powerbank,4,1750,1208.2,0.1
+SP101536,2024-10-16,M0551,İstanbul,Marmara,Online,Elektronik,Powerbank,1,690,456.28,0.15
+SP101537,2024-01-11,M0307,Ankara,İç Anadolu,Mağaza,Elektronik,Bluetooth Hoparlör,1,3860,2762.85,0.0
+SP101538,2024-02-21,M0199,Gaziantep,Güneydoğu,Mağaza,Elektronik,Bluetooth Hoparlör,5,3970,2823.73,0.05
+SP101539,2024-04-06,M0274,Antalya,Akdeniz,Online,Ev & Yaşam,Kahve Makinesi,4,660,423.08,0.05
+SP101540,2024-12-08,M0069,İstanbul,Marmara,Online,Giyim,Kazak,5,1140,538.3,0.0
+SP101541,2024-04-24,M0180,İstanbul,Marmara,Mağaza,Elektronik,Akıllı Saat,5,1590,1164.09,0.0
+SP101542,2024-09-24,M0718,Adana,Akdeniz,Mağaza,Ev & Yaşam,Mutfak Robotu,3,2180,1416.2,0.0
+SP101543,2024-02-04,M0326,Antalya,Akdeniz,Mağaza,Elektronik,Kulaklık,5,2420,1652.38,0.0
+SP101544,2024-11-16,M0795,Kocaeli,Marmara,Online,Elektronik,Kulaklık,3,3050,2011.29,0.1
+SP101545,2024-02-27,M0680,İstanbul,Marmara,Online,Kozmetik,Cilt Bakım Seti,5,210,77.81,0.1
+SP101546,2024-12-09,M0722,İzmir,Ege,Online,Ev & Yaşam,Aydınlatma,4,1930,1145.3,0.0
+SP101547,2024-10-01,M0633,Adana,Akdeniz,Mağaza,Kozmetik,Cilt Bakım Seti,1,530,195.8,0.0
+SP101548,2024-07-04,M0081,Kocaeli,Marmara,Mağaza,Kitap & Ofis,Roman,5,270,147.73,0.0
+SP101549,2024-01-09,M0014,İstanbul,Marmara,Online,Ev & Yaşam,Aydınlatma,2,430,275.72,0.15
+SP101550,2024-03-22,M0201,Gaziantep,Güneydoğu,Online,Ev & Yaşam,Yastık Seti,3,840,506.5,0.0
+SP101551,2024-02-29,M0472,İzmir,Ege,Mağaza,Giyim,Tişört,1,1340,563.67,0.0
+SP101552,2024-05-21,M0171,Kocaeli,Marmara,Online,Elektronik,Kulaklık,3,2960,2141.78,0.0
+SP101553,2024-12-21,M0584,İzmir,Ege,Mağaza,Ev & Yaşam,Kahve Makinesi,2,370,228.06,0.0
+SP101554,2024-06-23,M0547,İzmir,Ege,Online,Giyim,Kazak,2,260,108.5,0.1
+SP101555,2024-12-10,M0570,Ankara,İç Anadolu,Online,Kozmetik,Parfüm,1,750,293.52,0.05
+SP101556,2024-12-11,M0735,Konya,İç Anadolu,Online,Elektronik,Akıllı Saat,1,650,445.32,0.0
+SP101557,2024-07-02,M0665,Kocaeli,Marmara,Mağaza,Ev & Yaşam,Aydınlatma,2,1950,1139.98,0.0
+SP101558,2024-05-27,M0327,İzmir,Ege,Online,Ev & Yaşam,Mutfak Robotu,5,260,152.66,0.0
+SP101559,2024-11-25,M0520,İstanbul,Marmara,Online,Giyim,Mont,3,1220,546.55,0.4
+SP101560,2024-08-17,M0537,İstanbul,Marmara,Online,Kozmetik,Şampuan,1,270,110.84,0.05
+SP101561,2024-02-04,M0734,İstanbul,Marmara,Mağaza,Ev & Yaşam,Aydınlatma,3,590,337.15,0.15
+SP101562,2024-01-05,M0133,Antalya,Akdeniz,Online,Giyim,Kazak,5,1610,754.58,0.0
+SP101563,2024-02-17,M0673,İstanbul,Marmara,Mağaza,Ev & Yaşam,Mutfak Robotu,2,1400,807.23,0.1
+SP101564,2024-05-16,M0406,İstanbul,Marmara,Online,Kozmetik,Cilt Bakım Seti,3,160,66.09,0.0
+SP101565,2024-06-11,M0015,İstanbul,Marmara,Online,Elektronik,Kulaklık,1,3920,2623.88,0.0
+SP101566,2024-04-13,M0162,İzmir,Ege,Mağaza,Kitap & Ofis,Kalem Kutusu,2,240,137.33,0.0
+SP101567,2024-04-19,M0667,İstanbul,Marmara,Mağaza,Elektronik,Bluetooth Hoparlör,4,1980,1306.1,0.0
+SP101568,2024-02-11,M0238,İzmir,Ege,Online,Giyim,Spor Ayakkabı,4,1260,524.62,0.15
+SP101569,2024-12-21,M0238,İzmir,Ege,Online,Kitap & Ofis,Kalem Kutusu,3,80,42.34,0.15
+SP101570,2024-03-11,M0387,Gaziantep,Güneydoğu,Online,Ev & Yaşam,Mutfak Robotu,1,740,430.31,0.05
+SP101571,2024-11-01,M0295,İstanbul,Marmara,Online,Kitap & Ofis,Roman,1,80,45.16,0.4
+SP101572,2024-05-18,M0365,İstanbul,Marmara,Online,Giyim,Mont,3,1530,677.23,0.0
+SP101573,2024-08-19,M0747,Gaziantep,Güneydoğu,Online,Elektronik,Bluetooth Hoparlör,3,1630,1185.37,0.0
+SP101574,2024-09-23,M0099,Ankara,İç Anadolu,Mağaza,Elektronik,Powerbank,1,2960,1993.41,0.0
+SP101575,2024-10-12,M0286,Gaziantep,Güneydoğu,Online,Ev & Yaşam,Kahve Makinesi,1,2130,1262.44,0.0
+SP101576,2024-08-08,M0531,İstanbul,Marmara,Online,Ev & Yaşam,Aydınlatma,2,2020,1278.84,0.0
+SP101577,2024-11-11,M0518,Kocaeli,Marmara,Mağaza,Elektronik,Akıllı Saat,5,2190,1454.65,0.2
+SP101578,2024-07-29,M0506,İzmir,Ege,Online,Ev & Yaşam,Kahve Makinesi,3,450,262.14,0.0
+SP101579,2024-04-21,M0361,Kocaeli,Marmara,Online,Kozmetik,Parfüm,5,490,201.0,0.1
+SP101580,2024-12-17,M0156,Antalya,Akdeniz,Online,Ev & Yaşam,Mutfak Robotu,4,420,263.25,0.0
+SP101581,2024-06-05,M0499,Bursa,Marmara,Mağaza,Kozmetik,Cilt Bakım Seti,4,740,301.85,0.0
+SP101582,2024-05-30,M0309,İstanbul,Marmara,Online,Kitap & Ofis,Roman,5,330,190.53,0.05
+SP101583,2024-10-11,M0027,İzmir,Ege,Online,Ev & Yaşam,Yastık Seti,5,1300,816.08,0.1
+SP101584,2024-01-12,M0746,Ankara,İç Anadolu,Mağaza,Kitap & Ofis,Defter Seti,4,100,56.98,0.0
+SP101585,2024-01-16,M0678,İstanbul,Marmara,Online,Ev & Yaşam,Yastık Seti,1,1050,602.85,0.0
+SP101586,2024-09-08,M0209,Ankara,İç Anadolu,Online,Elektronik,Bluetooth Hoparlör,1,2130,1469.25,0.1
+SP101587,2024-11-24,M0686,İstanbul,Marmara,Mağaza,Ev & Yaşam,Kahve Makinesi,2,2060,1220.73,0.2
+SP101588,2024-08-05,M0440,İstanbul,Marmara,Online,Elektronik,Kulaklık,1,3010,2010.77,0.0
+SP101589,2024-06-14,M0020,Adana,Akdeniz,Online,Giyim,Kazak,1,1710,757.54,0.1
+SP101590,2024-01-06,M0338,Ankara,İç Anadolu,Online,Kozmetik,Parfüm,4,760,317.94,0.0
+SP101591,2024-07-10,M0139,İstanbul,Marmara,Mağaza,Elektronik,Akıllı Saat,2,1880,1282.83,0.0
+SP101592,2024-04-18,M0310,Bursa,Marmara,Mağaza,Elektronik,Powerbank,1,2040,1370.22,0.15
+SP101593,2024-02-04,M0137,İstanbul,Marmara,Mağaza,Elektronik,Powerbank,2,2920,2046.33,0.0
+SP101594,2024-01-09,M0342,İstanbul,Marmara,Mağaza,Ev & Yaşam,Aydınlatma,4,1180,714.51,0.0
+SP101595,2024-12-16,M0558,İstanbul,Marmara,Mağaza,Ev & Yaşam,Mutfak Robotu,3,1600,1010.34,0.0
+SP101596,2024-04-29,M0651,İstanbul,Marmara,Mağaza,Kitap & Ofis,Defter Seti,3,120,63.79,0.05
+SP101597,2024-02-03,M0728,Gaziantep,Güneydoğu,Online,Elektronik,Bluetooth Hoparlör,5,2740,1784.12,0.05
+SP101598,2024-12-02,M0085,İstanbul,Marmara,Mağaza,Elektronik,Powerbank,4,2680,1875.28,0.1
+SP101599,2024-03-08,M0273,Antalya,Akdeniz,Mağaza,Giyim,Kazak,3,580,257.73,0.1
+SP101600,2024-08-15,M0344,Ankara,İç Anadolu,Mağaza,Giyim,Mont,2,510,238.63,0.0
+SP101601,2024-11-14,M0044,İstanbul,Marmara,Online,Elektronik,Powerbank,1,3770,2505.51,0.3
+SP101602,2024-06-03,M0784,İzmir,Ege,Online,Giyim,Kazak,1,310,139.79,0.0
+SP101603,2024-05-09,M0189,İstanbul,Marmara,Mağaza,Elektronik,Kulaklık,5,1670,1141.96,0.0
+SP101604,2024-05-18,M0717,Ankara,İç Anadolu,Online,Giyim,Kazak,4,1130,520.46,0.0
+SP101605,2024-12-16,M0005,İzmir,Ege,Mağaza,Ev & Yaşam,Kahve Makinesi,1,2110,1260.45,0.15
+SP101606,2024-05-27,M0227,Antalya,Akdeniz,Mağaza,Elektronik,Powerbank,5,2230,1456.23,0.1
+SP101607,2024-05-04,M0548,İzmir,Ege,Online,Elektronik,Akıllı Saat,3,2540,1778.1,0.15
+SP101608,2024-08-04,M0491,Konya,İç Anadolu,Online,Elektronik,Kulaklık,4,2380,1592.43,0.0
+SP101609,2024-06-02,M0142,Antalya,Akdeniz,Mağaza,Ev & Yaşam,Mutfak Robotu,5,820,488.29,0.05
+SP101610,2024-03-22,M0778,Ankara,İç Anadolu,Mağaza,Elektronik,Kulaklık,3,3680,2598.83,0.0
+SP101611,2024-09-22,M0190,İzmir,Ege,Online,Ev & Yaşam,Yastık Seti,1,380,224.07,0.0
+SP101612,2024-11-21,M0423,İzmir,Ege,Mağaza,Giyim,Kazak,4,1460,671.81,0.3
+SP101613,2024-11-06,M0396,İstanbul,Marmara,Online,Ev & Yaşam,Aydınlatma,4,990,632.9,0.2
+SP101614,2024-10-05,M0737,Kocaeli,Marmara,Mağaza,Elektronik,Kulaklık,3,3140,2074.35,0.0
+SP101615,2024-09-03,M0395,İstanbul,Marmara,Mağaza,Giyim,Tişört,1,480,221.33,0.05
+SP101616,2024-04-06,M0085,İzmir,Ege,Online,Kozmetik,Cilt Bakım Seti,2,830,326.2,0.0
+SP101617,2024-07-02,M0277,Antalya,Akdeniz,Online,Elektronik,Bluetooth Hoparlör,2,2420,1640.94,0.1
+SP101618,2024-08-07,M0317,Ankara,İç Anadolu,Online,Kozmetik,Cilt Bakım Seti,1,540,221.9,0.0
+SP101619,2024-12-14,M0225,Ankara,İç Anadolu,Online,Ev & Yaşam,Aydınlatma,5,270,174.47,0.05
+SP101620,2024-12-21,M0349,İstanbul,Marmara,Online,Giyim,Mont,3,250,105.75,0.0
+SP101621,2024-09-09,M0734,Gaziantep,Güneydoğu,Online,Elektronik,Kulaklık,2,1090,739.49,0.1
+SP101622,2024-02-07,M0260,İstanbul,Marmara,Online,Giyim,Tişört,4,190,84.92,0.0
+SP101623,2024-09-23,M0073,Bursa,Marmara,Online,Giyim,Kazak,4,810,377.95,0.05
+SP101624,2024-11-26,M0357,İzmir,Ege,Mağaza,Ev & Yaşam,Kahve Makinesi,4,1160,733.74,0.3
+SP101625,2024-06-17,M0082,Kocaeli,Marmara,Mağaza,Elektronik,Akıllı Saat,4,2390,1548.2,0.0
+SP101626,2024-11-22,M0196,Ankara,İç Anadolu,Mağaza,Elektronik,Powerbank,4,530,372.83,0.4
+SP101627,2024-10-29,M0582,Gaziantep,Güneydoğu,Online,Kozmetik,Makyaj Paleti,4,300,118.53,0.0
+SP101628,2024-11-21,M0355,İzmir,Ege,Online,Giyim,Mont,4,1230,532.06,0.4
+SP101629,2024-11-10,M0796,Trabzon,Karadeniz,Online,Ev & Yaşam,Yastık Seti,1,680,402.81,0.1
+SP101630,2024-12-19,M0287,İzmir,Ege,Online,Ev & Yaşam,Aydınlatma,1,2080,1286.31,0.0
+SP101631,2024-07-29,M0192,Gaziantep,Güneydoğu,Online,Ev & Yaşam,Yastık Seti,2,1590,977.64,0.05
+SP101632,2024-01-07,M0195,Adana,Akdeniz,Online,Giyim,Mont,2,880,364.98,0.05
+SP101633,2024-04-05,M0572,Konya,İç Anadolu,Online,Ev & Yaşam,Kahve Makinesi,1,280,180.04,0.1
+SP101634,2024-07-28,M0407,Ankara,İç Anadolu,Mağaza,Ev & Yaşam,Kahve Makinesi,5,2300,1410.25,0.0
+SP101635,2024-09-13,M0251,Konya,İç Anadolu,Mağaza,Elektronik,Kulaklık,1,1970,1330.47,0.0
+SP101636,2024-11-07,M0241,Ankara,İç Anadolu,Online,Kitap & Ofis,Defter Seti,5,260,141.8,0.2
+SP101637,2024-10-04,M0045,İstanbul,Marmara,Mağaza,Elektronik,Powerbank,5,3740,2431.4,0.05
+SP101638,2024-01-13,M0343,İstanbul,Marmara,Online,Elektronik,Akıllı Saat,2,2340,1699.9,0.0
+SP101639,2024-02-17,M0401,İstanbul,Marmara,Mağaza,Kitap & Ofis,Roman,1,90,47.82,0.05
+SP101640,2024-06-14,M0360,İstanbul,Marmara,Mağaza,Kozmetik,Parfüm,4,230,95.04,0.1
+SP101641,2024-06-26,M0182,İstanbul,Marmara,Online,Kitap & Ofis,Defter Seti,2,210,111.4,0.0
+SP101642,2024-11-27,M0744,İstanbul,Marmara,Online,Ev & Yaşam,Aydınlatma,4,1030,668.38,0.3
+SP101643,2024-12-17,M0551,İzmir,Ege,Mağaza,Giyim,Mont,4,1730,723.69,0.1
+SP101644,2024-11-13,M0236,Adana,Akdeniz,Mağaza,Giyim,Mont,3,990,431.68,0.2
+SP101645,2024-04-02,M0182,İstanbul,Marmara,Mağaza,Giyim,Spor Ayakkabı,3,760,347.97,0.0
+SP101646,2024-09-16,M0185,Adana,Akdeniz,Online,Ev & Yaşam,Aydınlatma,1,1080,661.24,0.0
+SP101647,2024-12-23,M0290,Kocaeli,Marmara,Mağaza,Elektronik,Powerbank,4,3260,2178.06,0.0
+SP101648,2024-09-25,M0139,Bursa,Marmara,Online,Giyim,Tişört,1,1510,707.37,0.1
+SP101649,2024-04-04,M0316,İzmir,Ege,Online,Ev & Yaşam,Yastık Seti,1,1920,1142.06,0.0
+SP101650,2024-04-14,M0047,Antalya,Akdeniz,Online,Kitap & Ofis,Kalem Kutusu,4,240,136.06,0.1
+SP101651,2024-09-19,M0640,İstanbul,Marmara,Mağaza,Elektronik,Akıllı Saat,1,1100,714.36,0.0
+SP101652,2024-01-29,M0072,Ankara,İç Anadolu,Online,Ev & Yaşam,Aydınlatma,4,800,481.22,0.0
+SP101653,2024-05-26,M0228,Kocaeli,Marmara,Online,Elektronik,Akıllı Saat,2,3180,2079.36,0.1
+SP101654,2024-03-06,M0586,Gaziantep,Güneydoğu,Online,Kozmetik,Şampuan,3,770,311.26,0.05
+SP101655,2024-04-10,M0220,Ankara,İç Anadolu,Mağaza,Elektronik,Powerbank,2,2320,1649.68,0.0
+SP101656,2024-02-26,M0575,İzmir,Ege,Online,Ev & Yaşam,Mutfak Robotu,5,1180,689.51,0.0
+SP101657,2024-05-03,M0607,İstanbul,Marmara,Online,Elektronik,Bluetooth Hoparlör,1,3210,2178.11,0.0
+SP101658,2024-09-11,M0239,İstanbul,Marmara,Online,Elektronik,Powerbank,5,1670,1080.67,0.0
+SP101659,2024-04-08,M0073,Antalya,Akdeniz,Online,Ev & Yaşam,Aydınlatma,5,260,159.64,0.1
+SP101660,2024-12-12,M0630,Ankara,İç Anadolu,Mağaza,Ev & Yaşam,Yastık Seti,4,630,388.69,0.0
+SP101661,2024-08-13,M0308,İstanbul,Marmara,Mağaza,Ev & Yaşam,Mutfak Robotu,3,660,397.56,0.0
+SP101662,2024-10-02,M0260,İstanbul,Marmara,Online,Elektronik,Akıllı Saat,1,1510,1020.33,0.05
+SP101663,2024-06-01,M0415,Ankara,İç Anadolu,Online,Elektronik,Akıllı Saat,1,2990,2190.86,0.0
+SP101664,2024-12-02,M0707,İstanbul,Marmara,Online,Kozmetik,Cilt Bakım Seti,2,430,176.52,0.0
+SP101665,2024-08-21,M0730,İzmir,Ege,Online,Ev & Yaşam,Kahve Makinesi,2,2190,1352.64,0.0
+SP101666,2024-11-29,M0656,Bursa,Marmara,Mağaza,Giyim,Mont,1,1660,726.23,0.2
+SP101667,2024-05-10,M0512,Konya,İç Anadolu,Online,Giyim,Mont,3,430,188.14,0.0
+SP101668,2024-11-07,M0239,Antalya,Akdeniz,Mağaza,Giyim,Tişört,5,780,325.38,0.4
+SP101669,2024-05-07,M0739,Ankara,İç Anadolu,Online,Ev & Yaşam,Mutfak Robotu,4,1070,643.05,0.0
+SP101670,2024-09-11,M0449,Adana,Akdeniz,Online,Giyim,Mont,2,850,379.78,0.15
+SP101671,2024-08-20,M0491,Bursa,Marmara,Online,Giyim,Spor Ayakkabı,1,1220,553.41,0.0
+SP101672,2024-08-12,M0407,İstanbul,Marmara,Online,Giyim,Tişört,4,1140,486.55,0.0
+SP101673,2024-12-12,M0281,İstanbul,Marmara,Online,Ev & Yaşam,Kahve Makinesi,4,850,522.04,0.0
+SP101674,2024-04-27,M0758,İstanbul,Marmara,Online,Elektronik,Powerbank,5,500,360.08,0.0
+SP101675,2024-12-06,M0499,İstanbul,Marmara,Mağaza,Elektronik,Bluetooth Hoparlör,5,3650,2430.07,0.1
+SP101676,2024-11-23,M0053,İstanbul,Marmara,Online,Giyim,Spor Ayakkabı,2,160,72.07,0.1
+SP101677,2024-03-06,M0586,İzmir,Ege,Mağaza,Ev & Yaşam,Kahve Makinesi,3,790,507.16,0.0
+SP101678,2024-03-30,M0024,Gaziantep,Güneydoğu,Mağaza,Elektronik,Akıllı Saat,1,1220,836.59,0.0
+SP101679,2024-07-07,M0731,Konya,İç Anadolu,Online,Ev & Yaşam,Kahve Makinesi,5,1890,1153.58,0.1
+SP101680,2024-11-18,M0732,Antalya,Akdeniz,Mağaza,Giyim,Kazak,3,1780,771.11,0.4
+SP101681,2024-10-02,M0606,İstanbul,Marmara,Mağaza,Ev & Yaşam,Yastık Seti,1,1480,914.31,0.05
+SP101682,2024-07-01,M0498,İstanbul,Marmara,Mağaza,Kozmetik,Makyaj Paleti,1,880,356.17,0.0
+SP101683,2024-12-26,M0161,Ankara,İç Anadolu,Online,Elektronik,Powerbank,2,1800,1316.53,0.1
+SP101684,2024-11-08,M0411,İstanbul,Marmara,Online,Ev & Yaşam,Yastık Seti,5,1260,786.19,0.2
+SP101685,2024-11-23,M0445,Gaziantep,Güneydoğu,Online,Giyim,Kazak,4,950,439.6,0.1
+SP101686,2024-03-07,M0764,Ankara,İç Anadolu,Online,Giyim,Tişört,5,580,273.71,0.0
+SP101687,2024-07-18,M0173,İstanbul,Marmara,Online,Kozmetik,Parfüm,1,200,83.45,0.0
+SP101688,2024-03-30,M0197,Gaziantep,Güneydoğu,Online,Elektronik,Bluetooth Hoparlör,1,3610,2340.42,0.1
+SP101689,2024-11-26,M0051,İzmir,Ege,Online,Giyim,Tişört,2,1600,741.82,0.1
+SP101690,2024-03-16,M0105,Konya,İç Anadolu,Mağaza,Ev & Yaşam,Kahve Makinesi,2,770,496.2,0.05
+SP101691,2024-03-12,M0462,Trabzon,Karadeniz,Mağaza,Giyim,Mont,3,1670,717.18,0.0
+SP101692,2024-10-18,M0781,İstanbul,Marmara,Online,Kozmetik,Şampuan,3,750,303.19,0.0
+SP101693,2024-12-11,M0461,İstanbul,Marmara,Online,Elektronik,Powerbank,2,3740,2528.19,0.0
+SP101694,2024-05-01,M0492,Ankara,İç Anadolu,Mağaza,Ev & Yaşam,Aydınlatma,2,1280,764.63,0.0
+SP101695,2024-09-15,M0700,Konya,İç Anadolu,Mağaza,Kozmetik,Cilt Bakım Seti,2,90,34.3,0.05
+SP101696,2024-11-11,M0500,İstanbul,Marmara,Online,Kitap & Ofis,Ajanda,3,170,88.5,0.3
+SP101697,2024-07-22,M0357,Antalya,Akdeniz,Mağaza,Giyim,Kazak,3,1580,662.76,0.0
+SP101698,2024-12-06,M0150,İzmir,Ege,Online,Giyim,Kazak,1,1790,813.29,0.0
+SP101699,2024-08-09,M0767,İzmir,Ege,Online,Elektronik,Kulaklık,5,1440,980.74,0.0
+SP101700,2024-12-03,M0356,İzmir,Ege,Online,Ev & Yaşam,Aydınlatma,4,1590,924.51,0.15
+SP101701,2024-09-24,M0242,Trabzon,Karadeniz,Online,Ev & Yaşam,Mutfak Robotu,5,1490,930.77,0.05
+SP101702,2024-05-03,M0500,İstanbul,Marmara,Online,Kitap & Ofis,Ajanda,1,150,79.7,0.05
+SP101703,2024-11-30,M0772,Ankara,İç Anadolu,Online,Elektronik,Akıllı Saat,4,3820,2515.45,0.3
+SP101704,2024-08-16,M0374,Konya,İç Anadolu,Online,Ev & Yaşam,Kahve Makinesi,1,450,258.17,0.0
+SP101705,2024-02-16,M0421,İzmir,Ege,Online,Giyim,Tişört,1,1720,766.21,0.05
+SP101706,2024-09-16,M0121,Trabzon,Karadeniz,Mağaza,Kozmetik,Şampuan,4,820,305.74,0.0
+SP101707,2024-11-09,M0397,Adana,Akdeniz,Mağaza,Giyim,Mont,5,850,368.88,0.3
+SP101708,2024-02-05,M0141,Trabzon,Karadeniz,Mağaza,Kozmetik,Parfüm,4,640,265.76,0.0
+SP101709,2024-12-25,M0759,Antalya,Akdeniz,Online,Kozmetik,Şampuan,5,370,143.02,0.0
+SP101710,2024-10-11,M0189,İstanbul,Marmara,Mağaza,Elektronik,Kulaklık,3,3250,2314.42,0.15
+SP101711,2024-10-31,M0448,Antalya,Akdeniz,Mağaza,Kozmetik,Parfüm,5,240,97.78,0.0
+SP101712,2024-10-21,M0776,Antalya,Akdeniz,Online,Giyim,Tişört,1,950,433.75,0.0
+SP101713,2024-12-31,M0185,Trabzon,Karadeniz,Mağaza,Giyim,Mont,2,1730,783.21,0.0
+SP101714,2024-10-12,M0588,Ankara,İç Anadolu,Online,Ev & Yaşam,Mutfak Robotu,1,700,438.9,0.0
+SP101715,2024-03-28,M0430,İzmir,Ege,Mağaza,Kozmetik,Parfüm,5,110,41.96,0.05
+SP101716,2024-11-08,M0723,Kocaeli,Marmara,Mağaza,Elektronik,Akıllı Saat,3,1110,740.01,0.3
+SP101717,2024-04-02,M0542,İstanbul,Marmara,Online,Elektronik,Powerbank,2,1210,811.23,0.0
+SP101718,2024-11-03,M0421,İstanbul,Marmara,Online,Ev & Yaşam,Aydınlatma,3,780,502.16,0.4
+SP101719,2024-04-08,M0348,İstanbul,Marmara,Mağaza,Kitap & Ofis,Defter Seti,1,200,108.39,0.0
+SP101720,2024-02-05,M0393,İzmir,Ege,Online,Elektronik,Bluetooth Hoparlör,3,2780,1983.24,0.0
+SP101721,2024-05-11,M0445,Konya,İç Anadolu,Online,Kozmetik,Cilt Bakım Seti,3,800,328.93,0.0
+SP101722,2024-04-26,M0254,İstanbul,Marmara,Mağaza,Ev & Yaşam,Aydınlatma,5,670,398.44,0.05
+SP101723,2024-09-02,M0619,Trabzon,Karadeniz,Online,Giyim,Spor Ayakkabı,2,300,125.28,0.0
+SP101724,2024-04-07,M0653,Ankara,İç Anadolu,Online,Kozmetik,Makyaj Paleti,2,530,209.6,0.1
+SP101725,2024-11-22,M0756,İstanbul,Marmara,Online,Ev & Yaşam,Kahve Makinesi,1,1540,981.52,0.1
+SP101726,2024-01-21,M0207,İstanbul,Marmara,Mağaza,Elektronik,Bluetooth Hoparlör,4,820,548.59,0.0
+SP101727,2024-07-25,M0246,İstanbul,Marmara,Online,Elektronik,Akıllı Saat,4,1990,1375.4,0.0
+SP101728,2024-11-08,M0568,Ankara,İç Anadolu,Mağaza,Giyim,Tişört,2,820,373.94,0.1
+SP101729,2024-11-13,M0548,İstanbul,Marmara,Online,Ev & Yaşam,Aydınlatma,4,1670,976.4,0.4
+SP101730,2024-12-19,M0315,İstanbul,Marmara,Online,Kozmetik,Şampuan,5,220,83.79,0.05
+SP101731,2024-12-15,M0628,İzmir,Ege,Online,Kozmetik,Makyaj Paleti,4,190,73.59,0.0
+SP101732,2024-03-19,M0332,Kocaeli,Marmara,Mağaza,Ev & Yaşam,Mutfak Robotu,4,1470,876.77,0.05
+SP101733,2024-12-14,M0587,Ankara,İç Anadolu,Mağaza,Kitap & Ofis,Kalem Kutusu,5,70,39.56,0.0
+SP101734,2024-04-18,M0052,Antalya,Akdeniz,Online,Elektronik,Akıllı Saat,5,2040,1396.62,0.0
+SP101735,2024-09-23,M0396,Gaziantep,Güneydoğu,Online,Ev & Yaşam,Mutfak Robotu,3,1700,1000.21,0.0
+SP101736,2024-04-28,M0055,Konya,İç Anadolu,Mağaza,Giyim,Spor Ayakkabı,2,1070,495.86,0.05
+SP101737,2024-02-17,M0014,Ankara,İç Anadolu,Online,Elektronik,Powerbank,5,2420,1585.87,0.0
+SP101738,2024-10-28,M0480,Kocaeli,Marmara,Mağaza,Ev & Yaşam,Mutfak Robotu,4,430,263.06,0.0
+SP101739,2024-12-20,M0601,Adana,Akdeniz,Mağaza,Kitap & Ofis,Roman,2,340,174.06,0.0
+SP101740,2024-02-11,M0681,İzmir,Ege,Online,Elektronik,Bluetooth Hoparlör,2,750,532.89,0.1
+SP101741,2024-06-30,M0025,İstanbul,Marmara,Online,Giyim,Tişört,3,420,189.74,0.15
+SP101742,2024-11-08,M0736,Adana,Akdeniz,Online,Giyim,Tişört,5,300,133.21,0.3
+SP101743,2024-01-23,M0799,İstanbul,Marmara,Online,Elektronik,Powerbank,3,3080,2155.65,0.05
+SP101744,2024-02-25,M0276,Adana,Akdeniz,Online,Giyim,Spor Ayakkabı,5,1010,439.48,0.0
+SP101745,2024-08-15,M0157,İstanbul,Marmara,Mağaza,Elektronik,Kulaklık,2,3490,2368.33,0.0
+SP101746,2024-01-08,M0191,Trabzon,Karadeniz,Mağaza,Giyim,Mont,1,980,409.8,0.1
+SP101747,2024-06-24,M0755,Gaziantep,Güneydoğu,Mağaza,Elektronik,Powerbank,2,3720,2644.61,0.1
+SP101748,2024-10-29,M0028,İstanbul,Marmara,Online,Elektronik,Bluetooth Hoparlör,2,1320,880.33,0.0
+SP101749,2024-09-25,M0553,İzmir,Ege,Online,Giyim,Spor Ayakkabı,5,680,316.23,0.0
+SP101750,2024-02-04,M0173,Konya,İç Anadolu,Mağaza,Giyim,Spor Ayakkabı,4,330,142.36,0.05
+SP101751,2024-05-05,M0720,Bursa,Marmara,Mağaza,Giyim,Kazak,4,590,276.91,0.0
+SP101752,2024-09-17,M0782,İzmir,Ege,Mağaza,Kitap & Ofis,Ajanda,2,210,107.27,0.0
+SP101753,2024-08-13,M0147,Gaziantep,Güneydoğu,Online,Kozmetik,Cilt Bakım Seti,3,570,223.83,0.1
+SP101754,2024-09-17,M0786,İstanbul,Marmara,Online,Giyim,Kazak,4,520,242.53,0.1
+SP101755,2024-11-19,M0083,Gaziantep,Güneydoğu,Online,Ev & Yaşam,Kahve Makinesi,4,550,341.59,0.2
+SP101756,2024-12-31,M0424,İstanbul,Marmara,Online,Giyim,Tişört,2,1310,571.96,0.15
+SP101757,2024-03-05,M0468,Ankara,İç Anadolu,Online,Elektronik,Kulaklık,1,2340,1701.41,0.05
+SP101758,2024-10-21,M0721,Trabzon,Karadeniz,Online,Elektronik,Akıllı Saat,4,820,556.78,0.0
+SP101759,2024-12-17,M0671,Antalya,Akdeniz,Online,Elektronik,Kulaklık,5,2370,1553.62,0.0
+SP101760,2024-07-23,M0413,Ankara,İç Anadolu,Mağaza,Ev & Yaşam,Kahve Makinesi,4,1840,1065.11,0.05
+SP101761,2024-04-18,M0106,İzmir,Ege,Online,Ev & Yaşam,Aydınlatma,1,1970,1239.6,0.0
+SP101762,2024-11-20,M0308,İstanbul,Marmara,Online,Elektronik,Bluetooth Hoparlör,1,1680,1122.05,0.2
+SP101763,2024-10-28,M0219,Ankara,İç Anadolu,Online,Ev & Yaşam,Yastık Seti,2,1890,1140.75,0.05
+SP101764,2024-12-05,M0460,Adana,Akdeniz,Mağaza,Giyim,Mont,5,1150,504.04,0.0
+SP101765,2024-10-07,M0103,İstanbul,Marmara,Online,Giyim,Kazak,2,1390,653.16,0.0
+SP101766,2024-10-25,M0602,İstanbul,Marmara,Online,Elektronik,Kulaklık,4,2690,1786.95,0.0
+SP101767,2024-12-06,M0648,Konya,İç Anadolu,Online,Elektronik,Powerbank,4,1130,738.35,0.1
+SP101768,2024-10-09,M0740,Gaziantep,Güneydoğu,Online,Kozmetik,Cilt Bakım Seti,3,400,152.33,0.15
+SP101769,2024-02-29,M0234,İstanbul,Marmara,Online,Elektronik,Bluetooth Hoparlör,2,710,470.31,0.05
+SP101770,2024-10-11,M0546,Antalya,Akdeniz,Online,Giyim,Mont,4,400,168.63,0.0
+SP101771,2024-02-18,M0358,Ankara,İç Anadolu,Mağaza,Giyim,Mont,1,1500,679.28,0.1
+SP101772,2024-10-19,M0259,Ankara,İç Anadolu,Mağaza,Ev & Yaşam,Aydınlatma,1,2390,1385.56,0.0
+SP101773,2024-11-08,M0086,Ankara,İç Anadolu,Online,Elektronik,Akıllı Saat,2,2730,1945.27,0.4
+SP101774,2024-06-07,M0224,Gaziantep,Güneydoğu,Online,Ev & Yaşam,Mutfak Robotu,5,1450,889.19,0.05
+SP101775,2024-05-14,M0157,Ankara,İç Anadolu,Mağaza,Kozmetik,Cilt Bakım Seti,2,520,211.86,0.05
+SP101776,2024-11-14,M0228,İstanbul,Marmara,Mağaza,Elektronik,Akıllı Saat,5,870,609.36,0.3
+SP101777,2024-05-22,M0030,Antalya,Akdeniz,Online,Kozmetik,Makyaj Paleti,5,280,106.0,0.0
+SP101778,2024-05-14,M0708,Adana,Akdeniz,Online,Kitap & Ofis,Kalem Kutusu,1,280,147.85,0.0
+SP101779,2024-09-17,M0142,Ankara,İç Anadolu,Mağaza,Elektronik,Akıllı Saat,3,550,393.92,0.0
+SP101780,2024-10-07,M0400,İstanbul,Marmara,Online,Giyim,Mont,5,1470,618.55,0.0
+SP101781,2024-02-17,M0539,İstanbul,Marmara,Mağaza,Elektronik,Powerbank,1,1520,996.38,0.0
+SP101782,2024-05-05,M0787,İstanbul,Marmara,Mağaza,Kozmetik,Cilt Bakım Seti,1,420,159.1,0.0
+SP101783,2024-10-28,M0797,İstanbul,Marmara,Online,Kozmetik,Şampuan,3,100,41.16,0.0
+SP101784,2024-10-25,M0276,İstanbul,Marmara,Online,Ev & Yaşam,Kahve Makinesi,2,1970,1190.93,0.05
+SP101785,2024-04-30,M0329,İstanbul,Marmara,Online,Giyim,Kazak,4,710,332.62,0.0
+SP101786,2024-03-02,M0794,İzmir,Ege,Mağaza,Ev & Yaşam,Kahve Makinesi,1,2020,1240.93,0.05
+SP101787,2024-12-03,M0570,Ankara,İç Anadolu,Online,Ev & Yaşam,Yastık Seti,3,2150,1237.11,0.0
+SP101788,2024-09-06,M0428,İzmir,Ege,Online,Elektronik,Kulaklık,1,1700,1152.36,0.0
+SP101789,2024-10-07,M0305,İstanbul,Marmara,Mağaza,Giyim,Mont,2,1480,688.26,0.1
+SP101790,2024-09-08,M0489,Bursa,Marmara,Online,Elektronik,Powerbank,3,3480,2495.84,0.0
+SP101791,2024-02-21,M0672,İzmir,Ege,Online,Ev & Yaşam,Kahve Makinesi,3,1730,1125.04,0.0
+SP101792,2024-09-24,M0480,Trabzon,Karadeniz,Online,Ev & Yaşam,Kahve Makinesi,2,200,129.91,0.0
+SP101793,2024-04-14,M0624,Ankara,İç Anadolu,Online,Elektronik,Kulaklık,1,1040,685.34,0.0
+SP101794,2024-12-04,M0668,Gaziantep,Güneydoğu,Mağaza,Giyim,Kazak,4,350,163.66,0.0
+SP101795,2024-11-10,M0393,Gaziantep,Güneydoğu,Online,Elektronik,Kulaklık,3,3910,2570.47,0.3
+SP101796,2024-11-14,M0682,Bursa,Marmara,Mağaza,Giyim,Spor Ayakkabı,5,1670,717.92,0.2
+SP101797,2024-02-28,M0583,Bursa,Marmara,Mağaza,Giyim,Tişört,5,720,317.6,0.0
+SP101798,2024-09-19,M0441,Ankara,İç Anadolu,Online,Giyim,Mont,5,960,398.77,0.0
+SP101799,2024-01-09,M0729,Ankara,İç Anadolu,Mağaza,Kitap & Ofis,Roman,2,290,158.63,0.1
+SP101800,2024-12-16,M0571,İstanbul,Marmara,Mağaza,Ev & Yaşam,Mutfak Robotu,2,1840,1187.29,0.0
+SP101801,2024-11-02,M0778,İzmir,Ege,Mağaza,Kozmetik,Şampuan,2,720,296.76,0.3
+SP101802,2024-12-01,M0401,Trabzon,Karadeniz,Online,Kozmetik,Parfüm,2,670,259.07,0.15
+SP101803,2024-10-02,M0292,İstanbul,Marmara,Online,Ev & Yaşam,Aydınlatma,1,1830,1112.27,0.05
+SP101804,2024-07-10,M0156,İstanbul,Marmara,Online,Elektronik,Akıllı Saat,4,1080,776.42,0.1
+SP101805,2024-05-14,M0203,Gaziantep,Güneydoğu,Online,Kozmetik,Makyaj Paleti,5,440,181.27,0.0
+SP101806,2024-12-23,M0739,Antalya,Akdeniz,Online,Ev & Yaşam,Aydınlatma,2,380,227.16,0.15
+SP101807,2024-12-21,M0033,Bursa,Marmara,Online,Elektronik,Powerbank,4,1660,1209.6,0.0
+SP101808,2024-12-04,M0582,Konya,İç Anadolu,Online,Ev & Yaşam,Mutfak Robotu,5,2410,1413.4,0.15
+SP101809,2024-11-24,M0514,İstanbul,Marmara,Online,Elektronik,Kulaklık,5,3420,2493.89,0.1
+SP101810,2024-12-27,M0775,Gaziantep,Güneydoğu,Mağaza,Elektronik,Kulaklık,5,3030,2225.7,0.0
+SP101811,2024-06-10,M0417,İstanbul,Marmara,Online,Giyim,Spor Ayakkabı,3,1310,593.19,0.0
+SP101812,2024-05-17,M0184,Kocaeli,Marmara,Online,Giyim,Kazak,1,830,349.71,0.0
+SP101813,2024-11-13,M0766,Adana,Akdeniz,Mağaza,Kozmetik,Cilt Bakım Seti,2,810,298.29,0.2
+SP101814,2024-07-13,M0796,İstanbul,Marmara,Online,Ev & Yaşam,Yastık Seti,2,1400,889.14,0.0
+SP101815,2024-11-14,M0757,İstanbul,Marmara,Mağaza,Elektronik,Bluetooth Hoparlör,2,1700,1176.23,0.2
+SP101816,2024-12-19,M0335,Bursa,Marmara,Online,Elektronik,Powerbank,1,2430,1772.87,0.1
+SP101817,2024-05-05,M0437,İstanbul,Marmara,Online,Elektronik,Powerbank,4,3700,2522.42,0.05
+SP101818,2024-01-09,M0066,Ankara,İç Anadolu,Online,Giyim,Spor Ayakkabı,5,350,163.8,0.0
+SP101819,2024-03-17,M0583,Ankara,İç Anadolu,Online,Giyim,Kazak,4,750,350.49,0.1
+SP101820,2024-08-06,M0584,Antalya,Akdeniz,Online,Elektronik,Kulaklık,3,2900,1984.15,0.1
+SP101821,2024-01-01,M0119,İstanbul,Marmara,Online,Kozmetik,Makyaj Paleti,4,550,209.23,0.0
+SP101822,2024-12-25,M0187,Bursa,Marmara,Online,Giyim,Kazak,1,1290,587.75,0.0
+SP101823,2024-09-25,M0090,İzmir,Ege,Mağaza,Giyim,Spor Ayakkabı,1,1250,578.57,0.0
+SP101824,2024-12-11,M0497,İstanbul,Marmara,Mağaza,Elektronik,Powerbank,2,2280,1625.1,0.0
+SP101825,2024-12-11,M0253,Adana,Akdeniz,Online,Giyim,Kazak,1,1660,734.98,0.15
+SP101826,2024-12-22,M0607,İstanbul,Marmara,Online,Elektronik,Akıllı Saat,2,2480,1778.57,0.0
+SP101827,2024-07-12,M0377,Ankara,İç Anadolu,Mağaza,Ev & Yaşam,Yastık Seti,3,1220,748.77,0.05
+SP101828,2024-01-01,M0208,İstanbul,Marmara,Online,Elektronik,Powerbank,3,3830,2559.12,0.1
+SP101829,2024-01-18,M0223,Ankara,İç Anadolu,Mağaza,Giyim,Kazak,1,1740,749.79,0.0
+SP101830,2024-02-14,M0208,Trabzon,Karadeniz,Online,Giyim,Spor Ayakkabı,2,1190,532.06,0.0
+SP101831,2024-10-24,M0671,Bursa,Marmara,Online,Giyim,Kazak,4,630,274.97,0.0
+SP101832,2024-10-19,M0335,İstanbul,Marmara,Online,Ev & Yaşam,Yastık Seti,1,1580,1011.89,0.15
+SP101833,2024-08-30,M0527,İzmir,Ege,Mağaza,Giyim,Spor Ayakkabı,2,260,108.37,0.1
+SP101834,2024-05-01,M0114,Bursa,Marmara,Online,Kitap & Ofis,Roman,3,150,82.44,0.0
+SP101835,2024-10-02,M0109,Ankara,İç Anadolu,Online,Kozmetik,Cilt Bakım Seti,5,730,291.73,0.05
+SP101836,2024-08-29,M0507,İzmir,Ege,Online,Kozmetik,Makyaj Paleti,4,230,84.72,0.05
+SP101837,2024-09-04,M0748,İstanbul,Marmara,Mağaza,Elektronik,Akıllı Saat,2,2450,1797.78,0.0
+SP101838,2024-02-17,M0075,Konya,İç Anadolu,Online,Kozmetik,Parfüm,2,640,265.67,0.05
+SP101839,2024-11-01,M0740,Ankara,İç Anadolu,Online,Elektronik,Bluetooth Hoparlör,5,2670,1808.87,0.3
+SP101840,2024-10-13,M0352,Ankara,İç Anadolu,Mağaza,Elektronik,Powerbank,1,3710,2557.18,0.0
+SP101841,2024-10-13,M0674,İstanbul,Marmara,Mağaza,Elektronik,Kulaklık,1,2470,1703.78,0.05
+SP101842,2024-06-04,M0129,Antalya,Akdeniz,Mağaza,Elektronik,Kulaklık,2,2690,1791.06,0.1
+SP101843,2024-09-19,M0148,Ankara,İç Anadolu,Online,Kozmetik,Cilt Bakım Seti,2,130,49.57,0.1
+SP101844,2024-08-25,M0080,İstanbul,Marmara,Online,Kozmetik,Makyaj Paleti,3,700,273.45,0.0
+SP101845,2024-07-26,M0014,Ankara,İç Anadolu,Online,Elektronik,Akıllı Saat,4,3480,2353.37,0.0
+SP101846,2024-01-28,M0204,Kocaeli,Marmara,Online,Giyim,Kazak,2,1070,492.67,0.1
+SP101847,2024-04-18,M0664,Bursa,Marmara,Mağaza,Kitap & Ofis,Roman,4,130,74.96,0.0
+SP101848,2024-09-20,M0798,Ankara,İç Anadolu,Online,Giyim,Mont,1,1480,662.88,0.0
+SP101849,2024-11-17,M0393,İstanbul,Marmara,Online,Kozmetik,Makyaj Paleti,3,270,101.91,0.1
+SP101850,2024-08-14,M0157,Ankara,İç Anadolu,Mağaza,Giyim,Tişört,2,1660,693.03,0.0
+SP101851,2024-11-24,M0610,Trabzon,Karadeniz,Online,Elektronik,Powerbank,5,730,515.22,0.3
+SP101852,2024-03-06,M0296,Antalya,Akdeniz,Mağaza,Elektronik,Kulaklık,1,3020,2153.22,0.05
+SP101853,2024-08-17,M0459,İstanbul,Marmara,Mağaza,Elektronik,Powerbank,2,2410,1662.66,0.0
+SP101854,2024-02-02,M0436,Ankara,İç Anadolu,Online,Ev & Yaşam,Yastık Seti,4,1460,906.09,0.0
+SP101855,2024-11-02,M0154,Trabzon,Karadeniz,Online,Ev & Yaşam,Kahve Makinesi,3,1790,1136.14,0.3
+SP101856,2024-11-16,M0576,Konya,İç Anadolu,Online,Ev & Yaşam,Mutfak Robotu,4,1070,653.23,0.2
+SP101857,2024-11-14,M0429,İstanbul,Marmara,Online,Elektronik,Bluetooth Hoparlör,1,3980,2710.25,0.4
+SP101858,2024-09-17,M0310,Trabzon,Karadeniz,Online,Ev & Yaşam,Mutfak Robotu,3,280,160.81,0.0
+SP101859,2024-06-06,M0606,İstanbul,Marmara,Online,Elektronik,Powerbank,1,3840,2736.09,0.05
+SP101860,2024-11-01,M0295,İstanbul,Marmara,Online,Elektronik,Bluetooth Hoparlör,1,3830,2650.14,0.2
+SP101861,2024-03-09,M0464,Kocaeli,Marmara,Online,Ev & Yaşam,Yastık Seti,3,330,212.99,0.05
+SP101862,2024-08-26,M0755,İzmir,Ege,Mağaza,Elektronik,Bluetooth Hoparlör,3,1270,879.21,0.0
+SP101863,2024-05-05,M0143,İstanbul,Marmara,Online,Ev & Yaşam,Kahve Makinesi,2,270,162.99,0.0
+SP101864,2024-06-17,M0630,İstanbul,Marmara,Online,Elektronik,Kulaklık,1,2860,2074.51,0.0
+SP101865,2024-09-15,M0688,Kocaeli,Marmara,Mağaza,Elektronik,Kulaklık,4,2950,2017.35,0.0
+SP101866,2024-08-09,M0169,Konya,İç Anadolu,Mağaza,Ev & Yaşam,Aydınlatma,2,2120,1231.66,0.15
+SP101867,2024-10-02,M0719,Antalya,Akdeniz,Mağaza,Kozmetik,Parfüm,5,410,161.66,0.0
+SP101868,2024-06-23,M0765,Kocaeli,Marmara,Mağaza,Ev & Yaşam,Kahve Makinesi,1,200,127.25,0.1
+SP101869,2024-03-28,M0742,Adana,Akdeniz,Online,Giyim,Mont,1,1070,476.4,0.0
+SP101870,2024-04-26,M0340,Adana,Akdeniz,Online,Ev & Yaşam,Kahve Makinesi,5,1800,1030.9,0.1
+SP101871,2024-03-30,M0334,İstanbul,Marmara,Online,Elektronik,Bluetooth Hoparlör,2,2390,1546.93,0.0
+SP101872,2024-11-13,M0311,Gaziantep,Güneydoğu,Online,Giyim,Spor Ayakkabı,3,860,361.1,0.1
+SP101873,2024-01-20,M0156,Ankara,İç Anadolu,Mağaza,Kitap & Ofis,Kalem Kutusu,1,110,63.33,0.0
+SP101874,2024-01-20,M0679,Adana,Akdeniz,Mağaza,Elektronik,Kulaklık,3,1340,922.18,0.0
+SP101875,2024-06-20,M0008,Ankara,İç Anadolu,Mağaza,Ev & Yaşam,Yastık Seti,3,2450,1588.26,0.15
+SP101876,2024-04-22,M0699,Ankara,İç Anadolu,Mağaza,Giyim,Tişört,2,980,435.72,0.0
+SP101877,2024-10-16,M0135,Antalya,Akdeniz,Online,Giyim,Kazak,2,1140,509.95,0.0
+SP101878,2024-09-26,M0280,Bursa,Marmara,Online,Ev & Yaşam,Mutfak Robotu,1,380,229.61,0.0
+SP101879,2024-11-25,M0233,İstanbul,Marmara,Online,Elektronik,Bluetooth Hoparlör,3,800,540.45,0.3
+SP101880,2024-11-21,M0201,Ankara,İç Anadolu,Online,Giyim,Tişört,1,660,301.46,0.1
+SP101881,2024-11-01,M0776,Konya,İç Anadolu,Online,Elektronik,Bluetooth Hoparlör,3,2230,1476.3,0.3
+SP101882,2024-03-28,M0795,Gaziantep,Güneydoğu,Mağaza,Kozmetik,Parfüm,1,120,50.13,0.0
+SP101883,2024-12-24,M0761,Kocaeli,Marmara,Online,Elektronik,Bluetooth Hoparlör,5,3130,2241.54,0.0
+SP101884,2024-07-08,M0334,Ankara,İç Anadolu,Online,Kozmetik,Şampuan,5,890,365.69,0.0
+SP101885,2024-04-10,M0699,Kocaeli,Marmara,Online,Elektronik,Akıllı Saat,1,1870,1310.38,0.0
+SP101886,2024-06-01,M0727,İstanbul,Marmara,Online,Giyim,Mont,3,520,229.82,0.05
+SP101887,2024-09-11,M0535,İstanbul,Marmara,Mağaza,Elektronik,Kulaklık,2,2910,1973.28,0.0
+SP101888,2024-11-20,M0643,İzmir,Ege,Online,Ev & Yaşam,Aydınlatma,2,1180,753.28,0.2
+SP101889,2024-07-02,M0004,Antalya,Akdeniz,Online,Elektronik,Kulaklık,2,2560,1665.1,0.0
+SP101890,2024-11-26,M0560,Trabzon,Karadeniz,Online,Ev & Yaşam,Yastık Seti,3,2290,1366.98,0.3
+SP101891,2024-06-14,M0540,İstanbul,Marmara,Online,Elektronik,Akıllı Saat,4,520,359.25,0.05
+SP101892,2024-05-03,M0334,İzmir,Ege,Online,Giyim,Kazak,2,1490,673.89,0.0
+SP101893,2024-03-31,M0579,Antalya,Akdeniz,Mağaza,Kozmetik,Cilt Bakım Seti,3,880,334.61,0.0
+SP101894,2024-05-12,M0609,Konya,İç Anadolu,Online,Elektronik,Powerbank,2,680,499.06,0.0
+SP101895,2024-05-16,M0062,Antalya,Akdeniz,Online,Kozmetik,Cilt Bakım Seti,4,780,320.13,0.0
+SP101896,2024-04-13,M0238,Konya,İç Anadolu,Mağaza,Elektronik,Bluetooth Hoparlör,4,2140,1504.9,0.0
+SP101897,2024-07-07,M0022,İstanbul,Marmara,Mağaza,Ev & Yaşam,Kahve Makinesi,1,1640,1006.86,0.0
+SP101898,2024-12-05,M0202,İstanbul,Marmara,Online,Kitap & Ofis,Roman,5,160,89.72,0.0
+SP101899,2024-06-12,M0734,Ankara,İç Anadolu,Mağaza,Kitap & Ofis,Defter Seti,5,180,101.18,0.0
+SP101900,2024-02-03,M0701,Gaziantep,Güneydoğu,Online,Elektronik,Bluetooth Hoparlör,3,3400,2236.11,0.0
+SP101901,2024-08-21,M0734,Adana,Akdeniz,Online,Ev & Yaşam,Aydınlatma,3,2410,1562.56,0.0
+SP101902,2024-09-25,M0641,İstanbul,Marmara,Online,Ev & Yaşam,Aydınlatma,4,2330,1363.88,0.0
+SP101903,2024-09-06,M0732,İstanbul,Marmara,Mağaza,Elektronik,Akıllı Saat,3,700,451.24,0.0
+SP101904,2024-11-28,M0342,Trabzon,Karadeniz,Online,Kitap & Ofis,Defter Seti,3,100,55.26,0.3
+SP101905,2024-05-24,M0337,Antalya,Akdeniz,Mağaza,Elektronik,Kulaklık,4,3290,2258.78,0.0
+SP101906,2024-05-23,M0527,İstanbul,Marmara,Online,Giyim,Tişört,1,430,196.48,0.0
+SP101907,2024-10-24,M0738,İstanbul,Marmara,Mağaza,Ev & Yaşam,Yastık Seti,2,2140,1262.8,0.05
+SP101908,2024-09-29,M0034,Antalya,Akdeniz,Online,Elektronik,Powerbank,3,3340,2437.5,0.15
+SP101909,2024-06-13,M0780,İzmir,Ege,Online,Ev & Yaşam,Aydınlatma,4,2440,1536.31,0.0
+SP101910,2024-09-20,M0280,Antalya,Akdeniz,Mağaza,Kozmetik,Parfüm,3,700,283.78,0.1
+SP101911,2024-03-13,M0118,Antalya,Akdeniz,Mağaza,Elektronik,Powerbank,2,550,379.34,0.0
+SP101912,2024-09-15,M0765,Ankara,İç Anadolu,Mağaza,Elektronik,Bluetooth Hoparlör,3,3880,2554.07,0.0
+SP101913,2024-09-26,M0157,Ankara,İç Anadolu,Mağaza,Elektronik,Kulaklık,2,900,647.08,0.05
+SP101914,2024-11-26,M0060,Antalya,Akdeniz,Online,Ev & Yaşam,Kahve Makinesi,4,1120,651.06,0.1
+SP101915,2024-08-14,M0719,Adana,Akdeniz,Mağaza,Ev & Yaşam,Kahve Makinesi,2,990,644.11,0.05
+SP101916,2024-07-10,M0718,İstanbul,Marmara,Mağaza,Elektronik,Kulaklık,1,2150,1411.76,0.0
+SP101917,2024-10-22,M0777,İstanbul,Marmara,Mağaza,Elektronik,Bluetooth Hoparlör,1,2720,1881.76,0.0
+SP101918,2024-10-21,M0063,İstanbul,Marmara,Online,Giyim,Spor Ayakkabı,4,1720,719.72,0.1
+SP101919,2024-09-12,M0023,İzmir,Ege,Online,Giyim,Kazak,2,630,291.15,0.05
+SP101920,2024-01-27,M0406,Bursa,Marmara,Mağaza,Elektronik,Akıllı Saat,5,3800,2532.52,0.0
+SP101921,2024-12-10,M0678,Ankara,İç Anadolu,Mağaza,Elektronik,Bluetooth Hoparlör,5,2640,1804.87,0.05
+SP101922,2024-06-13,M0277,İstanbul,Marmara,Mağaza,Kozmetik,Şampuan,2,330,135.28,0.1
+SP101923,2024-06-05,M0259,Bursa,Marmara,Online,Elektronik,Akıllı Saat,1,2870,2042.95,0.0
+SP101924,2024-12-19,M0628,Ankara,İç Anadolu,Online,Elektronik,Powerbank,5,3150,2134.83,0.0
+SP101925,2024-09-16,M0036,İstanbul,Marmara,Mağaza,Elektronik,Akıllı Saat,5,2400,1591.42,0.0
+SP101926,2024-08-15,M0703,Adana,Akdeniz,Online,Kozmetik,Şampuan,1,450,172.91,0.0
+SP101927,2024-04-03,M0490,İstanbul,Marmara,Online,Ev & Yaşam,Kahve Makinesi,2,1690,988.64,0.0
+SP101928,2024-09-24,M0374,Ankara,İç Anadolu,Online,Ev & Yaşam,Mutfak Robotu,2,790,484.37,0.0
+SP101929,2024-09-09,M0011,Adana,Akdeniz,Mağaza,Giyim,Spor Ayakkabı,5,900,418.97,0.0
+SP101930,2024-11-19,M0239,İzmir,Ege,Online,Ev & Yaşam,Aydınlatma,2,710,429.35,0.1
+SP101931,2024-12-28,M0484,Trabzon,Karadeniz,Online,Giyim,Mont,1,910,380.82,0.0
+SP101932,2024-09-30,M0649,Bursa,Marmara,Online,Kozmetik,Cilt Bakım Seti,4,590,234.3,0.05
+SP101933,2024-04-17,M0185,İstanbul,Marmara,Online,Elektronik,Kulaklık,4,3200,2159.0,0.0
+SP101934,2024-11-10,M0150,Ankara,İç Anadolu,Online,Elektronik,Akıllı Saat,4,780,510.78,0.2
+SP101935,2024-09-30,M0556,İstanbul,Marmara,Mağaza,Ev & Yaşam,Yastık Seti,3,750,429.73,0.0
+SP101936,2024-03-07,M0593,Gaziantep,Güneydoğu,Mağaza,Giyim,Kazak,1,900,422.97,0.15
+SP101937,2024-08-06,M0793,İstanbul,Marmara,Online,Kozmetik,Makyaj Paleti,5,450,173.69,0.0
+SP101938,2024-09-04,M0427,İstanbul,Marmara,Online,Elektronik,Bluetooth Hoparlör,2,2550,1732.87,0.1
+SP101939,2024-07-19,M0517,Bursa,Marmara,Online,Ev & Yaşam,Kahve Makinesi,5,1870,1197.52,0.1
+SP101940,2024-11-20,M0034,Antalya,Akdeniz,Online,Ev & Yaşam,Yastık Seti,1,1520,876.29,0.1
+SP101941,2024-06-11,M0352,İstanbul,Marmara,Mağaza,Kitap & Ofis,Roman,4,250,133.38,0.05
+SP101942,2024-02-27,M0219,İstanbul,Marmara,Mağaza,Elektronik,Kulaklık,3,2200,1572.68,0.0
+SP101943,2024-12-05,M0506,İstanbul,Marmara,Mağaza,Kitap & Ofis,Roman,4,250,133.55,0.1
+SP101944,2024-07-18,M0278,İzmir,Ege,Online,Elektronik,Akıllı Saat,2,700,452.9,0.0
+SP101945,2024-12-30,M0014,Kocaeli,Marmara,Mağaza,Kitap & Ofis,Roman,5,80,42.17,0.05
+SP101946,2024-04-28,M0522,Kocaeli,Marmara,Mağaza,Kozmetik,Şampuan,4,180,71.14,0.0
+SP101947,2024-04-26,M0121,İstanbul,Marmara,Online,Kitap & Ofis,Kalem Kutusu,1,90,49.63,0.0
+SP101948,2024-06-28,M0202,İstanbul,Marmara,Online,Giyim,Mont,1,1280,595.88,0.05
+SP101949,2024-08-12,M0425,Konya,İç Anadolu,Online,Giyim,Tişört,5,1610,722.28,0.1
+SP101950,2024-01-02,M0369,İstanbul,Marmara,Online,Elektronik,Akıllı Saat,3,520,343.49,0.05
+SP101951,2024-08-31,M0189,Gaziantep,Güneydoğu,Online,Kozmetik,Cilt Bakım Seti,4,370,151.27,0.0
+SP101952,2024-03-10,M0199,Konya,İç Anadolu,Mağaza,Kitap & Ofis,Kalem Kutusu,1,130,74.67,0.0
+SP101953,2024-12-18,M0735,Ankara,İç Anadolu,Online,Elektronik,Bluetooth Hoparlör,5,1710,1246.82,0.0
+SP101954,2024-10-25,M0706,Bursa,Marmara,Mağaza,Ev & Yaşam,Kahve Makinesi,1,1990,1234.48,0.0
+SP101955,2024-11-17,M0280,İstanbul,Marmara,Mağaza,Elektronik,Akıllı Saat,3,2840,1958.21,0.2
+SP101956,2024-04-26,M0409,Konya,İç Anadolu,Online,Kitap & Ofis,Defter Seti,1,280,152.68,0.05
+SP101957,2024-09-25,M0447,Bursa,Marmara,Online,Elektronik,Bluetooth Hoparlör,2,2980,2169.5,0.0
+SP101958,2024-07-06,M0461,Ankara,İç Anadolu,Online,Elektronik,Bluetooth Hoparlör,3,2580,1879.57,0.0
+SP101959,2024-12-06,M0698,Bursa,Marmara,Mağaza,Elektronik,Akıllı Saat,4,3020,1961.58,0.05
+SP101960,2024-01-02,M0776,İstanbul,Marmara,Mağaza,Ev & Yaşam,Aydınlatma,2,1160,683.68,0.15
+SP101961,2024-11-07,M0487,İstanbul,Marmara,Online,Giyim,Spor Ayakkabı,2,920,392.43,0.2
+SP101962,2024-11-12,M0228,Adana,Akdeniz,Online,Kozmetik,Şampuan,3,860,316.57,0.2
+SP101963,2024-07-01,M0297,Adana,Akdeniz,Mağaza,Elektronik,Akıllı Saat,5,3570,2339.5,0.15
+SP101964,2024-03-12,M0293,İstanbul,Marmara,Online,Elektronik,Kulaklık,5,2080,1505.89,0.0
+SP101965,2024-10-13,M0182,Antalya,Akdeniz,Mağaza,Elektronik,Bluetooth Hoparlör,3,2710,1834.16,0.0
+SP101966,2024-03-07,M0492,İstanbul,Marmara,Online,Elektronik,Powerbank,5,2210,1624.09,0.0
+SP101967,2024-11-01,M0784,İstanbul,Marmara,Online,Elektronik,Powerbank,1,3670,2384.47,0.3
+SP101968,2024-01-27,M0154,Adana,Akdeniz,Online,Kitap & Ofis,Defter Seti,1,240,135.68,0.15
+SP101969,2024-11-12,M0070,Antalya,Akdeniz,Online,Giyim,Kazak,4,180,83.31,0.1
+SP101970,2024-09-24,M0239,İstanbul,Marmara,Mağaza,Kozmetik,Cilt Bakım Seti,1,480,180.95,0.0
+SP101971,2024-07-01,M0290,İzmir,Ege,Online,Kitap & Ofis,Roman,5,280,155.37,0.05
+SP101972,2024-06-07,M0669,Antalya,Akdeniz,Online,Elektronik,Kulaklık,5,1590,1123.23,0.05
+SP101973,2024-11-23,M0448,İstanbul,Marmara,Online,Kitap & Ofis,Defter Seti,1,290,165.88,0.4
+SP101974,2024-08-06,M0796,İstanbul,Marmara,Online,Elektronik,Powerbank,1,780,565.78,0.0
+SP101975,2024-04-07,M0314,Kocaeli,Marmara,Mağaza,Ev & Yaşam,Mutfak Robotu,4,1270,738.35,0.0
+SP101976,2024-02-04,M0123,Gaziantep,Güneydoğu,Online,Elektronik,Bluetooth Hoparlör,1,1400,931.61,0.1
+SP101977,2024-12-01,M0078,İstanbul,Marmara,Mağaza,Elektronik,Kulaklık,2,1760,1249.55,0.0
+SP101978,2024-10-23,M0314,Gaziantep,Güneydoğu,Mağaza,Elektronik,Powerbank,2,1980,1353.79,0.0
+SP101979,2024-03-13,M0079,Kocaeli,Marmara,Mağaza,Elektronik,Kulaklık,4,1900,1394.19,0.15
+SP101980,2024-10-26,M0559,Ankara,İç Anadolu,Online,Ev & Yaşam,Kahve Makinesi,1,1090,635.45,0.0
+SP101981,2024-11-27,M0555,Adana,Akdeniz,Online,Kozmetik,Makyaj Paleti,2,700,288.48,0.3
+SP101982,2024-01-25,M0686,İstanbul,Marmara,Mağaza,Elektronik,Bluetooth Hoparlör,1,1260,867.31,0.0
+SP101983,2024-11-29,M0094,Bursa,Marmara,Online,Ev & Yaşam,Kahve Makinesi,5,1810,1091.58,0.4
+SP101984,2024-12-18,M0350,İstanbul,Marmara,Online,Kitap & Ofis,Defter Seti,3,250,133.42,0.0
+SP101985,2024-04-02,M0757,Adana,Akdeniz,Mağaza,Elektronik,Kulaklık,5,2830,1925.73,0.1
+SP101986,2024-12-02,M0418,Trabzon,Karadeniz,Mağaza,Elektronik,Akıllı Saat,5,3840,2735.58,0.05
+SP101987,2024-11-16,M0339,İstanbul,Marmara,Online,Giyim,Tişört,3,1750,765.28,0.3
+SP101988,2024-09-30,M0104,İstanbul,Marmara,Online,Elektronik,Akıllı Saat,2,3680,2688.44,0.0
+SP101989,2024-01-08,M0481,Adana,Akdeniz,Online,Giyim,Mont,3,730,344.68,0.1
+SP101990,2024-02-03,M0386,İstanbul,Marmara,Online,Kitap & Ofis,Defter Seti,3,350,200.82,0.0
+SP101991,2024-09-27,M0667,Ankara,İç Anadolu,Online,Kozmetik,Makyaj Paleti,5,130,48.81,0.0
+SP101992,2024-09-15,M0185,İstanbul,Marmara,Online,Elektronik,Akıllı Saat,5,1040,724.33,0.0
+SP101993,2024-09-10,M0539,İzmir,Ege,Online,Elektronik,Kulaklık,3,2320,1602.76,0.1
+SP101994,2024-11-20,M0526,İzmir,Ege,Online,Elektronik,Powerbank,3,3390,2259.15,0.3
+SP101995,2024-08-21,M0646,İstanbul,Marmara,Mağaza,Ev & Yaşam,Aydınlatma,1,940,568.71,0.0
+SP101996,2024-08-18,M0594,Gaziantep,Güneydoğu,Online,Giyim,Kazak,3,830,355.59,0.0
+SP101997,2024-05-11,M0299,İstanbul,Marmara,Mağaza,Ev & Yaşam,Kahve Makinesi,1,2090,1339.83,0.1
+SP101998,2024-12-25,M0565,İstanbul,Marmara,Online,Kitap & Ofis,Roman,5,100,56.42,0.05
+SP101999,2024-12-06,M0748,Bursa,Marmara,Online,Elektronik,Powerbank,5,1260,848.97,0.0

@@ -1,0 +1,95 @@
+version: 2
+
+models:
+  - name: fct_sehir_satis_avm
+    description: |
+      Şehir düzeyinde birleştirilmiş analitik fact tablosu.
+      NovaPerakende satış performansı ile dış kaynaklı AVM sayıları ve nüfus
+      verilerini bir araya getirerek bölgesel ve şehir bazlı kârlılık/verimlilik analizlerine zemin hazırlar.
+    columns:
+      - name: sehir
+        description: "İl adı (Primary Key / Grain)"
+        tests:
+          - unique
+          - not_null
+          # TODO [EKİP ARKADAŞI]: Referans bütünlüğü testi (relationships)
+          # Aşağıdaki test sehir kolonunun stg_sehir_avm modelinde var olduğunu doğrular:
+          - relationships:
+              arguments:
+                to: ref('stg_sehir_avm')
+                field: sehir
+
+      - name: bolge
+        description: "Coğrafi bölge adı"
+        tests:
+          - not_null
+          # TODO [EKİP ARKADAŞI]: Geçerli değerler testi (accepted_values)
+          # Aşağıdaki test geçerli coğrafi bölgeleri sınar:
+          - accepted_values:
+              arguments:
+                values:
+                  - 'marmara'
+                  - 'ic anadolu'
+                  - 'ege'
+                  - 'akdeniz'
+                  - 'karadeniz'
+                  - 'guneydogu anadolu'
+                  - 'dogu anadolu'
+
+      - name: avm_sayisi
+        description: "Şehirdeki AVM sayısı"
+        tests:
+          - not_null
+
+      - name: nufus_tahmini
+        description: "Şehrin tahmini nüfusu"
+        tests:
+          - not_null
+
+      - name: toplam_siparis_sayisi
+        description: "İlgili şehirden verilen toplam benzersiz sipariş adedi"
+        tests:
+          - not_null
+
+      - name: toplam_musteri_sayisi
+        description: "İlgili şehirdeki tekil müşteri sayısı"
+        tests:
+          - not_null
+
+      - name: toplam_satilan_urun_adedi
+        description: "Şehir genelinde satışı yapılan toplam ürün miktarı"
+        tests:
+          - not_null
+
+      - name: toplam_brut_ciro
+        description: "İndirim öncesi toplam brüt hasılat"
+        tests:
+          - not_null
+
+      - name: toplam_net_ciro
+        description: "İndirim sonrası elde edilen net toplam satış tutarı"
+        tests:
+          - not_null
+
+      - name: toplam_kar
+        description: "Toplam net satıştan toplam ürün maliyetinin çıkarılmasıyla bulunan brüt kâr"
+        tests:
+          - not_null
+
+      - name: ortalama_siparis_tutari
+        description: "Sipariş başına düşen ortalama harcama tutarı (Sepet Büyüklüğü)"
+
+      - name: kar_marji_yuzdesi
+        description: "Kârın net ciroya olan yüzdesel oranı (%)"
+
+      - name: avm_basina_net_ciro
+        description: "AVM başına düşen net satış hasılatı (Verimlilik KPI'ı)"
+
+      - name: kisi_basi_net_ciro
+        description: "Şehir nüfusuna göre kişi başına düşen harcama (Penetrasyon KPI'ı)"
+
+# =============================================================================
+# TODO [EKİP ARKADAŞI]: DIM_MUSTERI VEYA DİĞER MARTS MODELLERİ İÇİN ŞEMA TANIMLARI
+# =============================================================================
+# Ekip arkadaşınız `stg_musteri` modelini geliştirdikten sonra veya `dim_musteri`
+# mart tablosu eklediğinde, ilgili modelin test ve açıklamalarını buraya ekleyecektir.

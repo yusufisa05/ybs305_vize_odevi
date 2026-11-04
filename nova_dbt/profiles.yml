@@ -1,0 +1,13 @@
+nova_dbt:
+  outputs:
+    dev:
+      type: duckdb
+      path: nova.duckdb
+      threads: 1
+
+    prod:
+      type: duckdb
+      path: nova.duckdb
+      threads: 4
+
+  target: dev
