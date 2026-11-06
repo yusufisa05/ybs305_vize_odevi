@@ -10,10 +10,15 @@ import plotly.graph_objects as go
 # =============================================================================
 st.set_page_config(
     page_title="NovaPerakende Analytics Dashboard",
-    page_icon="🛍️",
     layout="wide",
     initial_sidebar_state="expanded"
 )
+
+# =============================================================================
+# DİNAMİK DİZİN BULUCU (ÇALIŞMA DİZİNİNDEN BAĞIMSIZ GÜVENLİ YOL ÇÖZÜMLEME)
+# =============================================================================
+# app.py'nin bulunduğu klasörün bir üstü projenin ana kök dizinidir.
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # =============================================================================
 # VERİ YÜKLEME (DuckDB -> Fallback to CSV)
@@ -22,27 +27,30 @@ st.set_page_config(
 def load_data():
     """
     Öncelikle dbt tarafından üretilen DuckDB mart tablosunu (fct_sehir_satis_avm) okur.
-    Eğer veritabanı kilitli veya bulunamazsa doğrudan CSV'lerden sorgu çalıştırır.
+    Eğer veritabanı dosyası yoksa veya kilitliyse, data/ altındaki CSV'lerden
+    DuckDB aracılığıyla anlık analitik birleştirme (fallback) yaparak çalışır.
     """
     db_paths = [
-        os.path.join("nova_dbt", "nova.duckdb"),
+        os.path.join(BASE_DIR, "nova_dbt", "nova.duckdb"),
+        os.path.join(BASE_DIR, "nova.duckdb"),
+        "nova_dbt/nova.duckdb",
         "nova.duckdb"
     ]
     
-    con = None
     for path in db_paths:
         if os.path.exists(path):
             try:
                 con = duckdb.connect(database=path, read_only=True)
                 df = con.execute("SELECT * FROM fct_sehir_satis_avm").df()
                 con.close()
-                return df
+                if not df.empty:
+                    return df
             except Exception:
                 continue
 
-    # Fallback: DuckDB üzerinden CSV'leri canlı birleştirerek fct tablosunu oluştur
-    satis_path = os.path.join("data", "perakende_satis.csv")
-    avm_path = os.path.join("data", "sehir_avm.csv")
+    # Fallback: CSV dosyalarından anlık SQL agregasyonu ve birleştirme
+    satis_path = os.path.join(BASE_DIR, "data", "perakende_satis.csv").replace("\\", "/")
+    avm_path = os.path.join(BASE_DIR, "data", "sehir_avm.csv").replace("\\", "/")
     
     if os.path.exists(satis_path) and os.path.exists(avm_path):
         con = duckdb.connect()
@@ -97,17 +105,17 @@ df_raw = load_data()
 # =============================================================================
 # BAŞLIK VE AÇIKLAMA
 # =============================================================================
-st.title("🛍️ NovaPerakende: Şehir Bazlı Satış & AVM Analitik Panosu")
+st.title("NovaPerakende: Şehir Bazlı Satış ve AVM Analitik Panosu")
 st.markdown("""
 **YBS305 İş Zekâsı ve Veri Madenciliği — Dönem Projesi (Bölüm 1)**  
-*Veri Dönüşüm Hattı:* **dbt Core + DuckDB** | *Model:* `fct_sehir_satis_avm` | *Veri Kalitesi:* **46 dbt Testi (0 Hata)**
+*Veri Dönüşüm Hattı:* **dbt Core + DuckDB** | *İş Tablosu:* `fct_sehir_satis_avm` | *Veri Kalitesi:* **46 dbt Testi (0 Hata)**
 """)
 
 if df_raw.empty:
-    st.error("Veri seti yüklenemedi. Lütfen önce `dbt seed` ve `dbt run` komutlarını çalıştırınız.")
+    st.error("Veri seti yüklenemedi. Lütfen 'data/' klasöründeki CSV dosyalarını veya DuckDB veritabanını kontrol ediniz.")
     st.stop()
 
-# Şehir isimlerini düzgün büyük harf yapalım (Görsel şıklık için)
+# Şehir isimlerini düzgün büyük harf yapalım
 df_display = df_raw.copy()
 df_display['sehir_label'] = df_display['sehir'].str.title()
 df_display['bolge_label'] = df_display['bolge'].str.title()
@@ -115,7 +123,7 @@ df_display['bolge_label'] = df_display['bolge'].str.title()
 # =============================================================================
 # YAN PANEL (FİLTRELER / DİLİMLEYİCİLER)
 # =============================================================================
-st.sidebar.header("🔍 Analiz Filtreleri")
+st.sidebar.header("Analiz Filtreleri")
 
 # 1. Filtre: Bölge Seçimi
 bolgeler = sorted(df_display['bolge_label'].unique().tolist())
@@ -139,7 +147,7 @@ secilen_min_avm = st.sidebar.slider(
 min_ciro = float(df_display['toplam_net_ciro'].min())
 max_ciro = float(df_display['toplam_net_ciro'].max())
 secilen_min_ciro = st.sidebar.slider(
-    "Minimum Net Ciro (₺):",
+    "Minimum Net Ciro (TL):",
     min_value=float(min_ciro),
     max_value=float(max_ciro),
     value=float(min_ciro),
@@ -155,7 +163,7 @@ df_filtered = df_display[
 ]
 
 st.sidebar.markdown("---")
-st.sidebar.info(f"Filtrelenen Şehir Sayısı: **{len(df_filtered)} / {len(df_display)}**")
+st.sidebar.info(f"Filtrelenen Şehir Sayısı: {len(df_filtered)} / {len(df_display)}")
 
 if df_filtered.empty:
     st.warning("Seçilen filtre kriterlerine uygun şehir bulunamadı. Lütfen filtre değerlerini genişletiniz.")
@@ -187,20 +195,20 @@ row1_col1, row1_col2 = st.columns(2)
 
 # Görsel 1: Şehir Bazında Net Ciro ve Kâr
 with row1_col1:
-    st.subheader("📊 1. Şehir Bazında Ciro ve Kâr Performansı")
+    st.subheader("1. Şehir Bazında Ciro ve Kâr Performansı")
     df_sorted = df_filtered.sort_values(by="toplam_net_ciro", ascending=True)
     fig_bar = go.Figure()
     fig_bar.add_trace(go.Bar(
         y=df_sorted['sehir_label'],
         x=df_sorted['toplam_net_ciro'],
-        name='Net Ciro (₺)',
+        name='Net Ciro (TL)',
         orientation='h',
         marker_color='#1f77b4'
     ))
     fig_bar.add_trace(go.Bar(
         y=df_sorted['sehir_label'],
         x=df_sorted['toplam_kar'],
-        name='Brüt Kâr (₺)',
+        name='Brüt Kâr (TL)',
         orientation='h',
         marker_color='#2ca02c'
     ))
@@ -208,14 +216,14 @@ with row1_col1:
         barmode='group',
         height=400,
         margin=dict(l=20, r=20, t=30, b=20),
-        xaxis_title="Tutar (₺)",
+        xaxis_title="Tutar (TL)",
         legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1)
     )
     st.plotly_chart(fig_bar, use_container_width=True)
 
-# Görsel 2: AVM Sayısı ile Net Ciro Korelasyonu (İş Sorusu)
+# Görsel 2: AVM Sayısı ile Net Ciro Korelasyonu
 with row1_col2:
-    st.subheader("🎯 2. AVM Sayısı ile Satış Hacmi İlişkisi")
+    st.subheader("2. AVM Sayısı ile Satış Hacmi İlişkisi")
     fig_scatter = px.scatter(
         df_filtered,
         x="avm_sayisi",
@@ -226,7 +234,7 @@ with row1_col2:
         hover_data={"avm_sayisi": True, "toplam_net_ciro": ":,.0f", "kar_marji_yuzdesi": ":.2f%"},
         labels={
             "avm_sayisi": "Şehirdeki AVM Sayısı",
-            "toplam_net_ciro": "Toplam Net Ciro (₺)",
+            "toplam_net_ciro": "Toplam Net Ciro (TL)",
             "bolge_label": "Bölge",
             "nufus_tahmini": "Nüfus"
         },
@@ -242,7 +250,7 @@ row2_col1, row2_col2 = st.columns(2)
 
 # Görsel 3: Bölgelere Göre Ciro Payı
 with row2_col1:
-    st.subheader("🥧 3. Bölgelere Göre Net Ciro Dağılımı")
+    st.subheader("3. Bölgelere Göre Net Ciro Dağılımı")
     df_bolge = df_filtered.groupby('bolge_label', as_index=False)['toplam_net_ciro'].sum()
     fig_pie = px.pie(
         df_bolge,
@@ -260,7 +268,7 @@ with row2_col1:
 
 # Görsel 4: Verimlilik Metrikleri (AVM Başına Net Ciro)
 with row2_col2:
-    st.subheader("⚡ 4. AVM Başına Düşen Net Ciro (Verimlilik)")
+    st.subheader("4. AVM Başına Düşen Net Ciro (Verimlilik)")
     df_eff = df_filtered.sort_values(by="avm_basina_net_ciro", ascending=False)
     fig_eff = px.bar(
         df_eff,
@@ -268,7 +276,7 @@ with row2_col2:
         y="avm_basina_net_ciro",
         color="avm_basina_net_ciro",
         color_continuous_scale="Viridis",
-        labels={"sehir_label": "Şehir", "avm_basina_net_ciro": "AVM Başı Ciro (₺)"}
+        labels={"sehir_label": "Şehir", "avm_basina_net_ciro": "AVM Başı Ciro (TL)"}
     )
     fig_eff.update_layout(
         height=380,
@@ -282,7 +290,7 @@ st.markdown("---")
 # =============================================================================
 # DETAYLI VERİ TABLOSU VE DIŞA AKTARMA (POWER BI / EXCEL ENTEGRASYONU)
 # =============================================================================
-st.subheader("📋 fct_sehir_satis_avm Analitik Veri Tablosu")
+st.subheader("fct_sehir_satis_avm Analitik Veri Tablosu")
 
 display_cols = [
     'sehir_label', 'bolge_label', 'avm_sayisi', 'nufus_tahmini',
@@ -296,22 +304,22 @@ rename_dict = {
     'avm_sayisi': 'AVM Sayısı',
     'nufus_tahmini': 'Nüfus',
     'toplam_siparis_sayisi': 'Sipariş Adedi',
-    'toplam_net_ciro': 'Net Ciro (₺)',
-    'toplam_kar': 'Brüt Kâr (₺)',
+    'toplam_net_ciro': 'Net Ciro (TL)',
+    'toplam_kar': 'Brüt Kâr (TL)',
     'kar_marji_yuzdesi': 'Kâr Marjı (%)',
-    'avm_basina_net_ciro': 'AVM Başı Ciro (₺)',
-    'kisi_basi_net_ciro': 'Kişi Başı Ciro (₺)'
+    'avm_basina_net_ciro': 'AVM Başı Ciro (TL)',
+    'kisi_basi_net_ciro': 'Kişi Başı Ciro (TL)'
 }
 
 st.dataframe(
     df_filtered[display_cols].rename(columns=rename_dict).style.format({
         'Nüfus': '{:,.0f}',
         'Sipariş Adedi': '{:,.0f}',
-        'Net Ciro (₺)': '₺{:,.2f}',
-        'Brüt Kâr (₺)': '₺{:,.2f}',
+        'Net Ciro (TL)': '₺{:,.2f}',
+        'Brüt Kâr (TL)': '₺{:,.2f}',
         'Kâr Marjı (%)': '%{:.2f}',
-        'AVM Başı Ciro (₺)': '₺{:,.2f}',
-        'Kişi Başı Ciro (₺)': '₺{:.4f}'
+        'AVM Başı Ciro (TL)': '₺{:,.2f}',
+        'Kişi Başı Ciro (TL)': '₺{:.4f}'
     }),
     use_container_width=True
 )
@@ -319,7 +327,7 @@ st.dataframe(
 # Power BI veya Excel için CSV indirme butonu
 csv_bytes = df_filtered.to_csv(index=False).encode('utf-8')
 st.download_button(
-    label="📥 Tabloyu CSV Olarak İndir (Power BI / Excel Uyumlu)",
+    label="Tabloyu CSV Olarak İndir (Power BI / Excel Uyumlu)",
     data=csv_bytes,
     file_name="nova_sehir_satis_avm_marts.csv",
     mime="text/csv"
